@@ -1,0 +1,40 @@
+Ces données présentent les séries corrigées des variations saisonnières et des jours ouvrables (CVS-CJO) relatives au marché du travail par département : nombre de demandeurs d'emploi en moyenne sur le trimestre par catégorie et par sexe/âge pour les catégories ABC. 
+
+Les données sont arrondies à la dizaine. De légers écarts peuvent donc apparaître entre la somme des données désagrégées et la série agrégée.
+
+Source
+
+Les données sont issues des fichiers de la statistique mensuelle sur le marché du travail (STMT) de Pôle emploi et de la Dares.
+
+Catégories (Demandeurs d'emploi concernés)
+
+A : Personne sans emploi, tenue d'accomplir des actes positifs de recherche d'emploi, à la recherche d'un emploi quel que soit le type de contrat (CDI, CDD, à temps plein, à temps partiel, temporaire ou saisonnier)
+B : Personne ayant exercé une activité réduite de 78 heures maximum par mois, tenue d'accomplir des actes positifs de recherche d'emploi
+C : Personne ayant exercé une activité réduite de plus de 78 heures par mois, tenue d'accomplir des actes positifs de recherche d'emploi
+D : Personne sans emploi, qui n'est pas immédiatement disponible, et qui n'est pas tenue d'accomplir des actes positifs de recherche d'emploi (demandeur d'emploi en formation, en maladie, etc.)
+E : Personne pourvue d'un emploi, et qui n'est pas tenue d'accomplir des actes positifs de recherche d'emploi
+
+Avertissement
+
+Toutes catégories sauf D et E
+
+    Les évolutions mensuelles des sorties de catégories A, B, C pour défaut d’actualisation sont heurtées depuis plusieurs mois. Selon le mois, cela affecte à la hausse (en cas de baisse des défauts d’actualisation) ou à la baisse (à l’inverse, en cas de hausse des défauts d’actualisation), le nombre de demandeurs d’emploi en catégories A, B, C. Ceci pourrait s’expliquer, au moins en partie, par une sensibilité des comportements d’actualisation au nombre de jours ouvrés dans la période d’actualisation suite au changement du calendrier d’actualisation en janvier 2016 (voir page 7 de la note méthodologique). Il convient donc de privilégier les évolutions en tendance plutôt qu’au mois le mois (voir la note d’aide à l’interprétation des séries mensuelles).
+
+    Ainsi, en janvier et avril 2016, le nombre de sorties de catégories A, B et C pour cessation d’inscription pour défaut d’actualisation a enregistré une hausse inhabituellement forte.
+
+    À l’inverse, en août et novembre 2016, le nombre de sorties de catégories A, B, C pour défaut d'actualisation a enregistré une baisse inhabituellement forte.
+
+    Par contre coup, en février, mars 2016 et septembre 2016, ce nombre est revenu à un niveau plus habituel.
+
+    En mai 2016, le nombre de réinscriptions sur les listes est élevé, à la suite des sorties pour défaut d’actualisation observées en avril 2016. Ceci contribue à la hausse du nombre d’entrées en catégories A, B, C, élevé en mai 2016, et à l’évolution du nombre de demandeurs d’emploi en catégories A, B, C entre avril et mai 2016.
+
+Entrées et Sorties catégories ABC
+
+À compter d’avril 2013, des évolutions du système d’information de Pôle emploi ont permis d’homogénéiser les procédures en cas de manquement d’un demandeur d’emploi et d’alléger la charge administrative des conseillers. Ces évolutions ont pu contribuer à accroître le nombre de radiations administratives. L’ordre de grandeur de cet impact est estimé dans une fourchette de 2 000 à 4 000 radiations mensuelles, prononcées dans la majorité des cas pour une durée de 15 jours. Cet effet est détaillé dans l’encadré 3 de la publication "Demandeurs d’emploi inscrits et offres collectées par Pôle emploi en avril 2014".
+En raison de problèmes techniques, les flux d'entrée ont été surestimés en août, septembre et octobre 2009. Pour octobre, la surestimation est d'environ 2%.
+À compter d'avril 2015, les données STMT sont issues d'une nouvelle chaîne informatique de production. Le traçage des entrées est amélioré : celles qui étaient dues à un changement d’agence locale pour l'emploi au sein d’une même région, sans que la sortie correspondante soit enregistrée, ne sont plus comptabilisées. Le nombre d’entrées est donc désormais légèrement plus faible (d’environ 0,4 %) et l'écart comptable entre la variation du nombre de demandeurs d'emploi en catégories A, B, C et le solde des entrées et des sorties est réduit.
+Depuis fin 2015, des modifications sont apportées aux modalités d’inscription des demandeurs d’emploi à Pôle emploi (refonte des intitulés des motifs d’entrée sur les listes, généralisation de la dématérialisation de l’inscription à Pôle emploi), permettant notamment de mieux retracer les motifs d’inscription. Sans effet sur le total des entrées en catégories A, B, C, elles ont cependant un impact sur la répartition par motif de ces entrées.
+Les radiations administratives étant quasiment nulles en avril et mai 2020, le modèle de correction des variations saisonnières sur ce motif a été adapté. Cette modification entraine des révisions de faible amplitude des sorties des catégories A, B, C de Pôle emploi par motif.
+Couverture
+
+France entière (sauf Mayotte).
