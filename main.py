@@ -9,7 +9,8 @@ from src.pages.description import description_page
 
 from src.components.footer import footer
 from src.utils.get_data import  startDownload
-app = Dash(__name__, suppress_callback_exceptions=True)
+from src.utils.clean_data import starCleaning
+app = Dash(__name__, suppress_callback_exceptions=False)
 app.title = "WStatAnalyser"
 
 # Layout principal
