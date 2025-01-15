@@ -10,9 +10,8 @@ from src.pages.description import description_page
 from src.components.footer import footer
 from src.utils.get_data import  startDownload
 from src.utils.clean_data import starCleaning
-app = Dash(__name__, suppress_callback_exceptions=False)
+app = Dash(__name__, suppress_callback_exceptions=True)
 app.title = "WStatAnalyser"
-
 # Layout principal
 app.layout = html.Div([
     dcc.Location(id="url"),
@@ -22,7 +21,6 @@ app.layout = html.Div([
 ])
 # Register callbacks
 register_callbacks(app)
-
 # Callbacks pour le routage
 @app.callback(
     Output("page-content", "children"),
@@ -38,7 +36,10 @@ def display_page(pathname):
     else:
         return home_page()
     
-
 if __name__ == "__main__":
-
+    if not os.path.exists("data/raw/data_already_downloaded.flag"):  # Vérifie si un fichier indicateur existe
+        startDownload()
+        starCleaning()
+        with open("data/raw/data_already_downloaded.flag", "w") as f:  # Crée un fichier indicateur après le téléchargement
+            f.write("Download completed.")
     app.run_server(debug=True)
