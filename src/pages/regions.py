@@ -22,11 +22,10 @@ if not os.path.exists(output_dir):
 # Liste des départements uniques
 departements = chomage_data['Nom Officiel Département'].unique()
 
-# Itérer sur chaque département
+# Itérer sur chaque département pour générer des fichiers JSON
 for departement in departements:
     # Filtrer les données pour le département
     data_filtered = chomage_data[chomage_data['Nom Officiel Département'] == departement]
-    
     # Créer une structure de données pour JSON
     data_json = []
     for _, row in data_filtered.iterrows():
@@ -37,29 +36,14 @@ for departement in departements:
             "nom_departement": row['Nom Officiel Département'],
             "annee": row['Année']
         })
-    
     # Créer le chemin du fichier JSON pour chaque département
     json_filename = f"{departement}.json"
     json_filepath = os.path.join(output_dir, json_filename)
-    
     # Sauvegarder les données filtrées dans un fichier JSON
     with open(json_filepath, 'w') as json_file:
         json.dump(data_json, json_file, indent=4)
 
     print(f"Fichier généré : {json_filepath}")
-
-def get_non_empty_dirs(directory):
-    non_empty_dirs = []
-    try:
-        if not os.path.exists(directory):
-            raise FileNotFoundError(f"Le répertoire '{directory}' est introuvable.")
-        for subdir in os.listdir(directory):
-            full_path = os.path.join(directory, subdir)
-            if os.path.isdir(full_path) and os.listdir(full_path):
-                non_empty_dirs.append(subdir)
-    except Exception as e:
-        print(f"Une erreur est survenue : {e}")
-    return non_empty_dirs
 
 # Initialisation Dash
 app = Dash(__name__)
@@ -92,39 +76,34 @@ def regions_page():
 app.layout = regions_page()
 
 # Callback pour mettre à jour chaque graphique individuellement
-# Callback pour mettre à jour chaque graphique individuellement
 def register_callbacks(app):
-    non_empty_directories = get_non_empty_dirs("data/cleaned")
-    colors = ["rgb(128, 181, 254)", "rgb(255, 128, 189)", "rgb(255, 152, 16)", "rgb(27, 102, 152)"]
-
-    # Boucle pour gérer les graphiques dynamiques
     @app.callback(
         Output("dynamic-graph1", "figure"),
         [Input("department-selector", "value"), Input("graph-type-selector", "value")]
     )
     def update_graph(departement, graph_type):
         # Charger les données filtrées pour le département
-        data_path = f"data/cleaned/{departement}.json"  
+        data_path = f"data/cleaned/{departement}.json"
         data = pd.read_json(data_path)
-        
-        # Trier les données par la colonne "periodes" pour l'ordre chronologique
-        data_sorted = data.sort_values(by='periodes')  # Trier par la colonne "periodes"
-        
+
+        # Agrégation des données par année
+        data_aggregated = data.groupby(['annee']).agg({'nombre_demandeur_emploi': 'mean'}).reset_index()
+
+        # Créer un graphique en fonction du type
         if graph_type == "bar":
-            fig = px.bar(data_sorted, x="periodes", y="nombre_demandeur_emploi", title=f"Chômage - {departement}", height=400)
+            fig = px.bar(data_aggregated, x="annee", y="nombre_demandeur_emploi", title=f"Chômage - {departement}", height=400)
         else:
-            fig = px.line(data_sorted, x="periodes", y="nombre_demandeur_emploi", title=f"Chômage - {departement}", height=400)
+            fig = px.line(data_aggregated, x="annee", y="nombre_demandeur_emploi", title=f"Chômage - {departement}", height=400)
 
         fig.update_layout(
-            xaxis_title="Période",
+            xaxis_title="Année",
             yaxis_title="Nombre de demandeurs d'emploi",
             template="plotly_white"
         )
         return fig
 
-app = Dash(__name__)
 app.layout = regions_page()
 register_callbacks(app)
+
 if __name__ == "__main__":
     app.run_server(debug=True)
-
