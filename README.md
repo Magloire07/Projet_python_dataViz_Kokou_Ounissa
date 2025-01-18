@@ -1,10 +1,16 @@
 
 # Infos sur de projet Mdpol&Emploi
-
+![MDPOL&EMPLOI](/assets/dashboard.png)
 
 
 ## User Guide
 
+### installation des dépenddances 
+`$ python -m pip install -r requirements.txt`
+###  Premier lancement du projet
+Si le repertoires  `data/cleanded` est vide alors assurez-vous de suprimer s'il existe, le fichier `data_already_downloaded.flag` avant le lancer le projet
+### lancement du projet (`python>=3.0`)
+`$ python main.py`
 
 
 ##  Data
@@ -40,7 +46,25 @@
 
 
 ## Developer Guide
+- l'ajout d'un graphe se fait dans le fichier `src/pages/graph.py` en rajoutant à la methode `graph_page()` le composant du graphe 
+- Pour ajouter une page il faut rajouter le fichier .py   au  repertoire `src/pages` puis l'importé dans le `main.py` sans oublié de rajouter le chemin de routage  à la structure conditionnelle  écrite a ce effet. Le fichier `src/components/navbar.py permet d'ajouter la page dans une liste non ordonnée.
 
+```mermaid
+graph TB
+  SubGraph1 --> SubGraph1Flow
+
+  subgraph "SubGraph 1 Flow"
+    SubGraph1Flow(SubNode 1)
+    SubGraph1Flow -- Choice1 --> DoChoice1
+    SubGraph1Flow -- Choice2 --> DoChoice2
+  end
+
+  subgraph "Main Graph"
+    Node1[Node 1] --> Node2[Node 2]
+    Node2 --> SubGraph1[Jump to SubGraph1]
+    SubGraph1 --> FinalThing[Final Thing]
+  end
+```
 
 
 
@@ -64,13 +88,9 @@ Il y a donc une disparité disproportionnelle dans la repartion des offres d'emp
 
 
 ## Copyright 
-
+ c Nous déclarons sur l’honneur que le code fourni a été produit par nous, master et contributeurs du depôt git ci contre 
+https://github.com/Magloire07/Projet_python_dataViz_Kokou_Ounissa.git
 .
 
-# génération des dépendances 
-`$ python -m pip freeze > requirements.txt`
-# installation des dépenddances 
-`$ python -m pip install -r requirements.txt`
-# lancement du projet 
-`$ python3 main.py`
+
 

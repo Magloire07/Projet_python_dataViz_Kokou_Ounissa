@@ -1,0 +1,9 @@
+host="127.0.0.1"
+port=8050
+debug=False
+suppress_callback_exceptions= True
+titre="MDPOL&EMPLOI"
+use_reloader=True
+use_debugger=False
+dev_tools_ui=False,    
+dev_tools_hot_reload=False   
