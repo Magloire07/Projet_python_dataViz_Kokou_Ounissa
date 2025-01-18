@@ -92,6 +92,7 @@ def regions_page():
 app.layout = regions_page()
 
 # Callback pour mettre à jour chaque graphique individuellement
+# Callback pour mettre à jour chaque graphique individuellement
 def register_callbacks(app):
     non_empty_directories = get_non_empty_dirs("data/cleaned")
     colors = ["rgb(128, 181, 254)", "rgb(255, 128, 189)", "rgb(255, 152, 16)", "rgb(27, 102, 152)"]
@@ -105,11 +106,14 @@ def register_callbacks(app):
         # Charger les données filtrées pour le département
         data_path = f"data/cleaned/{departement}.json"  
         data = pd.read_json(data_path)
-
+        
+        # Trier les données par la colonne "periodes" pour l'ordre chronologique
+        data_sorted = data.sort_values(by='periodes')  # Trier par la colonne "periodes"
+        
         if graph_type == "bar":
-            fig = px.bar(data, x="periodes", y="nombre_demandeur_emploi", title=f"Chômage - {departement}", height=400)
+            fig = px.bar(data_sorted, x="periodes", y="nombre_demandeur_emploi", title=f"Chômage - {departement}", height=400)
         else:
-            fig = px.line(data, x="periodes", y="nombre_demandeur_emploi", title=f"Chômage - {departement}", height=400)
+            fig = px.line(data_sorted, x="periodes", y="nombre_demandeur_emploi", title=f"Chômage - {departement}", height=400)
 
         fig.update_layout(
             xaxis_title="Période",
