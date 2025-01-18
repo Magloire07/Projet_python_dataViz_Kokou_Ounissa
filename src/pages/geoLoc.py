@@ -1,3 +1,4 @@
+
 import pandas as pd
 import plotly.express as px
 from dash import dcc, html
@@ -25,3 +26,63 @@ def map_page():
         html.H1("Localisation spaciale ", style={"text-align": "center"}),
         dcc.Graph(figure=fig)
     ])
+
+
+
+"""
+import pandas as pd
+import plotly.express as px
+from dash import dcc, html , Dash
+
+def map_page():
+    try:
+        # Charger les données des communes
+        communes_df = pd.read_json("data/cleaned/communes_reduit.json")
+        
+        # Charger les données du chômage
+        chomage_df = pd.read_csv("data/raw/labouref-france-departement-quarter-jobseeker.csv", sep=";")
+        
+        # Convertir les colonnes 'dep_code' et 'Code Officiel Département' en string pour éviter les erreurs de fusion
+        communes_df['dep_code'] = communes_df['dep_code'].astype(str)
+        chomage_df['Code Officiel Département'] = chomage_df['Code Officiel Département'].astype(str)
+        
+        # Fusionner les deux DataFrames sur les codes de départements
+        merged_df = pd.merge(communes_df, chomage_df, left_on='dep_code', right_on='Code Officiel Département', how='left')
+        
+        # Calculer le taux de chômage en pourcentage de la population
+        merged_df['taux_chomage'] = (merged_df['Nb moyen demandeur emploi'] / merged_df['population']) * 100
+        
+        # Préparer les données pour la carte
+        fig = px.scatter_mapbox(
+            merged_df,
+            lat="latitude_centre",
+            lon="longitude_centre",
+            color="taux_chomage",
+            hover_name="dep_nom",
+            hover_data=["taux_chomage", "population"],
+            zoom=5,
+            title="Carte de géolocalisation et taux de chômage par commune",
+            height=850
+        )
+        
+        # Choisir le style de carte
+        fig.update_layout(mapbox_style="open-street-map")
+        
+        # Créer la page avec le graphique
+        return html.Div([
+            html.H1("Localisation spatiale et taux de chômage", style={"text-align": "center"}),
+            dcc.Graph(figure=fig)
+        ])
+    
+    except Exception as e:
+        # Gestion des erreurs simples pour afficher ce qui ne va pas
+        print("Erreur:", e)
+        return html.Div([html.H1("Une erreur est survenue. Voir la console pour plus d'informations.")])
+
+app = Dash(__name__)
+app.layout = map_page()
+
+if __name__ == "__main__":
+    app.run_server(debug=True)
+
+    """
