@@ -18,6 +18,6 @@ def description_page():
         html.H1("DESCRIPTION DES CATÉGORIES ", style={"textAlign": "center","color":"#30495a"}),
         html.Div([
             html.P(line, style={"whiteSpace": "pre-wrap", "margin": "5px 0"}) for line in lines
-        ], style={"padding": "20px", "fontFamily": "Arial, sans-serif"},className="descr")
+        ], style={"padding": "20px", "fontFamily": "Arial, sans-serif"},className="infopage")
     ])
 

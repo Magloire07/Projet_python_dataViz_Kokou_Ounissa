@@ -64,13 +64,13 @@ def graph_page():
             #options
         html.Div([
              html.H2("DEDUCTION", style={"text-align": "center", "margin-bottom": 20,"color":"#30495a"}),
-             html.H3("remarque1", style={"text-align": "center", "margin-bottom": 20}),
+             html.H3("Emmanuel Macron", style={"text-align": "center", "margin-bottom": 20}),
              html.P( "En cinq ans le chômage est passé de 9,5% de la population active à 7,4%, avec un mandat toujours encours ",className="com"),
-             html.H3("remarque2", style={"text-align": "center", "margin-bottom": 20}),
+             html.H3("Nicolas Sarkozy", style={"text-align": "center", "margin-bottom": 20}),
              html.P( "Confronté à la crise des subprimes, le mandat de Nicolas Sarkozy a vu le chômage passer de 8,1 à 9,5% de la population active",className="com"),
-             html.H3("remarque3", style={"text-align": "center", "margin-bottom": 20}),
+             html.H3("François Hollande", style={"text-align": "center", "margin-bottom": 20}),
              html.P( "Le mandat François Hollande n'aura pas donné lieu à une baisse spectaculaire",className="com"),
-             html.H3("remarque4", style={"text-align": "center", "margin-bottom": 20}),
+             html.H3("Jacques Chirac", style={"text-align": "center", "margin-bottom": 20}),
              html.P("La France connaît au début du quinquennat Chirac un taux de chômage supérieur à 10%. La baisse entamée en 1998 se poursuit durant la cohabitation et passe sous la barre des 8% en 2001", className="com"),
 
         ],className="options"),
@@ -113,7 +113,6 @@ def graph_page():
         # Deuxième groupe pour le deuxième graphique
         html.Div([
         dcc.Graph(id="dynamic-graph2"),
-        html.P("Catégories pour Graphique 2", style={"text-align": "center"}),
         html.Div([
             dcc.Dropdown(
             id="graph2-selector",

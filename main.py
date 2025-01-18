@@ -5,8 +5,8 @@ import src.components.navbar as navbar
 from src.pages.home import home_page
 from src.pages.graph import graph_page , register_callbacks
 from src.pages.geoLoc import map_page
-from src.pages.regions import regions_page , register_callbacks
-from src.pages.description import description_page
+from src.pages.regions import regions_page ,register_callbacks2,cleanDataByDept
+from src.pages.description import description_page 
 from src.components.footer import footer
 from src.utils.get_data import  startDownload
 from src.utils.clean_data import starCleaning
@@ -21,6 +21,10 @@ app.layout = html.Div([
 ])
 # Register callbacks
 register_callbacks(app)
+
+# Register callbacks2
+register_callbacks2(app)
+
 # Callbacks pour le routage
 @app.callback(
     Output("page-content", "children"),
@@ -42,6 +46,7 @@ if __name__ == "__main__":
     if not os.path.exists("data/raw/data_already_downloaded.flag"):  # Vérifie si un fichier indicateur existe
         startDownload()
         starCleaning()
+        cleanDataByDept()
         with open("data/raw/data_already_downloaded.flag", "w") as f:  # Crée un fichier indicateur après le téléchargement
             f.write("Download completed.")
     app.run_server(debug=True)
