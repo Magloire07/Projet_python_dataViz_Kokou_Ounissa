@@ -257,19 +257,19 @@ def register_callbacks4(app):
         with open(f"data/cleaned/coupleDeptCode.json", "r") as f:
             coupleDeptCode = json.load(f)
 
-        # Calculer et ajout de la colonne la dansité
+        # Calculer et ajout de la colonne la densité
         somme = sum(data["population_moy"])
-        data['dansite'] = data["population_moy"].apply(lambda x: (x * 100) / somme)
+        data['densite'] = data["population_moy"].apply(lambda x: (x * 100) / somme)
 
         # Appliquer un seuil pour regrouper les petites valeurs
         seuil = 2  # Pourcentage minimum pour afficher un département
-        autres = data[data['dansite'] < seuil]['dansite'].sum()
+        autres = data[data['densite'] < seuil]['densite'].sum()
         
         # Filtrer les labels et valeurs
-        labels_filtrés = data[data['dansite'] >= seuil]['code_dept'].tolist()
+        labels_filtrés = data[data['densite'] >= seuil]['code_dept'].tolist()
         labels_filtrés.append("Autres")
         
-        valeurs_filtrées = data[data['dansite'] >= seuil]['dansite'].tolist()
+        valeurs_filtrées = data[data['densite'] >= seuil]['densite'].tolist()
         valeurs_filtrées.append(autres)
 
         labels_filtrés = [coupleDeptCode.get(code, code) for code in labels_filtrés]  # Remplace avec le nom du département ou "Autres"
@@ -280,14 +280,14 @@ def register_callbacks4(app):
             go.Pie(
                 labels=labels_filtrés,
                 values=valeurs_filtrées,
-                name="Dansité",
+                name="Densité",
                 hole=0.6,
                 textinfo="label+percent",
                # pull=[0.1 if label == "Autres" else 0 for label in labels_filtrés]
             )
         )
         fig2.update_layout(
-            title_text="Dansité population par département",
+            title_text="Densité population par département",
             annotations=[dict(text="DAP", x=0.5, y=0.5, font_size=10, showarrow=False)],
             showlegend=True,
         )
