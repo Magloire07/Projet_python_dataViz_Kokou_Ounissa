@@ -68,9 +68,9 @@ Il y a donc une disparité disproportionnelle dans la repartion des offres d'emp
 .
 
 # génération des dépendances 
-$ python -m pip freeze > requirements.txt
+`$ python -m pip freeze > requirements.txt`
 # installation des dépenddances 
-$ python -m pip install -r requirements.txt
+`$ python -m pip install -r requirements.txt`
 # lancement du projet 
-$ python3 main.py 
+`$ python3 main.py`
 
