@@ -1,0 +1,7058 @@
+[
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 5380,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 5520,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 5900,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 10500,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 33920,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 35700,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 33430,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 43100,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 6890,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 7950,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 19350,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 50290,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 53350,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 11240,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 10670,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 10100,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 12840,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 14620,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 15610,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 22420,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 4400,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 4650,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 5210,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 1660,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 3050,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 10750,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 9650,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 10520,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 32490,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 4790,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 6820,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 6780,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 14030,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 19190,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 7910,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 7570,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 6910,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 10660,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 9670,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 8260,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 5240,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 4310,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 5480,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 5030,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 31320,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 29390,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 44150,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 39150,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 48960,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 41100,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 46430,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 51750,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 72950,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 73400,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 71250,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 71340,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 37030,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 28720,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 28080,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 6250,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 7380,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 8040,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 10410,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 10450,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 35760,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 43990,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 42480,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 7380,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 10390,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 11190,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 7260,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 7610,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 14380,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 32990,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 41910,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 40420,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 7620,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 8040,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 11070,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 12250,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 13170,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 13750,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 22710,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 23850,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 5760,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 5980,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 7230,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 9340,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 9980,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 10560,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 10670,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 9500,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 49520,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 48700,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 41640,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 51510,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 73520,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 66490,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 3070,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 4010,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 5310,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 5150,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 5340,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 4920,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 4720,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 2170,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 2600,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 4140,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 4180,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 5470,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 31200,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 36050,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 40680,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 44380,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 7710,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 7850,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 11170,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 8730,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 9190,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 29200,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 32830,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 35020,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 50140,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 46540,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 54750,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 73730,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 7250,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 10210,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 10830,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 10640,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 13960,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 15060,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 22460,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 8050,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 50270,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 28790,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 32800,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 34730,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 44810,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 7080,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 6650,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 9370,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 13490,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 15350,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 17670,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 11110,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 10620,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 8350,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 53040,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 47740,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 71160,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 72770,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 6310,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 8060,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 9800,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 10630,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 10750,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 7180,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 11300,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 13510,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2780,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 5950,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2760,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2780,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 3650,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 4160,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 5300,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 8280,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 9840,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 8540,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 10480,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 11440,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 10080,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 45720,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 66310,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 29500,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 42490,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 43920,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 40460,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 39160,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 38770,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 42390,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 44620,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 10940,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 11360,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 9600,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 17840,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 19590,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 21520,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 22860,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 22370,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 4570,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 4690,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 5180,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 5520,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 6270,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 6350,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 7310,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 7460,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 7660,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 10680,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 17110,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 5610,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 7560,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 49090,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 53550,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 46780,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 52580,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 62370,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 66770,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 66670,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 6460,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 8590,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 10110,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 10980,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 10400,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 9010,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1660,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 5050,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 4130,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 4330,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 33200,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 10640,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 10400,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 9880,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 9730,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 36130,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 25220,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 32590,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 40350,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 32670,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 6980,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 7110,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 8220,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 10510,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 10530,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 11230,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 20940,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 2740,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 3620,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 4200,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 4550,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 5090,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 32890,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 36760,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 4270,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 5760,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 8720,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 15620,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 10940,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 10520,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 40360,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 37890,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 34160,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 27460,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 33340,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 7460,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 18320,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 19050,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 19930,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 18790,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 51360,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 47460,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 43420,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 72950,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 72570,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 11250,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 9240,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 11220,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 10400,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 9200,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 37120,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 30440,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 24800,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 6010,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 6080,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 6830,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 7270,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 7140,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 7000,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 8570,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 10030,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 9660,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 8140,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 13790,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 3160,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 4020,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 5280,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 4970,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 5010,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 5880,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 32980,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 34060,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 41660,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 44190,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 2540,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2080,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1750,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 7100,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 10640,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 8750,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 22500,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 23170,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 6050,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 18700,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 18730,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 47010,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 50940,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 66560,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 10620,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 11280,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 10340,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2120,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 28230,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 40460,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 42430,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 33900,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 5520,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 7660,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 11010,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 18740,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 19040,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 19760,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 2570,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 5140,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 3720,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 4040,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 4980,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 32190,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 31630,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 43330,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 37860,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 7750,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 8390,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 47950,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 66030,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 69200,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 66000,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 8810,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 11740,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 10130,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 9150,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 22180,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 36450,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 33480,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 26890,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 44270,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 5110,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 6440,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 7460,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 10580,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 34350,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 37320,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 31450,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 30340,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 30430,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 39710,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 42060,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 36800,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 31700,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 32080,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 31220,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 30740,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 39740,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 7690,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 10950,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 8950,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 8850,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 6950,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 9520,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 10600,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 8140,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 48930,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 44400,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 42680,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 54020,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 61500,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 71910,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 76280,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 73240,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 2710,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 5180,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 4790,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 5770,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 4630,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 4900,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 10850,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 10830,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 5950,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 10040,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 10420,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 8850,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 7080,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 8270,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 10500,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 9560,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 10230,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 6990,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 7590,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 6900,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 7470,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 9680,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 17190,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 19040,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 19000,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 10480,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 51890,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 72610,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 73670,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 43530,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 36180,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 30430,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 32270,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 40980,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 43400,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 40970,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 4410,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 5050,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1760,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 3420,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 5270,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 5100,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 4990,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 10040,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 11720,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 22420,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 35050,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 30250,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 6880,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 10020,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 54420,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 56020,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 64230,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 11460,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 9230,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 8320,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 17160,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 23190,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 23280,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 6220,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 7700,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 10660,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 2080,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 2960,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 3890,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2700,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 5100,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 6030,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 5890,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 9950,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 8590,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 8830,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 9040,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 8970,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 8900,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 32750,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 33310,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 41090,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 33530,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 22260,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 23840,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 4850,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 6920,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 9450,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 2530,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 3160,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 4360,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 2600,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 1790,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 5670,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 5340,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 5150,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 31000,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 33660,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 37110,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 40060,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 38880,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 7880,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 7070,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 8520,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 8730,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 10540,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 9940,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 10440,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 52630,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 51720,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 45740,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 42440,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 73250,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 66600,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 34920,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 31570,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 26310,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 41300,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 42770,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 28720,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 41540,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 39970,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 35870,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 38290,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 44680,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 44060,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 42480,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 39180,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 39230,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 10050,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 45720,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 63970,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 68160,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 73530,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 73500,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 71930,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 69220,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 67700,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 2690,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2290,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1750,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 3850,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 4890,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 6010,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 7760,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 8640,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 10480,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 10290,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 10660,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 9970,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 10550,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 10070,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 10560,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 11410,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 12090,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 12020,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 5110,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 6390,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 16910,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 5980,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 6620,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 7440,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 7540,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 10100,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 10060,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 28810,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 29370,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 26120,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 41730,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 44000,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 40660,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 39550,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 10520,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 13240,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 20540,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 21660,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 22760,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 23300,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 23460,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 6510,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 6580,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 10350,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 18140,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 19790,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 32000,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 26820,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 44460,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 43350,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 9340,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 7090,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 9050,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 46400,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2420,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 5180,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 3680,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 5500,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 5620,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 4880,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 10910,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 10110,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 9220,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 8410,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 22530,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 23570,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 2420,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 3180,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 4220,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 2670,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 1840,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1610,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 5990,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 4920,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 5260,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 33150,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 31760,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 27870,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 33410,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 44630,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 45390,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 39960,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 9710,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 36640,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 36940,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 39160,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 6040,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 6950,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 6990,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 4390,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 6400,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 13740,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 51870,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 46250,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 10970,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 8890,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 8170,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 8980,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 9020,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 10720,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 10750,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 11110,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 8590,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 6540,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 6800,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 14740,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 16160,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 16630,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 17980,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 18610,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 18930,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 18990,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 30420,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 33450,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 52850,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 3330,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3680,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 4110,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 4390,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 4300,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 5070,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 4260,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 4550,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2580,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 1620,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2540,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 5710,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 37030,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 29690,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 40700,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 9970,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 10010,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 10740,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 35650,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 32440,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 30740,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 39760,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 10610,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 8900,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 10610,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 8390,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 37450,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 30460,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 27180,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 32800,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 35710,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 38530,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 41440,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 33460,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 6350,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 11360,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 12380,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 17340,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 18420,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2510,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 3060,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 3000,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 4260,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 3950,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 1630,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 4940,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 5170,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 5710,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 10400,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 16270,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 22690,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 5490,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 10580,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 9970,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 10590,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 47750,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 48970,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 46900,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 73150,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 9880,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 12070,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 18730,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 7700,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 10170,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 10170,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 9630,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 9950,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 4290,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 4890,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 34550,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 30420,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 31980,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 30350,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 27810,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 28950,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 35310,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 44240,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 43710,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 9890,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 8650,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 6990,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 51430,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 57410,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 73700,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 7570,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 7250,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 19000,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 32430,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 26590,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 29920,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 40420,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 32710,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 32640,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 36280,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 30630,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 28240,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 44530,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 44500,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 9540,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 7330,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 48390,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 37040,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 37310,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 31040,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 32210,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 32490,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 41070,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 40440,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 9220,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 18100,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 4970,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 6730,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 19880,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2530,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 3940,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 4250,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 4680,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 6020,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 5040,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 50810,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 52020,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 51800,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 73280,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 39730,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 8920,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 11150,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 10010,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 37250,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 33940,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 30910,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 6260,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 18440,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 7280,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 9980,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 10020,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 10430,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 7320,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 7100,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 12820,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 18970,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 3400,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 4500,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 5290,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 4810,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 5430,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 9500,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 9000,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 9770,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 10810,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 8860,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 37250,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 29530,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 31830,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 32250,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 37190,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 32710,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 36570,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 28450,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 31580,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 39290,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 38910,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 4250,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 4490,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 6780,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 6830,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 6660,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 52650,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 50340,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 48280,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 72500,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 32960,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 42950,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 11360,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 9930,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 9010,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 17220,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 6660,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 9050,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 13080,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 18470,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 6360,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 6090,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 10370,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 9390,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 9930,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 8850,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 8700,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 37250,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 29270,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 32590,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 43650,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 40740,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 4250,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 5410,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 5050,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 4980,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 4620,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 9320,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 9590,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 12670,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 5680,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 9040,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 10300,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 49660,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 40460,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 65060,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 72760,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 5180,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 4540,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 4420,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 5280,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 5350,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 1620,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 5090,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 6120,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 4990,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 8560,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 7400,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 8560,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 8750,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 9540,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 9830,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 59370,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 71090,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 2660,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 4340,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 4900,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 4700,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 33700,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 32390,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 33800,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 44590,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 11000,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 10930,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 10420,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 8880,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 9310,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 7880,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 32700,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 42460,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 7160,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 8360,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 11850,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 1620,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 5020,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 5900,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 4640,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 31050,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 31830,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 42040,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 5280,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 7600,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 7740,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 19920,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 19650,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 19120,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 10980,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 8850,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 9240,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 8940,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 10610,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 11250,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 10570,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 48380,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 50940,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 49740,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 46960,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 42030,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 43920,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 50350,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 74380,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 6510,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 8370,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 10530,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 10470,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 22770,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 21650,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 34170,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 39020,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 3980,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 4650,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 5100,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 5220,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 35460,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 30720,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 33680,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 34420,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 43560,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 44640,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 4630,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 7870,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 7790,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 15040,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 19830,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 8280,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 7380,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 9190,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 9340,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 10520,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 10970,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 8390,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2023
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 25510,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 24900,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 31020,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 40820,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 38750,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2019
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 11060,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 23010,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 23670,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 5760,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 5930,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 7540,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 7670,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2009
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 45500,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 51110,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 64110,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 66450,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 3160,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 4570,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2480,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 5190,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 5540,
+        "code_departement": "29",
+        "nom_departement": "Finist\u00e8re",
+        "annee": 2018
+    }
+]

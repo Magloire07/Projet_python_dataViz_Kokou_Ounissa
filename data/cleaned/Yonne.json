@@ -1,0 +1,7058 @@
+[
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 3320,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 3180,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 3820,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 3820,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 12310,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 10210,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 9530,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 15430,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 2710,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 3200,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2540,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 4340,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 6700,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 6900,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 6830,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 6720,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 19420,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 16500,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 17220,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 21710,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 26450,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 25250,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 23990,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 23710,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 23430,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2830,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 900,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 520,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 1150,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 870,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 1060,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 1340,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 1630,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 1730,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 3530,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 13400,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 11290,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 11840,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 9530,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 14870,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 16280,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 16970,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 2570,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2770,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 4130,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 3850,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 3820,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 4010,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 3960,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 900,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 1270,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 1470,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 11250,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 14910,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 15730,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 15770,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 3610,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 5200,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 8200,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 15650,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 12050,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 16050,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 3400,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 3520,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 11740,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 13900,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 3270,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 4210,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 3090,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 6930,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 15600,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 12340,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 13030,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 4980,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2350,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 3520,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 21100,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1450,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 660,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 1350,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 1300,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 680,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 570,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 1140,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 1200,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 1280,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 1050,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 13500,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 10720,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 14710,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 15740,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 6560,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 6850,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 6740,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 4600,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 3270,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 15480,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 11120,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 13010,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 12750,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 12810,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 9990,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 21430,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 16650,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 15880,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 25170,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 26240,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 26350,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 25870,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 3400,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 4020,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 3800,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 7740,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 7540,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 2140,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 3560,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 3660,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 3780,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 770,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 900,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 1560,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 17960,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 13840,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 13680,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 12400,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 13910,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 14780,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 3080,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 4550,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 5490,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 6110,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 4330,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 3870,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 19880,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 18070,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 17280,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 17310,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 26720,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 25480,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2590,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 3260,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 3560,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 4120,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 5660,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 6010,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1280,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 1110,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 780,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1060,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 1350,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 4790,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 3550,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 3660,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 4230,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 4340,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 19030,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 18320,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 26520,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 26200,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 26240,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 11120,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 15470,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 14850,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 10420,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 10630,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 14000,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 3650,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 7270,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 7940,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2990,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 5220,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1180,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 770,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 1280,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 670,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 760,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 1110,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 1230,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 1480,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 1630,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 1740,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 2290,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2540,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2590,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 3440,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2670,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3240,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 3580,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 6740,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 6680,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1780,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 3410,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 3780,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 15250,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 20670,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 26450,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 3590,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 4320,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 7280,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 1280,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 1170,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 1140,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 1130,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 860,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 1360,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 11780,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 15380,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 3880,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 4180,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 3700,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 10510,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 13130,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 10540,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 9350,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 10790,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 12840,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 16230,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 16790,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2430,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 3520,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 3910,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 3330,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 6100,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 1210,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 870,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 1470,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 1430,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 1400,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 1700,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 12580,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 12490,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 11000,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 9610,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 11610,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 15440,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 15730,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 15760,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 15750,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 2830,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2960,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 4860,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 4270,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 4380,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 4470,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 24370,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 26580,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 26090,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 24610,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 13420,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 15850,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 10500,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 10640,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 14790,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 3020,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 6630,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 6600,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 20830,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 21640,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 16780,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 18980,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 25630,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 3900,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 3560,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 3820,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 16240,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2290,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2460,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2850,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 2960,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 3650,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 4820,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 5060,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 7390,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 7450,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 7590,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 560,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 630,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 1100,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 700,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 760,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 770,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 1430,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 1270,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 1400,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 1650,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 10070,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 11310,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 13180,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 15720,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 13900,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 860,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 590,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 1020,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 960,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2290,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2450,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2450,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 4750,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 4870,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 5090,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 8120,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 3220,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 5360,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 6380,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 6900,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 16850,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 17660,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 16050,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 19130,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 20780,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 24700,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 26550,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 3840,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 3100,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 15640,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 11550,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 15870,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 3740,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 5990,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 6480,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 6930,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1820,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 1160,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 10570,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 16980,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 14470,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 14840,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 4960,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 3780,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 3520,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 4280,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 3880,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 20990,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 17350,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 18220,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 15300,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 22030,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 3340,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 5320,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 7440,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 710,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 720,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 1280,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 12990,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 13760,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 11380,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 11900,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 12030,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 2140,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 3170,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 3660,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 12930,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 12010,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 14650,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 15010,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 12890,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 10060,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 13420,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 16480,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 12460,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 6900,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 7160,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 4510,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 3390,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 3250,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 3120,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 3400,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 3970,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 4160,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 19800,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 19940,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 610,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 650,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 1370,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 1130,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 1310,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 1060,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 1150,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 2970,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 7150,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 2830,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 3890,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 3640,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2430,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2690,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 3170,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 3490,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 2820,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 3100,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 7160,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 6840,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 6750,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 4130,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 4420,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 21400,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 23920,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 15840,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 15310,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 16310,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 13340,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 14300,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 15250,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 15400,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 15500,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1890,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 860,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 1210,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 1150,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 5410,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 5510,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 7440,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 900,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 13830,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 10850,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 15600,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 15440,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 15620,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 2880,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 7040,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 21330,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 18120,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 19380,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 26410,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 26480,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 4370,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 3390,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 3970,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 6070,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 6930,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 7800,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 8260,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 3490,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 920,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 1010,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 1350,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 1730,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 4020,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 4010,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 15150,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 12250,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 10010,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 16810,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 12420,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 4070,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 6830,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2690,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2710,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 730,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 610,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 1020,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 1180,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 1350,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 1360,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 12820,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 9660,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 5430,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 3750,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 3920,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 4420,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 3900,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 20150,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 15070,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 24450,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 26590,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 25090,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 23840,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 14310,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 10510,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 12140,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 16240,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 14870,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 12780,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 16390,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 17120,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 15010,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 12560,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 13960,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 4910,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 3030,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 17270,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 16450,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 23520,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 1240,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 1200,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 780,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 1280,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 2290,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2710,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 3310,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 3690,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 3720,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 3990,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 5710,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 7070,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 3360,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 3780,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 13070,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 12520,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 14780,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 4320,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 3110,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 4450,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 4880,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 6920,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 2650,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 11150,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 10630,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 9780,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 15770,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 15770,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 13710,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 4430,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 3620,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 3660,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 4000,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 3530,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 3120,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 20770,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 16180,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 19620,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 16100,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 680,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 1080,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 1280,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 1340,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 3070,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 3660,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 4030,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 7290,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 5390,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 850,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1330,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 960,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 1080,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 580,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 1340,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 15130,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 4480,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 3490,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 4120,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 3810,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 11450,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 16870,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 15640,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 13860,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 2830,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 3630,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 5520,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 6920,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 18600,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 4810,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 4090,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 3790,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 3030,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 4440,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 3900,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 3790,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 2970,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 3370,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 6090,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 6620,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 13650,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 10920,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 12870,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 13870,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 21080,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 15020,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 18810,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 19380,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 25020,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 25890,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 26400,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 26660,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 1130,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 640,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 710,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 900,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 1370,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 1370,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 15490,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 15860,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 10790,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 13440,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 13480,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2500,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2590,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2390,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 3600,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 3000,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 5160,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 13070,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 12670,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 11640,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 12060,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 11870,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 12660,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 13490,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 14630,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 15790,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 15700,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 14370,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 4030,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 3900,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 14040,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 16040,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 14950,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 12280,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 2450,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 6870,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 6940,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 6710,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 870,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 850,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 760,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 1470,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 1700,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2990,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 3100,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 7610,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2480,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 20280,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 21450,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 18790,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 24480,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 26120,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 3680,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 3810,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2740,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 3600,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 2580,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 3900,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 3920,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 780,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 940,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 1160,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 1170,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 1270,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 730,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 540,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 530,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 480,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 1020,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 14990,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 3950,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 16800,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 20330,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 3070,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 3310,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 6270,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 6920,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 11990,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 10890,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 11950,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 12950,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 15040,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 13730,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 11220,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 10850,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 11620,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 10260,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 12410,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 14620,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 15920,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 15370,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 15620,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2750,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 3700,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 3000,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 3320,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 4000,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 4110,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 4270,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 3640,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 18520,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 17700,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 24630,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 26390,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 26570,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 12350,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 9540,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 12690,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 15320,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 15180,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 15090,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 13130,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 12240,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 7270,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 7720,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 7650,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 2750,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 3250,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 3900,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1270,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 620,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 880,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 900,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 830,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 1160,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 1250,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 1700,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 1110,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 1270,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 1440,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 1550,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 22610,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 26420,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 26530,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 12360,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 12520,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 15170,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 4780,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 3870,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 4000,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 3980,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 3970,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 4200,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 3860,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 3220,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 16000,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 2830,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 3880,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 4560,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 6120,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 2300,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 3500,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 3600,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 6960,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 1050,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 870,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 1220,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 5040,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 4050,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 3820,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 12810,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 13570,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 10660,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 12680,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 13860,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 4030,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 6940,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 20160,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 23350,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 11860,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 13050,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 3810,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 5900,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 7510,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2540,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 4720,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 5900,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2710,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 3660,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 5100,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 3700,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 3090,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 13310,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 14200,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 16710,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 730,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 920,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 3840,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 3210,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 3400,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 6670,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2290,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 3560,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 20080,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 16790,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 21180,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 26610,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 790,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 1290,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 1440,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 3420,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 6430,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 19590,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 19600,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 1140,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 13770,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 13780,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 15440,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 4660,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 15020,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 6520,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 6940,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1630,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 690,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 1330,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 15250,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 12580,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 13160,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 13640,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 16280,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 3390,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 6900,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 4310,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 3400,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 18630,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 18740,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 23910,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 25830,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 23780,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 2300,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 3060,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 3700,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 3400,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 3710,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 3710,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 4710,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 7710,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 12160,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 12330,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 14760,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 600,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 550,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 690,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 880,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 10670,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 3070,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 5020,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 4880,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 4600,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 4720,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 3170,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 3180,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 4300,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 4050,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 3910,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 3130,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 15410,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 16570,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 16220,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 15100,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 15360,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 12410,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 12290,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 12270,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 3400,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3520,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 4310,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 4830,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 7220,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 7890,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 2710,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 3000,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 3450,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 3640,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 21270,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1830,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 840,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 590,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 1270,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 720,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 640,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 1400,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 1550,
+        "code_departement": "89",
+        "nom_departement": "Yonne",
+        "annee": 2017
+    }
+]

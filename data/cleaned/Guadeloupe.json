@@ -1,0 +1,7058 @@
+[
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 1030,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2170,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 3800,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 10480,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 6510,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 6400,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 8310,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 37860,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 37480,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 34270,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 37480,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 50270,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 49610,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 63820,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 65810,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 57330,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 4670,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 8490,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 12920,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 18130,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 7280,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 350,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 560,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 1290,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 2490,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 46590,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 48270,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 46170,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 56630,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 38960,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 35570,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 37950,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 32890,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 50860,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 49350,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 64880,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 65580,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 48350,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 54540,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 57180,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 55770,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 48780,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 630,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 1310,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 1510,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 70,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 40,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 110,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 210,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 450,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 770,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 7070,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 6160,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 4010,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 4980,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 21650,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 430,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 6390,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 6810,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 7290,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 45940,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 45040,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 51720,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 50460,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 39500,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 38530,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 38010,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 250,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 6040,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 240,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1050,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 3970,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 63320,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 4140,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 4570,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 5080,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 590,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 1260,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 1730,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 2280,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 1850,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 2280,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 3230,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 2750,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 940,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 2170,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 6090,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 7270,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 7890,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 7330,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 32280,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 37880,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 40450,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 38880,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 53610,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 44340,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 45060,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 56160,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 57630,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 42200,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 16930,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 17400,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2650,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2820,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 6240,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 4420,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 1810,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 1960,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 2610,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 2750,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 2990,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 3630,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 3780,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 3940,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 50980,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 50300,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 52900,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 62800,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 80,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1910,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2600,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 1750,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 6250,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 6200,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 7240,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 39850,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 39670,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 54460,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 49610,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 64650,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 60780,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 46250,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 53670,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 55120,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 50600,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 4190,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 4190,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 4230,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 4500,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 5690,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 7440,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 18400,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 21310,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 21540,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 600,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 960,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 3560,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 720,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 1670,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 1280,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 1760,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2650,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 1770,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 1130,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 52180,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 53920,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 48430,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 65030,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 45570,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 52750,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 3620,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 4320,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 5250,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 7860,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 19000,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 19970,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 21660,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 7200,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 6420,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2570,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 6500,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 34470,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 38210,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 38200,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 32620,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 30310,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 880,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 780,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 730,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 570,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2650,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 1790,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 1820,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 1630,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 1740,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 38630,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 37530,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 38130,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 36620,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 38170,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 39860,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 230,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 510,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 960,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 54300,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 53450,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 59310,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 62650,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 5850,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 10820,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 18300,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 20950,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 21450,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 21450,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 2590,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 4120,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 5820,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 6170,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 580,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 800,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 1160,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 2960,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 1820,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 2710,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 2580,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 10690,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 9780,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 7820,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 6340,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 49350,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 50580,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 47990,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 44900,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 48400,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 50050,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 3620,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 3320,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 3890,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 6280,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 51360,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 1630,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 490,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 760,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 2530,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 6810,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 6490,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 7230,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 6480,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 6500,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 50320,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 51470,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 51230,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 44670,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 42610,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 50730,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 55170,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 55880,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 4660,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 6220,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 6090,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 7330,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 34970,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 41380,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 38500,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 39650,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 51420,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 65100,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 4510,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 4840,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 5650,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 5630,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 18730,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 21360,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 21640,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 21160,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 20290,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 50410,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 48070,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 54690,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2160,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 3730,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2750,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 3070,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 3870,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 4690,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 5810,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 6060,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 7750,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 940,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 1990,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 70,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 40,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 9280,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 6930,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 6210,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 6100,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 7910,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 5970,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 6350,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 80,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 60,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 150,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 380,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 470,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 1760,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 1770,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1160,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 1650,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 3440,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 4940,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2760,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 3680,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 3920,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 6150,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 40010,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 35830,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 4180,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 4170,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 8210,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 21650,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 46700,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 42940,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 42850,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 51130,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 50560,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 49210,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 590,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 2300,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 41030,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 37760,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 40170,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 37910,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 36760,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 31570,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 3170,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 790,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 58780,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 60320,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 56460,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 51260,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 48960,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 4190,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 580,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2120,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2430,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 5020,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 5610,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 5860,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 7400,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 6770,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 6890,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 7980,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 7240,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 6480,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 120,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 7200,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 6600,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 6480,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 7770,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 6370,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 48770,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 42500,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 48960,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 53310,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 56470,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 53620,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 52690,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 4730,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 5480,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 6340,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 9860,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 20820,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 21230,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 21480,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 1010,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 2560,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 41720,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 38340,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 39890,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1200,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1820,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1960,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 3850,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 5350,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 48600,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 64160,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 61850,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 54440,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 3360,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 3800,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 3860,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 4590,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 5100,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 3850,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 32550,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 40510,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 50070,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 51720,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 49450,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 62800,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 46430,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 56100,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 5540,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 9160,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 6240,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 6330,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 6460,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 6590,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 6130,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 410,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 680,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 1840,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 2460,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 2290,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 510,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 670,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 800,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 2160,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 4220,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 6150,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 1750,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 9170,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 6190,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 5870,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 7640,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 35660,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 39680,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 40280,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 34940,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 33250,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 32010,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 46810,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 44700,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 53060,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 49880,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 49610,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 53380,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 64720,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 3390,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 4700,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 15620,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 16020,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 19790,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 3000,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 220,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 1920,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1910,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 1830,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 480,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1060,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 1130,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 2590,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 490,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 770,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 690,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1670,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 2080,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 51170,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 46550,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 46050,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 45120,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 43090,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 52870,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 55760,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 56540,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 57530,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 450,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 1870,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 4900,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 6110,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 8080,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 1060,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 1820,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 2830,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 48640,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 59970,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 60950,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 63600,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 2670,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 2600,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 60,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 50,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 1470,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 8390,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 6390,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 6230,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 8340,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 7270,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 6840,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 38360,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 40080,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 33710,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 34000,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 55620,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 4390,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 4720,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 19700,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 7170,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 8380,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 6410,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 45470,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 49280,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 52340,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 55630,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 46100,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 47060,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 51910,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 51420,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 49200,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 4710,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 21150,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 1890,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 140,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 4580,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 37100,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 39060,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 36170,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 39940,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 39670,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 40000,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 38090,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 37170,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2170,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 430,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 2660,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 5230,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1910,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 2120,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2170,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 6020,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 7590,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 40620,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 40330,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 37670,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 37110,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 29900,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 10930,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 11120,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 8010,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 7250,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 53480,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 56310,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 43190,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 43360,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 21450,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 1010,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 770,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 100,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 30,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 600,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 1850,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2600,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 4260,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 620,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 680,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 430,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 780,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 1480,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 1810,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 11280,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 9930,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 9570,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 7860,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 7490,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 6650,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 6270,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 58050,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 50960,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 320,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 370,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 640,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 1740,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 4830,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 38310,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 37270,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 35400,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 39490,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 34070,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 30750,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 29490,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 51320,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 47880,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 47730,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 58240,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 58330,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 55050,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 2970,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 5310,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 5680,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 5690,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 10320,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 20580,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 48570,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 53010,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 56520,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 50150,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 47320,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 54670,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 64290,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 60170,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 45370,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 45640,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 56860,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 54110,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 34440,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 39780,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 40070,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 39710,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 40000,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 39700,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 10340,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 9210,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 7650,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 7170,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 7270,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 3650,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 4250,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 11590,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 15160,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 690,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 860,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 2500,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 70,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 900,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 580,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 770,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 1850,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2270,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 3260,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 4800,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 240,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2500,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 7880,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 5960,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 48100,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 48100,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 44900,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 42480,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 55910,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 37800,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 520,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 600,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 650,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 920,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 610,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 800,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 2290,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 3080,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 50,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 1800,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 1700,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 2670,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 3020,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 3230,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 6010,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1300,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 1740,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 49870,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 47940,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 46580,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 65160,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 62280,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 3750,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 4230,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 5340,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 20670,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 100,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3090,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 6450,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 3350,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 57470,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 63800,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 65380,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 65370,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 880,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1050,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 1050,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 980,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 90,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 670,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 2700,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 1010,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 6340,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 46670,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 47360,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 56210,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 55530,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 46460,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 43930,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 8940,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 11280,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 14580,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 16510,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 31240,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 38150,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 35790,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 39800,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 33110,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 10640,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 6590,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 7480,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 7620,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 7320,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 6600,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 6510,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 6350,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 3550,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 51100,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 50660,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 50070,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 49830,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 64470,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 60960,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 60750,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 44440,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 49390,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 47940,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 45280,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 7090,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 13810,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 19320,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 4380,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 7470,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 43000,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 40950,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 35660,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 39510,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 37070,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 980,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 490,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 530,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 430,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1850,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 1630,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 1920,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 390,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 590,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 1300,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 47250,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 52800,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 61590,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 65060,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 55510,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 3990,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 11980,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 9560,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 7190,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 6120,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 6400,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 5970,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 52090,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 47820,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 56000,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 45150,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 260,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 3480,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 3800,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 1460,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 1830,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2280,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 39190,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 38490,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 38040,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 38150,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 28820,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 1220,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 880,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 1920,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 2330,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 3210,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 3090,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 1110,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 2450,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 2650,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 2480,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 44960,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 57260,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 56230,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 42200,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 9520,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 8030,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 6210,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 49980,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 50290,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 47430,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 62270,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 64200,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 33750,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 36090,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 39950,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 14090,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 20270,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 9640,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 8280,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 6570,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 37760,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 38180,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 220,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1160,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 7460,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 50040,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 47620,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 56470,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 42170,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 380,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 2700,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 4000,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 3880,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 870,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 3130,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 4950,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 5170,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 6730,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 240,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 660,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1210,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 1440,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 4100,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 50060,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 61740,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 6060,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 17780,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 21040,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 20060,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 540,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 480,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 1020,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 860,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 400,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 4050,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 7410,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 40,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 3080,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 51780,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 54180,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 63520,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 2820,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 4480,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 12440,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 13250,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 20360,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 800,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 2630,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 3260,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 6590,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 6480,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 8540,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 7950,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 52600,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 49990,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 39560,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 37900,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 39890,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 32370,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 430,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 2580,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 2760,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 45630,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 45540,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 55020,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 5200,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 6450,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 9330,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 20040,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 670,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1300,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 4770,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 1140,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1990,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2990,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 6400,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 8220,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 49670,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 47890,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 65110,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 60960,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 60520,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 55660,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 690,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 1360,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 2240,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 2560,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 3270,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 38440,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 28690,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 130,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 1650,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 8280,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 40340,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 38970,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 38160,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 28890,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 980,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 2430,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 4010,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 5480,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 5710,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 6230,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 2180,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 3910,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 65890,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 59610,
+        "code_departement": "971",
+        "nom_departement": "Guadeloupe",
+        "annee": 2022
+    }
+]

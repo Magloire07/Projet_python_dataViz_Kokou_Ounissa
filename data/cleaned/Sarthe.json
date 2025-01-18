@@ -1,0 +1,7058 @@
+[
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 4370,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 3900,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 6820,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 8310,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 6110,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 5410,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 5380,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 8460,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 8240,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 7960,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 16960,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 17300,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 17390,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 17480,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 18150,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 20030,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 26940,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 28000,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 4150,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 4370,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 4750,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 4700,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 4050,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 4390,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 10110,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 10250,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 14720,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1230,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 1650,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 2500,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 3710,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 3800,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 3790,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 25360,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 19810,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 27480,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 21440,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 22910,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 17910,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 25080,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 33170,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 37120,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 50510,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1300,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 3000,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 3700,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 6210,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 6370,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 7730,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 7620,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 8450,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 5910,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 4810,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 6050,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 6240,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 5910,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 12430,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 27660,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 27370,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 21780,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 4320,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 4540,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 4650,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 4690,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 8450,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 5380,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 5320,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 6640,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 9250,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 7820,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 5200,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 5960,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 8940,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 16870,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 17210,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 19680,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 23110,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 18310,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 26420,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 23300,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 10260,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 4480,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 4090,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 5070,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 5390,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 7190,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 7310,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 7520,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 26280,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 28540,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 31020,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 35660,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 49420,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 9690,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 11860,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 12180,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 11160,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 2880,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 3450,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 3650,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2260,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 9100,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 5880,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 8490,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 8400,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 19980,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 28660,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 25030,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 19850,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 22020,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 29420,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 27480,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 4470,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 4550,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 5380,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 10730,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 6600,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 27690,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 26370,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 42050,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 46790,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 49790,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 43540,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1840,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1030,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1850,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 3350,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 25020,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 21510,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 28240,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 9090,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 6920,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 7820,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 8270,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 9310,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 23280,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 24010,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 29170,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 24930,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 35710,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 30650,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 47670,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 50600,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 43200,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 4400,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 4580,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 12200,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 4170,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 7020,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 6780,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 4810,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 15340,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 14580,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 3170,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 1560,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 3170,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 3430,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 3580,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 28500,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 31130,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 26250,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 26180,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 25400,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 24970,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 18870,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 22010,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 28160,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 29070,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 21540,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 8620,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 8960,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 11000,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 12000,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 12100,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 12610,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 8310,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 5880,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 8860,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 7010,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 5340,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 4710,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 5100,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 9630,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 23470,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 18930,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 17390,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 17120,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 29780,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 30320,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 29940,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1220,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 1470,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 1840,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 2300,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 1780,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 800,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 3420,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 3670,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 3870,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 4540,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 4770,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 5050,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 5540,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 7350,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 19810,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 18310,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 29740,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 27270,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 4670,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 5000,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 6790,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 6700,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 6320,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 6640,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 27520,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 31090,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 50280,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 49420,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 47230,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 7190,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 12150,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 12310,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 5970,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 6650,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 6820,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 6080,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 11230,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 3110,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 3080,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1890,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 1990,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2580,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 5780,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 9460,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 8540,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 8250,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 8240,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 26130,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 19800,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 18250,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 26900,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 27490,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 21680,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 4840,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 11410,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 14060,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 30310,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 25970,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 38740,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 40760,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 49650,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1110,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1760,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 4010,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 5070,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 5240,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 7820,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 7870,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 7660,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 17510,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 29060,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 29080,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 24820,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 27200,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 4220,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 4200,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 4080,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 4180,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 8020,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 11450,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 8580,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 7670,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 8980,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 8750,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 16580,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 19140,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 18760,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 22390,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 28120,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 29930,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 29840,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 36390,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 36220,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 36120,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 26410,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 26910,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 48620,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 4730,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 5210,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 12510,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 12030,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 11560,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 21620,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 20710,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 18650,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 27400,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 21710,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 4300,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 4870,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 5780,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 7370,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 6980,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 6550,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 6580,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 10040,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 1430,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1150,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1210,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1300,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 1830,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 3420,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1390,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 1800,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 8940,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 5220,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 6310,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 9300,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 920,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 3850,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 4560,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 6080,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 6640,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 5380,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 5600,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 15270,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 23090,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 20670,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 27210,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 29780,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 30670,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 50810,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 43110,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 2850,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 28880,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 4610,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 4640,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 4740,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 4110,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 21890,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 21640,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 18010,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 17450,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 30660,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1790,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2780,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 900,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 3470,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 21770,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 23300,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 30250,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 26080,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 36390,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 37230,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 43180,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 46070,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 42970,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 4100,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 4660,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 6610,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 4830,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 5450,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 5940,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 12170,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 9140,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 6270,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 5690,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 8180,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 6940,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 7060,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 4360,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 4380,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 7130,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 6060,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 5890,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 6440,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 9290,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 8410,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 6980,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 26120,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 22930,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 19500,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 17400,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 22040,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 25700,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 26830,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 3680,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 4370,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 4750,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 7420,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 11790,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1210,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 3250,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 3120,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 3020,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 18670,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 24720,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 29810,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1030,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 840,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 3330,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 6520,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 7080,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 4850,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 6100,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 6420,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 30100,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 27590,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 50780,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 50230,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 3980,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 4830,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 6380,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 7410,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 4090,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 4910,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 7390,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 6650,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 17780,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 26530,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 30220,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 28970,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 29670,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 36870,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 50150,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 50580,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 48570,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 44790,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 18760,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 18920,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 18740,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 19460,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 21510,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 21870,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 29430,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 4530,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 10430,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 12170,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 8510,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1240,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 6720,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 6140,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 10010,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 14530,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 15600,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 15640,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 3720,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 8470,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 22630,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 23190,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 24920,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 34970,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 27850,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 35220,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 36870,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 4790,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 11460,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 6160,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 6330,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 7670,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 8090,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 11610,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 13220,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 15850,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 14620,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 4310,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 5220,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 4750,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 6780,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1230,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 2750,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 3120,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 1220,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 19300,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 19700,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 16280,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 21700,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 29290,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 28930,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 6650,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 15890,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 14840,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 15160,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 15090,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 4340,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 6320,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 35060,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 29220,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 27880,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 31200,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 38140,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2120,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 3330,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 3320,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1560,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 1840,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 5440,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 5510,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 9070,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 8470,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 23470,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 18930,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 29440,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 28060,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 4860,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 11660,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 12090,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 20040,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 24450,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 27840,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 7220,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 30310,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 36440,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 49850,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 50900,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 50840,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1310,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 1220,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 1540,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 2850,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 2280,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 2660,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 2760,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2880,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 3350,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 3790,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 3860,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 4630,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 4440,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 11210,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 12690,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 11210,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 4460,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 4530,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 4700,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 6430,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 15950,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 16030,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 18100,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 21550,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 22900,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 23070,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 23350,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 27730,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 6710,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 22340,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 27340,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 28310,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 4660,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 13470,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 11080,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 17680,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 19970,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 20800,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 23200,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 30050,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 5130,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 5380,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 8610,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 44210,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1250,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 3110,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 2510,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 2520,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 870,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 830,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 2750,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 3980,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 3220,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 3810,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 3630,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 7100,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 5260,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 15740,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 15390,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 1510,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 1610,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 3310,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 920,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 3320,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 3930,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 3900,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 3840,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 5490,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 8840,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 9220,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 26680,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 19150,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 17730,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 27320,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 27530,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 4790,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 5730,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 7430,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 25420,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 29240,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 28110,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 33200,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 27010,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 44040,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 5670,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 12630,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 34680,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 36310,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 36780,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 28450,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 22290,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 19520,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 30250,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 5900,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 7660,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1840,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 1540,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 3380,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 3660,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 3360,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 18200,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 22220,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 3990,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 4980,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 9480,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 12140,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 4360,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 4800,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 4280,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 5770,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 6630,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 6390,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 4860,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 4620,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 4730,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 6390,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 5900,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 10020,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 13370,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 14620,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 14980,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 5370,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 7560,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 8520,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 8400,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 8400,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 7390,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 16900,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 22760,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 20030,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 30420,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 30290,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 4490,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 4430,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 11720,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 1270,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 1290,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 1870,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 3070,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 3000,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 3860,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 3540,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 3930,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 7250,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 4810,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 15960,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 4300,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 4120,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 5360,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 7490,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 7180,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 36040,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 26990,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 26820,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 49590,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 51630,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 5100,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 4810,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 15900,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 4820,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 6660,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 44840,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 50550,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 3200,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 3000,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 9080,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 5440,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 5630,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 6320,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 9090,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 7140,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 19470,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 30300,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 4530,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 4340,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 4090,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 12490,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 11380,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 19000,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 19730,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 15300,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 15960,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 27140,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 8290,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 6540,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 6070,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 8940,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 4420,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 5970,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 7340,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 31910,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 37710,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 44260,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 27420,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 28790,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 4450,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 4730,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 6390,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 11060,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 11200,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 5860,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 15660,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 14930,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 23060,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 23000,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 23730,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 30100,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1200,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 1170,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 1350,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 2970,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 920,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 3240,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 3730,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 3230,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 3520,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 4630,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 4460,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 4520,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 4490,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 6140,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 6800,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 9250,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 10130,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 29170,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 45300,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 49840,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 43190,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 8680,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 5200,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 8950,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 8730,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 26320,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 27590,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 6430,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 7050,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 9980,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 13020,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 15760,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 14900,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 3810,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 3990,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 5530,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 6510,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 7520,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 6790,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 22020,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 30310,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 3180,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 19620,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 21980,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 8420,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 5200,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 5180,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 5640,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 6110,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 7640,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 7920,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 6900,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 34610,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 36110,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 26830,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 27290,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 28890,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 49700,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 49800,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 50830,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 52220,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 22950,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 23080,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 29390,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 25840,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 6310,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 6890,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 7820,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 7980,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 4700,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 4460,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 7000,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 7770,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 10680,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 18700,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 6810,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 6110,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 6280,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 9080,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 3880,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 4120,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 4400,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 5520,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 7110,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 7450,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 7310,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 24240,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 15280,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 28440,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 35080,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 22900,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 1030,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 3380,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 3170,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 3320,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 9380,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 15730,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 5270,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 5260,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 5610,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 5800,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 6200,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 6650,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 36280,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 26760,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 26720,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 34350,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 39400,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 49950,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 45860,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 1270,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 4360,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 9930,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 12130,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 12720,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 1190,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 740,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 4030,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 4970,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 5810,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 6740,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 10000,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 11170,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 4150,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 3940,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 4090,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 5790,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 5800,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 7490,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 6660,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 50920,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 3160,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 2280,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 9040,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 9280,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 7570,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 8830,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 9060,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 16120,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 15550,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 24950,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 23160,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 23140,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 22550,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 16720,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 18270,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 19390,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 22090,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 26640,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 29630,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 24960,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 3550,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 4720,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2005
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 1870,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 880,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 740,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 1770,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 3400,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 3900,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 26700,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 19130,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 18400,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 27970,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 28160,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 23490,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 3530,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 4470,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1998
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 8250,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 5480,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 4650,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 7310,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 7360,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 6220,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 5700,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 11630,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 13080,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 8520,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 29610,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 30750,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2009
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1350,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2003
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 2830,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2023
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 29860,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 29660,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 960,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 1790,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2370,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 3160,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 19550,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 17230,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 26100,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 26430,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 25560,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 26100,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 16660,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 16840,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 17560,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 18310,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 4590,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 6590,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 10870,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2015
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 4420,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1996
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 8620,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 9940,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 15200,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 15100,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2022
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 7160,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2014
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 35870,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1170,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 1820,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2008
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1650,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1780,
+        "code_departement": "72",
+        "nom_departement": "Sarthe",
+        "annee": 2007
+    }
+]

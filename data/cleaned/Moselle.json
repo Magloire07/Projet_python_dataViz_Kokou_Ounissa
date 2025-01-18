@@ -1,0 +1,7058 @@
+[
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 8630,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 6670,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 6290,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 13880,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 20690,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 20640,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 49270,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 7840,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 11560,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 19970,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 23070,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 22910,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 68490,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 82720,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 79520,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 9650,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 11340,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2110,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 3710,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 4020,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 4350,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 7170,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 12280,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 10710,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 10510,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 9250,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 43520,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 34000,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 47250,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 56370,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 5460,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 8690,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 13570,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 10850,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 10840,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 11770,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 12280,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 13320,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 12920,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 13470,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 11840,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 2740,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 1370,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 5380,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 5380,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 5440,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 35240,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 5570,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 38030,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 58540,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 52830,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 52310,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 7700,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 8880,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 9430,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 5970,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 20440,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 22280,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 35530,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 36950,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 32140,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 41680,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 53100,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 8870,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 45650,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 36580,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 58610,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 57680,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 54250,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 5240,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 22020,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 21760,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 4260,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 4980,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 5510,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 9250,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 6820,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 6360,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 6710,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 6540,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 11900,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 53500,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 56540,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 85740,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 77100,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 5140,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 6460,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 5640,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 7710,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 7820,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 1450,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 3450,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2450,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 6040,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 5290,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 32720,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 40450,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 42820,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 50290,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 47440,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 6540,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 6640,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 8300,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 8330,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 7510,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 14570,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 13570,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 12000,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 13620,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 12350,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 9500,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 51200,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 48580,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 46660,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 36950,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 56650,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 4630,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 4090,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 4740,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 5570,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 11730,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 16430,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 5770,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 9230,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 10890,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 47400,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 44490,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 35150,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 48520,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 41150,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 30700,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 36880,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 51160,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 52570,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 49190,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 4940,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 14070,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 22420,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 13540,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 8980,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 10840,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 12210,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 10450,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 12000,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 62770,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 61650,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 50970,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 47590,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 87500,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 4440,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 22850,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1790,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2240,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1770,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 4360,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 4430,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 4860,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 5240,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 3430,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 5690,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 5810,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 5190,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 5020,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 5300,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 5490,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 6330,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 6250,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 7010,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 9890,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 10630,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 13990,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 9930,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 13280,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 12090,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 46970,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 49950,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 64150,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 86910,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 84270,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 81630,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 78070,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 6240,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 6210,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 10520,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 11110,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 41340,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 34560,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 37230,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 35890,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 53390,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 4900,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 4740,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 7100,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 9660,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 5990,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 4940,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 59000,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 45030,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 4780,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 9400,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 6230,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 6760,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 22970,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 6080,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 6940,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 21550,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 21260,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 22880,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 58800,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 61680,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 65700,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 88540,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 86240,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 76180,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 6680,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 9080,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2110,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 4300,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 3210,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 4510,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 41960,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 13540,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 11510,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 12160,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 9240,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 9080,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 48630,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 34320,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 39220,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 43840,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 10880,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 18350,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 14860,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 21970,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 21430,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 20620,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1800,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 4630,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 4030,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 3100,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 5770,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 5940,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 5510,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 6420,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 10870,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 10240,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 46230,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 42020,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 41280,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 35310,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 53180,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 58100,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 32050,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 36410,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 7520,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 17030,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 21780,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 23240,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 22260,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 9430,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 13170,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 62270,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 47560,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 60690,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 64960,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 76810,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 88520,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 80320,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 33390,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 49750,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 53810,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 5970,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 7350,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 7540,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 7320,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 10650,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 23890,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 57540,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 48510,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 89090,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 5790,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 5880,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 10430,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 13350,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 13590,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 11700,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 40200,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 37580,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 34280,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 59280,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 21780,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 3030,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 3600,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 3470,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2760,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 6110,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 35230,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 29030,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 45810,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 49240,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 51960,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 47870,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 3890,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2960,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 4670,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 8880,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 6080,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1960,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 8320,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 7130,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 12600,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 19560,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 23430,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 45230,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 69700,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 83500,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 87530,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 11790,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 10470,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 11960,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 4310,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 6570,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 10290,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 47760,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 54730,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 6310,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 7120,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 6550,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 3270,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 5920,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 6830,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 5320,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 5310,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 49340,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 51060,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 44870,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 10300,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 11410,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 62360,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 66510,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 71760,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 80960,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 81330,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 86200,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 2260,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 4170,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 5360,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 5130,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 5580,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 5710,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 10240,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 10000,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 11200,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 37950,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 32030,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 32890,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 6830,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 6150,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 7720,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 12130,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 17250,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 17550,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 39110,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 41260,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 41170,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 33980,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 39900,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 53040,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 52240,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 5610,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 6470,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 9480,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 10810,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 11460,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 10340,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 9240,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 52490,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 53350,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 6150,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 6310,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 5540,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 7590,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 18580,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 23510,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 4080,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 7770,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 8490,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 9890,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 19260,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 22110,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 41800,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 47200,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 44770,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 44360,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 5800,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 6580,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 15840,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 18990,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 21830,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 14230,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 11380,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 13390,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 59980,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 57440,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 65610,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 86810,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 87510,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 86460,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 6620,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 5720,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 10460,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 37650,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 40070,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 33930,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 29540,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 50470,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 44930,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1830,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 3640,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 4510,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 4020,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 46910,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 45550,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 41650,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 41120,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 31610,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 35710,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 41770,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 53600,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 52610,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 6500,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 8140,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 17480,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 22960,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 23370,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 62080,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 47560,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 45680,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 5770,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 4880,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 10420,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2120,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 4520,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 4680,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 4220,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 4590,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 6400,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 15770,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 21550,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 22090,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2370,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 5980,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 6520,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 14220,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 11210,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 12120,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 9930,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 11880,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 12180,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 11020,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 10980,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 41580,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 44320,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 58110,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 57420,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 3830,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 4480,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 4610,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 6780,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 11890,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 21760,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1450,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 3340,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 3360,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 6320,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 4580,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 6460,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 9610,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 37430,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 41090,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 37190,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 30130,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 47300,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 6480,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 6530,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 7080,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 21700,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 22210,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 8940,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 12070,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 55740,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 57450,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 50660,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 84930,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 87430,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 46060,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 42510,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 43320,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 42500,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 36570,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 31090,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 51270,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 10920,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 9190,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 12470,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 10870,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 53520,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 89290,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 3490,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 6530,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 5490,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 5050,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 4930,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 5250,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 6980,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 10450,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 10280,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 6420,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 13150,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 3920,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 3910,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 4000,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 4780,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 4350,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 4700,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 5130,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 8130,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 16500,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 6290,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 12430,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 4880,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 5610,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 7820,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1920,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1760,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 4420,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 3480,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 7030,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 8330,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 6920,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 24580,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 38730,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 51970,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 51730,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 45770,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 48850,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 37840,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 46390,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 47080,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 58030,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 64250,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 56180,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 13080,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 12130,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 57380,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 48710,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 51860,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 79970,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 82520,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 84590,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 3320,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 3270,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 5430,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 5970,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2140,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 3400,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 5100,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 2650,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 1800,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 1760,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 4220,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 6890,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 6990,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 6850,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 31630,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 32620,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 37430,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 50470,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 52510,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 51710,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 11740,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 8770,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 13670,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 9800,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 47760,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 45550,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 46320,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 53440,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 8940,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 21670,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 20630,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 6970,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 54470,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 44910,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 6220,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 8240,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 10010,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 14250,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 13390,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 12700,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 10980,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 6640,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 8310,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 21290,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 23460,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 42380,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 50460,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 42640,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 58480,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 57990,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 61660,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 76850,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 3810,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 6190,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 10980,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 6690,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 8200,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 9320,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 9220,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 8190,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 5810,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 10420,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 13430,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1810,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 1700,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 4990,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 4940,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 38360,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 32970,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 34860,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 31190,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 33950,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 11160,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 12810,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 13740,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 13760,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 12940,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 11140,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 6620,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 6970,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 9180,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 24410,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 48090,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 43790,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 46270,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 46440,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 1390,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 3360,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 5810,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 6220,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 5800,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 3470,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 3590,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 4210,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 5990,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 7000,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 6470,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 12390,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 15000,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 21520,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 19540,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 88520,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 5420,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 5950,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 4170,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 4440,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 8760,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 6730,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 19940,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 21940,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 5560,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 6140,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 6590,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 6820,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 9880,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 10350,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 10580,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 10880,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 10220,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 2580,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 4680,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 6030,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 6830,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 41630,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 41920,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 52520,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 53970,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 14340,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 9830,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 11290,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 49460,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 46150,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 6770,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 6940,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 11070,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 12060,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 15290,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 23490,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 23480,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 47690,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 42390,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 34490,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 46890,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 47800,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 40250,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 38970,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 35160,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 48630,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 49720,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 52170,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 52150,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 52900,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 45850,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 6570,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 11590,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 9250,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 12120,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 12750,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 12140,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 11820,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 54330,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 54170,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 54870,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 84350,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 77190,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 5540,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 6650,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 8070,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 9120,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 10120,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 3800,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 7240,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 21490,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 22660,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 1890,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 5610,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 6790,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 46650,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 41250,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 50930,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 59490,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 59890,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 58770,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 5750,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 7170,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 7380,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 10720,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 10680,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 10410,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 54970,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 53100,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 64790,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 74350,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 87620,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 43360,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 44400,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 12830,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 11410,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 44350,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 42470,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 33050,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 47110,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 55140,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 55180,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 52120,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 6140,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 13950,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 17960,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 17650,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 21910,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 21860,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 5050,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 7650,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 7040,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 23120,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 1470,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 3880,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 7150,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 5580,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 13310,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 13440,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 9180,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 46170,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 35660,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 39360,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 59670,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 29510,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 6620,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 14600,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 17960,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 21890,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 23580,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 56020,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 78870,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 86970,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 88230,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 36450,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 36490,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 41180,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 53230,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 52890,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 52750,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 52740,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 6440,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 6490,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 7830,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 7560,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1840,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2480,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 3610,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 4630,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 13950,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 10990,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 13700,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 9230,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 6960,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 6910,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 6590,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 6140,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2004
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 19060,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 39810,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 57310,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 57590,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 55870,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 56410,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 53880,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 47390,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 6700,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 5970,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 4900,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 6280,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 5680,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 10870,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1770,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 4430,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 4700,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 7590,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 6750,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 6800,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 6230,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 17370,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 58000,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 49360,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 47020,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 63030,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 85930,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 82770,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 88310,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1460,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 1800,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 7120,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 6720,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 5230,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 6430,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 10300,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 10690,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 9860,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 11260,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 3740,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 4920,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 12590,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 21460,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 56330,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 57700,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 58090,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 62390,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 67460,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 87320,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 5920,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 5290,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 8390,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 41750,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 35240,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 42030,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 54150,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 46460,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 10200,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 9180,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 9190,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 8980,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 12510,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 13250,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 11220,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 5660,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 6650,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 10160,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 13080,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 20610,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 23280,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 59480,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 56460,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 3080,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2990,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 3780,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 5380,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 6300,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 5060,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 4920,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 5580,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 5370,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 9080,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 10300,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 13630,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 10890,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 9650,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 10480,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 53480,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 87460,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 88790,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2017
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 8860,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 6890,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 6760,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 6730,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1700,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2120,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 2100,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 5410,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 5140,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 36670,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 48800,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 37920,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 44340,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 33080,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 46690,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 53400,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2019
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 7230,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 23770,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 24480,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 23210,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 3330,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 4580,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 5600,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 5380,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 41620,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 45860,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 8260,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 8060,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 24090,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 24080,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 13360,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 11880,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 9190,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1810,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 3170,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 4300,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2015
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 8110,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 6510,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 11800,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 14440,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 20630,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 61340,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 61340,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 59730,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 55600,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2006
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1460,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 4830,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2010
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 6450,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 6060,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 5200,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 5820,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 8780,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 9360,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 10410,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 11190,
+        "code_departement": "57",
+        "nom_departement": "Moselle",
+        "annee": 2023
+    }
+]

@@ -1,0 +1,7058 @@
+[
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2740,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 3310,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 2740,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 3580,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 3620,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 8650,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 16730,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 16820,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 20340,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 21560,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 21530,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2650,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2820,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 5740,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 660,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 680,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 860,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 1370,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 12410,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 12310,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 8320,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 12340,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 12680,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 14780,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 10980,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 10610,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 12320,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 15940,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 21120,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 1480,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 1330,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1060,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 1290,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 3410,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 2690,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 4020,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 5910,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 10960,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 12180,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 12790,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 3660,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 4720,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2480,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 3260,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 3740,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 3660,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 9180,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 9660,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 9980,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 10030,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 8480,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 10180,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 12470,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 11070,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 8780,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 10960,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 11260,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 12800,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 9370,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 4400,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2290,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2450,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 2610,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 3210,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 3020,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 20850,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 3530,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 4290,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 4940,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 5580,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 5080,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 5030,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 1430,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 1180,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 510,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 940,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 1190,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 1360,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 1620,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 870,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 4470,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 3470,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 3630,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 2740,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 9030,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 10480,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 11970,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 10460,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 12480,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 9200,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 12860,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2600,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2530,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 5360,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2770,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 3540,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 3650,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 4150,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 5420,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 6140,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 14690,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 17260,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 20700,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1100,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 590,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 1260,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 1650,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 1400,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 12790,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 9820,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 10510,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 13410,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 12980,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 3640,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 2660,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 10990,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 10400,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 10450,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 10340,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 10450,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 12580,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 10720,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 13470,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 17740,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 21390,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 21610,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2420,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 3650,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 3170,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 6010,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 440,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 1080,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 1230,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 15990,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 17140,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 13980,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 18180,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 19910,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 21280,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 20280,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 13180,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 12510,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 12070,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2590,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 3810,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 4540,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 3070,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 3780,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 2760,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1650,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 3380,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 3000,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 6000,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 10080,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 9590,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 920,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 1270,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1150,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 1170,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1630,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1910,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 2770,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 2690,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 10890,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 10640,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 9070,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 8460,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 12450,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 11640,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2530,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 16520,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 17010,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 14090,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 14970,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 16500,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 18760,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 21530,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 19100,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 18280,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2430,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 5610,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2780,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 5670,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 6010,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 5870,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 840,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 710,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 940,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 1340,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1450,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1150,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 980,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 1330,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 1650,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 3500,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 3410,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 12490,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2080,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2630,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 3020,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2990,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2350,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 5020,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 6030,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 13810,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 16000,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 13260,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 21210,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 1260,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 1300,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 1230,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 980,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 450,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 450,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 680,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 4110,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 3450,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 3310,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 9930,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 11750,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 11980,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 10190,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 12460,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 2510,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 5300,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 5620,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 3550,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 3430,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 3320,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 9110,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 8760,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 8410,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 8330,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 10290,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 11580,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 17030,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 17440,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 14440,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 15850,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2660,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 5290,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 5480,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 10860,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 10870,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 13510,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2610,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2960,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 4780,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 5530,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 5880,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 790,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 1290,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 720,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 900,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 1200,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 1610,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 1140,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 3100,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 3700,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 3530,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1160,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 1080,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 800,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 520,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 1180,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 3270,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2990,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 2710,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 5880,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 6050,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 5790,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 10110,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 8410,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 12440,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 12490,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 10510,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 14370,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 19380,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 20680,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1020,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 760,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 1060,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 940,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 1170,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 1610,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 10770,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 12870,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 12210,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 9590,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1890,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2100,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2170,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 4790,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 5570,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 4950,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 11020,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 9950,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 11890,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 670,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 1010,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 940,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 1220,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 1290,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 11240,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 12330,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 12600,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 11370,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 17220,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 14520,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 16180,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 15220,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 2260,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 5320,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 4110,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 3560,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 3710,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1780,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 2690,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2330,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 2510,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 4340,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 3620,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 3470,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 3650,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 8170,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 9530,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 10920,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1620,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2350,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2180,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 2780,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 3940,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 5360,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 1370,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 11140,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 11540,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 710,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 710,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 4900,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 5700,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 16160,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 19640,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 21410,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 19720,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 18020,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1830,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 2850,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1730,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 3020,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 3270,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 10870,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 10940,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 11400,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 16300,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 17130,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 17350,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 14230,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 14760,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 16380,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 17660,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 21710,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 12710,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 10400,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 10870,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 12000,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 12430,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 5190,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 5560,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 4030,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 3200,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 3520,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 3100,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 3560,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 3800,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 3840,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 3620,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 1100,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 1290,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 1170,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 1370,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 5910,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 920,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 3560,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3720,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 3540,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 3420,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 2850,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 9740,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 11920,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 17200,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 17370,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 17280,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 21380,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 20620,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 18330,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 3210,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 3720,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 4760,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 2780,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 3260,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 3270,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 2850,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 1200,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 1290,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 1370,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 680,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 1280,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 12310,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 10840,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 10970,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 11950,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 3330,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 3270,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 16490,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 16280,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 16670,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 18200,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 1130,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 1440,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 1470,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 1300,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 600,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 1190,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 1180,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 3780,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 8830,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 9990,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 12320,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 10550,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 9420,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 8930,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 10020,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 12790,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 4390,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 5570,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 5180,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 9690,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 11240,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 9690,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 10500,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 12750,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 11860,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 3600,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 3250,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2770,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 3170,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 14390,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 13420,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 13710,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 19140,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 21600,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 1050,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 710,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 1450,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 1170,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1130,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 1230,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 1330,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1540,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2670,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2140,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2110,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 5070,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2510,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 2830,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 2750,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 3070,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 3600,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 4280,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 10900,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 10010,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 10360,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 12530,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 3210,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 2990,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 12190,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 10870,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 10820,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 9940,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2650,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2180,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 5410,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 5540,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 3100,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 3630,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 4610,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 5260,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 5980,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 8990,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 12610,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 12450,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 11390,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 10700,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 4620,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 3110,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 3610,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 17400,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 20690,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 21620,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 21680,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 710,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 1330,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 3050,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 5960,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 6080,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1020,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 1020,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 1230,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1250,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 570,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 870,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 700,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 1230,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 1310,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 4450,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 3380,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 13190,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 10100,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2370,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 2850,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 9230,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 9940,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 12520,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 12360,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 21670,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 15370,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 16680,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 21330,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 21670,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 18170,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 10980,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 10300,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 9270,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 10710,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 11130,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 12490,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 12620,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 11980,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 4180,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 3990,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 3470,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 3690,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 3820,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 3310,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 1230,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 1540,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 1150,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 13210,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 10680,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 10900,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 11300,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2270,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 5140,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2270,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2960,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 3090,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 3020,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 4050,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 3510,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 3710,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 3700,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 12750,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 10000,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 9450,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 10780,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 10930,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 10210,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 10160,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2330,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2170,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 5390,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 5390,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 5000,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 900,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 920,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 1210,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 1190,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 610,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 510,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 580,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 690,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 1100,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 1250,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 1110,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 1310,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 1200,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 5350,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 5970,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 6000,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 6030,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 5800,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2140,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 13850,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 13260,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 18430,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 21510,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 18650,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 18610,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 3050,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 5810,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 5650,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 5820,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 15780,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 14380,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 16970,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 16910,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 1010,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 1330,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 1170,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 640,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 1110,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 1160,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 1300,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 3620,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 3550,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 2740,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 10780,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 9400,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 10480,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 10590,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 10470,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 12360,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2350,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 5500,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 13050,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 11950,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 10030,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 4100,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 3790,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 3340,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 3090,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 3240,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 2850,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 15440,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 19120,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 11120,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 9380,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1790,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 5610,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1790,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1990,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 3830,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 8850,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 1080,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 1650,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 1330,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 780,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 540,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 1270,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1010,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 770,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 1260,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 1230,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2160,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 5450,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 5480,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 5620,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 17410,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 15000,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 15250,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 17330,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 3770,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 3690,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 3360,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 2750,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 11020,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 8950,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 9250,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 9760,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 10810,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 12800,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 13240,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 12480,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 12420,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 11860,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3200,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2530,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 3200,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 2600,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 9960,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 8970,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 9390,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 12260,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 12590,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 11030,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 830,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 1140,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 12940,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 12450,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 10850,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 7970,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 9470,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 3380,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 3110,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 3510,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 17090,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 21220,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 21320,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 10210,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 10410,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 10470,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2350,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 3170,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 3390,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 5230,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 10360,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 10620,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 12260,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 12400,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 2880,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 3200,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 3080,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 3620,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 3620,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 3050,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 10230,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 11050,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 12450,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1050,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 1300,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 1350,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 390,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 2700,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 2610,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 3730,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 4790,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 3250,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 17200,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 3240,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 960,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 2520,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 3480,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 2990,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 17180,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 16750,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 13210,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 16710,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 1350,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 1370,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 4520,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 4570,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 4140,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 3940,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 13200,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 11690,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 11680,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 12780,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 10780,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 10830,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 11290,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 4060,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 5510,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 5490,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 5220,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1360,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 440,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 1240,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 8350,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 7970,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 8730,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 12220,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 9310,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 4540,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 4650,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 5550,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2960,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 3060,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 4020,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 3100,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 3020,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 3480,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 3720,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 17030,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 21600,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 940,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 1240,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 10870,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 10400,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 10480,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 10390,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 700,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 1230,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 3720,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 9220,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 10520,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 10800,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 12460,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 12340,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 12170,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 10950,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 4200,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 5110,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2650,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 3640,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2011
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2650,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2600,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 3080,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 16360,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 19990,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1050,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 980,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 1280,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1330,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 1190,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 1240,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 1350,
+        "code_departement": "61",
+        "nom_departement": "Orne",
+        "annee": 2022
+    }
+]

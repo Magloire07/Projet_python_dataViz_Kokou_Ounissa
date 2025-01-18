@@ -1,0 +1,7058 @@
+[
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 4830,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 4540,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 8060,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 8330,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 8900,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 8170,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 8760,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 11210,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 11100,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 10640,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 32020,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 39120,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 42220,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 39190,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 40440,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 44590,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 64490,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 67400,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 6890,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 9210,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 16380,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 11900,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 4270,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 5400,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 6670,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 7360,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 7470,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 7720,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 8710,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 19600,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 3260,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 3890,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1760,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1430,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 3770,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 4480,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 4640,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 3880,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 3540,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 38010,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 31750,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 28050,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 41480,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 43080,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 8040,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 11440,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 33990,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 43930,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 53770,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 64760,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 69090,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2480,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2600,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 3530,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1510,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 4600,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 4810,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 3130,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 11250,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 8910,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 7210,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 8480,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 15370,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 18830,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 33650,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 34870,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 6360,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 7270,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 9670,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 10430,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 6830,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 16860,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 8050,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 8100,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 11910,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 39000,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 37660,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 32900,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 26640,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 33830,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 43910,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 11520,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 8860,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 11420,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 19060,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 4840,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 42500,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 46860,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 70330,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 66610,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 62430,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 16600,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 3310,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 3390,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 4790,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1990,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1480,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1640,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2560,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 11110,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 26570,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 30540,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 33150,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 42570,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 38540,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 27520,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 38860,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 6150,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 6870,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 6730,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 16470,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 17130,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 8270,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 8650,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 8430,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 5020,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 8370,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 12030,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 12390,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 17830,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 19050,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 18170,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 12700,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 19090,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 4730,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 5560,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 8010,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 8540,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 9030,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 45160,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 48930,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 46180,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 47960,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 46960,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 64040,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2590,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 4100,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 4150,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 3800,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 37820,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 37950,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 31380,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 37150,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 42940,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 11970,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 11350,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 29820,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 31530,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 29120,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 30430,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 27730,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 25540,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 41660,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 45710,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 49980,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 43390,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 46850,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 67210,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 68140,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 70350,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 62600,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 7180,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 6870,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 7490,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 13480,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 11920,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 11810,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 11600,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 4430,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 4450,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 4930,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 5470,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 7260,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 8970,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 8540,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 7950,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 7690,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1650,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1450,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1830,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 45810,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 40010,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 39280,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 49840,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 71040,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 63490,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 37930,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 32340,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 25340,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 33060,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 34460,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 42460,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 44800,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 43960,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 36950,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 35910,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 6970,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 13220,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 15150,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 9000,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 7620,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 8510,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 16820,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 19170,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 32380,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 29120,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 30260,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 40370,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 41020,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2590,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 3240,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 4670,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 3780,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 8460,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 4090,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 4420,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 5150,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 5460,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 8870,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 32450,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 31140,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 43490,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 40750,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 42660,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 5820,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 5360,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 6620,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 6930,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 8920,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 8960,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 45050,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 51730,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 6490,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 6920,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 5830,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 16610,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 17030,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 7070,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 8630,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 8850,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 12490,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 1220,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 4850,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 11360,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 11330,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 10220,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 34780,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 10060,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 4190,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 5810,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 5780,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 5740,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 7670,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 8810,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 8200,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 8970,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 7610,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 8860,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 13970,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 16190,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 18580,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 58730,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 66430,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1310,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 3340,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 2270,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 3870,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 11830,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 12260,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 10770,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 29150,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 32240,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 26170,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 26390,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 34680,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 29140,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 35290,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 44810,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 41140,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 5880,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 6650,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 14420,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 16260,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 11360,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 9330,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 11330,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 11520,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 30770,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 29840,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 40850,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 47650,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 42120,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 44480,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 48370,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 68850,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 70420,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 71520,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 71020,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 12510,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 5600,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 6060,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 6850,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 5820,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 29970,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 32690,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 37660,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 43800,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 34930,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 11050,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 11120,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 4530,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 4710,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 5380,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 8950,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 13060,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 18220,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 18850,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2580,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 4360,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1450,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2560,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3270,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 4450,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 3370,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 11070,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 10390,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 8870,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2120,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 1250,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 12370,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 26690,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 26820,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 39810,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 65150,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 68720,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 3620,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 35110,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 43160,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 6980,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 7140,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 6210,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 15180,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 11160,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 25060,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 31770,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 43670,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1610,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 1610,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 1330,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 3950,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 4260,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 4730,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1550,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2520,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 3690,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 34240,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 40650,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 42360,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 40900,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 11710,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 8780,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 9250,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 9790,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 8180,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 8270,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 9930,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 11620,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 50520,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 50940,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 45960,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 72060,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 7040,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 7320,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 8940,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 9160,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 11950,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 5140,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 6640,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 7270,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 16410,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 12000,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 4510,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 7070,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 8390,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 11550,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 11170,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 10960,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 31120,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 36660,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 6600,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 5890,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 15700,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 1330,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 3390,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 4740,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 25210,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 40200,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 4610,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 4490,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 5950,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 7220,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 8040,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 10130,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 11920,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 13360,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 17310,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 19030,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 19070,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 47010,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 40150,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 39160,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 54880,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 56250,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 63890,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 5490,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 5520,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 4690,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 4800,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 5590,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 29380,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 28530,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 33620,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 36040,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 40780,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 42120,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 43460,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 48770,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 61990,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 65020,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 42670,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 6480,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 7020,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 16910,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 8940,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 3160,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 4270,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 7830,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 8430,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 12090,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1470,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 1510,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 4080,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 3820,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 4230,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 4820,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 4560,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 3910,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 11960,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 10100,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 11530,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 10390,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 30010,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 37950,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 43040,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 43070,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 48060,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 39450,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 63010,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 63070,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 6510,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 16300,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 11710,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 11030,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 8890,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 9160,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 9130,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 9130,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 8170,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 11110,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 6420,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 16430,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 7560,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 8360,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 15710,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 18110,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 8320,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 9130,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 3840,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 1340,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 3990,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 38250,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 29780,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 31290,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 42980,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 41610,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 34970,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 7820,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 9120,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 10540,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 12360,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 8830,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 8700,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 50050,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 50670,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 52720,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 67650,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 68810,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 3940,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 2960,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 3050,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 4150,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 4020,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 4330,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 3690,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 3940,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 11750,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 8990,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 41700,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 43900,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 51100,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 4970,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 6620,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 16050,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 16560,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 10230,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 8240,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 11180,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 39050,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 28090,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 32210,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 25580,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 43490,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 11140,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 50460,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 43490,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 45050,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 47800,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 41050,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 60460,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 71010,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1480,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1620,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1400,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2110,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2350,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 3500,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 4220,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 1560,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 6640,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 6550,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 5880,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 8230,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 16070,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 9860,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 8180,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 3220,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 3310,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 3920,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 4750,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 7820,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 9070,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 7020,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 8060,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 18280,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 28870,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 29810,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 43030,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 37920,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 37400,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 5310,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 6230,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 6810,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 8260,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 38930,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 28110,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 29840,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 24640,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 43940,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 43720,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 5270,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 6990,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 9910,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 8000,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 14190,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 15390,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 18730,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 18920,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 31340,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 24830,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 39310,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 43200,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 10240,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 53040,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 3410,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 1660,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1450,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 4050,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 4520,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 7960,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 8200,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 8830,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 14760,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 1760,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1540,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 3470,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 11920,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 10140,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 10040,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 37560,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 32270,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 25700,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 35040,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 11420,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 9650,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 5920,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 5830,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 8780,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 8670,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 8730,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 41300,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 39250,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 68710,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 69380,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 70270,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 69640,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 7150,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 6430,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 16300,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 16720,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 16120,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 27260,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 27250,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 41970,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 41650,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 47470,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 57290,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 71550,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 30240,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 33450,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 39530,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 42140,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 37630,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 12220,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 10760,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2660,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 3210,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 3650,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1660,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1550,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 3950,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 35830,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 41450,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 7970,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 5440,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 6910,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 6750,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 4080,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 4260,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 8700,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 4470,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 8060,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 11010,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 11980,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 17270,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 19690,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 37670,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 39230,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 32620,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 28820,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 26690,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 34960,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 40430,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 34830,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 28770,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 32270,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 42600,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 6850,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 6470,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 11170,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 15930,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 11420,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 8220,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 10830,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 6170,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 8940,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 9450,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1640,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1450,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 3720,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2830,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 2960,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 4220,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 8640,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 8860,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 12820,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 17070,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 3700,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 5900,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 6800,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 8650,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 8370,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 63650,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 62890,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 7570,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 9040,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 19060,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 4780,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 4680,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 5450,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 6430,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 6690,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 8010,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 42110,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 53750,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 3690,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 3250,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 4170,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 4580,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2180,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 4150,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 4710,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 3090,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 3710,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 3740,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 12140,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 11160,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 25470,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 26540,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 27800,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 28540,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 42020,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 42350,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 43980,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 37890,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 6980,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 15130,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 15390,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 8830,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 10270,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 25150,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 43850,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 11770,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 11600,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 9280,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 3740,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 3890,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 4040,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 4560,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 4720,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 5210,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 8960,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 8290,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 8310,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 49880,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 39920,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 38930,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 33140,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 30810,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 33760,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 32920,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 30340,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 43860,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 6800,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 7860,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 9780,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 14150,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 8980,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 13660,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 18780,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 32290,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 33490,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 38610,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 42670,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 3170,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 3420,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1610,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 3940,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 9930,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 8880,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 3790,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 4700,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 6990,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 16880,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 16140,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 16160,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 50010,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 45540,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 38850,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 43410,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 70950,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 69100,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 9070,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 9130,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 32420,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 24690,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 8890,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 7920,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 7890,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 15390,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 18900,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 5780,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 8230,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 32160,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 28060,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 25890,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 29030,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1650,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 1850,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 3450,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 4620,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 38300,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 32720,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 38910,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 42540,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 42090,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 45650,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 49010,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 42570,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 68770,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 67190,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 12050,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 10360,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 16120,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 30650,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 28270,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 32870,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 35240,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 41850,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 42160,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 6480,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 14790,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 17060,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 26540,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 8510,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 8870,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 18610,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 6080,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 7210,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 38900,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 30370,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 34680,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 44550,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 4100,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 3540,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 10640,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 9500,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 11410,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2690,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 13320,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 18950,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 5970,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 7420,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 8740,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 8920,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 8060,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 40230,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1630,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 3430,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 3900,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 4820,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 4620,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 6960,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 12230,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 13790,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 16700,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2500,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 3990,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 3350,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 8070,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 15590,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 19600,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 4500,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 5330,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 5970,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 63100,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 3320,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 3020,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 35010,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 42590,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 42840,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 44060,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 43890,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 30690,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 25480,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 25060,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 27310,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 37070,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 44320,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 5840,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 16550,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 8850,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 6680,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 5790,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 8570,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 1370,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 1510,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 4390,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 44000,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 6000,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 10790,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 11550,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 12870,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 15080,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 5240,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 5910,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 8340,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 8480,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 4900,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 7630,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 7550,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 9630,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 11270,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 10620,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 11160,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 11150,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 8820,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 49790,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 46190,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 69590,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1460,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1360,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3590,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 4750,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 4830,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 25770,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 38110,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1430,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 3080,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 4010,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 3350,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 3640,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 12150,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 10480,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 9550,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 32290,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 32600,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 29330,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 25380,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 38470,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 34060,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 29830,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 35960,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 44390,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 7170,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 16630,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 16550,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 9300,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 10910,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 41390,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 43910,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 53570,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 69690,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1600,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 1480,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 1340,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2460,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1960,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2500,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 3870,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 3600,
+        "code_departement": "60",
+        "nom_departement": "Oise",
+        "annee": 2022
+    }
+]

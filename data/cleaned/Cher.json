@@ -1,0 +1,7058 @@
+[
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 3030,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 3200,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 3120,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 3520,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 3310,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 3360,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 12870,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 11630,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 2670,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2450,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 7130,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 19680,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 21690,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 17530,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 17880,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 3410,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 3620,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 5860,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 6210,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 6710,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 1310,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 1280,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 1560,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1240,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 900,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 1870,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 1760,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2990,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 15810,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 12250,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 12410,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 13080,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 11800,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 16640,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 16260,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 7130,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 13930,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 18470,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 18350,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 24430,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 3220,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 3420,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 880,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 700,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 1400,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1300,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 1330,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 1830,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 9770,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2650,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 4050,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 16920,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 12180,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 17590,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 15090,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 16610,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2100,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 13610,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 13190,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 9590,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 8900,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 11320,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 13420,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 14240,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 14780,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 4050,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 3880,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 3120,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 3210,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 7160,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 15030,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 13040,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 12270,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 10020,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 16140,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 15100,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 15510,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2750,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 3770,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 4110,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 5800,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 6910,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 2530,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 3430,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 22070,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 23960,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 22390,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 20420,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 20410,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 19420,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 780,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 1260,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 1370,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 1440,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 1190,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 1550,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 1220,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 1230,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 840,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 870,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 1480,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 11850,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 11880,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 12670,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 13980,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 4750,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 7010,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 4240,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2960,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 3450,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 3740,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 2850,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 13150,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 15410,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 17750,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 12650,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 17540,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 3240,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 3530,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 7050,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1960,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2500,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 19960,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 24990,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 9080,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 9080,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 14650,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 13410,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 12380,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2670,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 5820,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 13790,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 22280,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 22340,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 23390,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 3900,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 3370,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 21400,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1840,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2480,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2420,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 6800,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 6630,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1200,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 500,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1350,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 1360,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 1770,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 1400,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 800,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 24940,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 24920,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 24790,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 4790,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 3870,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 3730,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 3740,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 3850,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 3990,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 19780,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 17450,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 12560,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 13660,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 16370,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 13700,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 11900,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 14540,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 14280,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2500,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 3940,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1260,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 1730,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 2110,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 1550,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2180,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2280,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2120,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 3260,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 3620,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 3450,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 6700,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 6930,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 2140,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 3270,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 22000,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 25550,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 25120,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 18940,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 18380,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 15140,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 3160,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 5580,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 6220,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1180,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1170,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 510,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 1280,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 1300,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 1360,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 1140,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 790,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 1390,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 1370,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 13520,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 11480,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 11580,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 14590,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 14640,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 14310,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 13270,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 4790,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 3610,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 3490,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 3410,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 3200,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 16240,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 12100,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 15980,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 2110,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 3920,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 6400,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 6910,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 13870,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 25280,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 590,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 640,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 530,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 510,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 720,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 710,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 920,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 1610,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 11550,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 14720,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 13650,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 5710,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 6420,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 7180,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 4680,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2590,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2540,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2490,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 3340,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 12030,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 12100,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 12690,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 13690,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 16080,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 14870,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 10560,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 12820,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 14380,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 2780,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 3210,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 6490,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 7250,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 15210,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 18910,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 22980,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 24370,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 25070,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 25480,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 3430,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 3490,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 3870,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 14180,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 15340,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 13810,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 3660,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 3600,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 6190,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 760,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 1440,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 1470,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1300,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1280,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 1360,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 1230,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 13580,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 14640,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 12380,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 1220,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 620,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2110,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 3470,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 3060,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 3080,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 3490,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 4200,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 4320,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 5930,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 7270,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 3380,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 3900,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 3720,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 760,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 1240,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 1270,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 1150,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 22020,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 16490,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 12870,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 9700,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 16220,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 15280,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 3110,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 5290,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 6920,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 6640,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 6550,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 650,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 760,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 1200,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 1850,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 16770,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 15220,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 22600,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 3930,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 3640,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 3550,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 17850,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 3320,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 6420,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 12890,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 11410,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 11570,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 13050,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 12230,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2350,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2430,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 13210,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 11520,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 16830,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 14550,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 15360,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 16820,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 16210,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 16140,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2990,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 3320,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 3360,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 3660,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 6810,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 3480,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 3450,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 3640,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 21160,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 880,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 1480,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1240,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 1210,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 3130,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 6380,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 7110,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 18550,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2260,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 2430,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2370,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 3160,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 3350,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 2590,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 5250,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 7100,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 19700,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 24280,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 24580,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 3750,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2850,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 3900,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 15980,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 11510,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 13130,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 15480,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 15210,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 14890,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 12460,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 13690,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 11720,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 11230,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 12880,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 12630,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 740,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1210,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 3130,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 3670,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 4450,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 12640,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 13800,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 11490,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 11560,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 11680,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 12990,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 14490,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 3340,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 25040,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 18160,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 14480,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 3120,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 3090,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2820,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 6310,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 2990,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 3260,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 3440,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 800,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 760,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 1460,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 1650,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 2170,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2710,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 3510,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 12950,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 12800,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 6340,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 5960,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2270,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 17440,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 19200,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 25210,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 23220,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 780,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 1190,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 1390,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 610,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 1730,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 1640,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 14080,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 11920,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 11640,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 11530,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 9250,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 14500,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 13990,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 3260,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2590,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 7080,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 2990,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 3450,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 3440,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 19870,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 16820,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 15480,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 13010,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 9650,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 15140,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 13880,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 12670,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 11730,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 11870,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 8940,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 12090,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 13860,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 14790,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 3920,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 3610,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 20410,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 20320,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 17540,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 18220,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 650,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 1060,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 1460,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 2960,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 3070,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 3090,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 3490,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 4320,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 4540,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1990,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 2170,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2480,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 3180,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 9350,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 11360,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 3090,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 5150,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 2760,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 3310,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2580,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 10900,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 10270,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 12840,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 24760,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 3250,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 21010,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 20040,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 690,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 1260,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 1460,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 1440,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 1480,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 1220,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 2670,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 3180,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 3390,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 840,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 900,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1220,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1250,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 840,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 1240,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 1510,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 1150,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 11450,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 9110,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 11380,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 12960,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 14380,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 2880,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 9460,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 12730,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 14650,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 15740,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 11560,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1820,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2110,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 2240,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 3260,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 5150,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 24440,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 25090,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 21690,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 25220,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 21470,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 3820,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 3700,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 2480,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2420,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 6140,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 6600,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 7220,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 6870,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 6460,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 11400,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 9410,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 11530,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 13200,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 14220,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 20620,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 1200,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 1360,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 1550,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 1470,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 1280,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 1390,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 1170,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 17180,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 11890,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 12580,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 12410,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 12570,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 2820,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 3220,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 3360,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 3110,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 3750,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 4750,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 9660,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 11890,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 13610,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 3440,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 3850,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 3630,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 15150,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 12240,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 10730,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 9200,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 12760,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 15330,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 2350,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 2750,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 3210,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 4380,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 6050,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 7000,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 7120,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 6750,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 790,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 1060,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 620,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 1560,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 1260,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 3020,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2960,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 3750,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2160,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 2830,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 3160,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 25350,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 25390,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 14170,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 3060,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 2140,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 740,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 640,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 780,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 790,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 1160,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 1220,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 1430,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 20470,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 25610,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1160,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 3560,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 20320,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 17530,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 18210,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 5450,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 7090,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 12970,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 13090,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 11190,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 10650,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 15650,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 14960,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 11530,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 11590,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 11610,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 10110,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 14890,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2170,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2450,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 2750,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 3170,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 16140,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 4430,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2510,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 3440,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 3630,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 3590,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 21590,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 21630,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 17210,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 18600,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 14200,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 12190,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 6380,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 1390,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1290,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 1190,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 520,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 1240,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 21180,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 21330,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 18260,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 18670,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 14210,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 11830,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 10950,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 4640,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 3250,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3350,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 3540,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 16360,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 16380,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 12210,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 11790,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 6010,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 6710,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2960,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 6980,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 780,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 720,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1250,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 600,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 1330,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 12720,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 13190,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 14120,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 14680,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 14890,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 14690,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 25250,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 3110,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2820,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 3780,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 7150,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 17140,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 16410,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 14770,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 13550,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 14220,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 11340,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 11510,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 12430,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 14540,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 14540,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 14020,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2880,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 3590,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 6770,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 6590,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 3270,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 5550,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 7090,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 7080,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 6380,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 2880,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 3160,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 3430,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 4830,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 4520,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 3380,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 3790,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 13000,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 13830,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 860,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 600,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 840,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1280,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 1240,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 1210,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2520,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 5030,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 7150,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 2140,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 2270,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 14280,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 18780,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 23840,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 21400,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 15990,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 850,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 1260,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 1270,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 1470,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 570,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 600,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 1270,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 1140,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 2370,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 2450,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 3070,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 5000,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 5080,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 5270,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 5970,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 6520,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 2500,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 16930,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 18080,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 25070,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 22900,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 18490,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 770,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 1360,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 13780,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 14220,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 12920,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 12050,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 3100,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 3390,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 12200,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2002
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 16140,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 15410,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 11330,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 2760,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1997
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 3580,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 4130,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 5000,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1180,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 1150,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 1780,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 13550,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2530,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 6310,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 7130,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 7270,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 4970,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 3400,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 20990,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 18190,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 11730,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 22640,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 710,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 670,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 2160,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 1330,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 14010,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 9000,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 10590,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2009
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 14200,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2019
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 3620,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 3800,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 3980,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 3030,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 15700,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 15950,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 15590,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 3120,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 3360,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 3050,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 6440,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 4740,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 6810,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 6820,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2100,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 2480,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2007
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 3440,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2023
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 25340,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 25180,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 17690,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 17210,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 17660,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 17850,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2005
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 720,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 470,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 900,
+        "code_departement": "18",
+        "nom_departement": "Cher",
+        "annee": 2006
+    }
+]

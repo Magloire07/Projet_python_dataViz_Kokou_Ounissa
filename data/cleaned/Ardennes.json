@@ -1,0 +1,7058 @@
+[
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 3560,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 3850,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 4200,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 4360,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 12060,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 14170,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2960,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 2080,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 2420,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 21050,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 17620,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 21690,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 24550,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 25200,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 1080,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1550,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 1560,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 1330,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1780,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1620,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 5120,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 4060,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 16910,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 16910,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 3130,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 6400,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 6660,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1330,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 2450,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 4240,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 3790,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 3490,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 3470,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 3660,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 2110,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 1730,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 1450,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 1150,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 15390,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 10920,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 12060,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 12270,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 790,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 1340,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 14030,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 21380,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 20690,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 24890,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 2100,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 3540,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 4440,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 4290,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 6300,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 6620,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 15290,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 13150,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 14870,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 4320,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 3200,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 6300,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 6990,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 6990,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 15670,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 15440,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 14240,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 1510,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 1610,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 3380,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 4600,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 4500,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 1960,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 23830,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 25330,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 24640,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1170,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1230,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1800,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 14080,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 10910,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 12870,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 14860,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2970,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 4390,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 6680,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 6590,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 5470,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 4180,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 3180,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 21170,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 24600,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 15580,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 14430,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 13950,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 17650,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 17210,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 1060,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 1350,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 3110,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 6480,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 3120,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 3200,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 3380,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 16000,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 15750,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 17090,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 16710,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 15870,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 14310,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 14360,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 15940,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 15580,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 14080,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 13990,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 13870,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 13640,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 3410,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 5580,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 6100,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 6260,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 2670,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 2610,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 6010,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 3070,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 24160,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 20370,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 24680,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 24590,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 3240,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 3170,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 3580,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 3470,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 6310,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 760,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 940,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 870,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 1660,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 1840,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 2390,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 2140,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 3110,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 3080,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 3420,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 6130,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 6220,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 4110,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 4420,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 3690,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 3320,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 23340,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 23730,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 23380,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 23780,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 24840,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 25440,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 1250,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 1370,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 1460,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2580,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 6930,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 6710,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 6710,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1160,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 1670,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 20150,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 20260,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 18620,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 14900,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 14570,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 16520,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 15280,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 13740,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 3700,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 3420,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2650,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 4350,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 4520,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 6180,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 2530,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 3110,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2600,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 6480,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 7060,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1600,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 2780,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 4290,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 4520,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2140,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 2110,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 2710,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 3030,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 3210,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 21120,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 17170,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 19420,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 20280,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 25260,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 25170,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1030,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 1190,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 1330,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 1440,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 1310,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 1340,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1260,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 1180,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 2370,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 1150,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 12080,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 4360,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 4430,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 4340,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 4020,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 3640,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 3610,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 18420,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 13220,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 15490,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 13960,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 3240,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 4060,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 5000,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 6210,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 860,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1110,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1080,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 1060,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 1150,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 1740,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 1470,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 1450,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 1560,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1150,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 2590,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 15840,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 13470,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 14300,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 14840,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 15700,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 13960,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 11210,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 14030,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 14180,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 3200,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2750,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 3910,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 5170,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 5300,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 5780,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 5170,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 4180,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 4280,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 3970,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 3050,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 20810,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 15060,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 14060,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 14020,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 12230,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 13720,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 14760,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 14740,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 4950,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 5710,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1730,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2180,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2110,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 3080,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 24030,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 4250,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 3680,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 3730,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 4120,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 3680,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 19270,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 16190,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 11790,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 16790,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 4440,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 5590,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 6370,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 6290,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 1230,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 1560,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 1340,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 13990,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 11370,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 11080,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 15000,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 14800,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 14700,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 13440,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 4770,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 6420,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 1510,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2690,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 23010,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 23850,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 20480,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 20920,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 21890,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 19290,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 4260,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 3530,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1730,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 3340,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 3230,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 1400,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 15840,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 15720,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 6630,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1460,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 1100,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 20510,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 18740,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 12140,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 15580,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1620,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2110,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 4420,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 3840,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 4120,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 3510,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 3390,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 3420,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 3260,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 19570,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 23430,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1110,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 980,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 1330,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 1560,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 1610,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 1430,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 1340,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 14700,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 13470,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 13520,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 3200,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 4410,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 4670,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 14080,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 4050,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 4280,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 4360,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 3900,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 20850,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 3410,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 3410,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 6760,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1020,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 1480,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 1400,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2430,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 3310,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 3370,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 3650,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 4380,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 5110,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 6360,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 18530,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 15670,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 13270,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 15460,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 17350,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 13810,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1780,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 3560,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 3540,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 6170,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 3450,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 6750,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 3060,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 5800,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 5190,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 4380,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 3540,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 3490,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 23710,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 21790,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 21640,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 19360,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 23530,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 15820,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 15530,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 14120,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 11780,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 14490,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1190,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 1450,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 880,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 1310,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 1450,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 1130,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 17780,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 15590,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 13730,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 16710,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 13400,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 14210,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 14420,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 14300,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 2140,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2710,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 4260,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 6750,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 23420,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 21480,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 25320,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 23640,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 23580,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1060,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 1370,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 3360,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2970,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 3710,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 5890,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 5770,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 1510,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 4010,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 4180,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 16440,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 13380,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 16460,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 16160,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 13810,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3340,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 6160,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2080,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 3020,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 850,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 1820,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 13770,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 16510,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 15220,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 13580,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 14000,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 13830,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 15050,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 13820,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 3440,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 4740,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 5940,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 6070,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 4630,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 4200,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 24130,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 19980,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 17040,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 24500,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 19280,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 15710,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 15570,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 14850,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 14480,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 3920,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 3600,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 3060,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 2780,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 22790,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 23650,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 25190,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 24740,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1130,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2770,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 730,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 1210,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 5800,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 3550,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 3600,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 5140,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 6430,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 780,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 1080,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1300,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 1160,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 1370,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 3340,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2600,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2650,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 3020,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 6730,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 7050,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 15460,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 13790,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 13330,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 12640,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 15030,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 20800,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 15140,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 15730,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 15510,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2260,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 2390,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 2180,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 3210,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 4230,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 3890,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 3890,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 4110,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 23270,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 17450,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 25260,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 1840,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 980,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 1440,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 1540,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 1510,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 2430,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 13600,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 13550,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 14660,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 14890,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 4980,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 3400,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 14020,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 12540,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 11550,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 13500,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 3630,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 6680,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 6830,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1460,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 2460,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 22290,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 20870,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 18390,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 17300,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 18570,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 21430,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 25370,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 23720,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1670,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 2580,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 4290,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 4230,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 3370,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 3110,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2760,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 4520,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 6810,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 6550,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 13620,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 13610,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 12320,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 13060,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 13570,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 14390,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 14460,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 20600,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 17330,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 12670,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 16330,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 17360,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 15580,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 15030,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 19210,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 19420,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 24730,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 1840,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 3630,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 3170,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 4510,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 5140,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 6210,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 5890,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1050,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 920,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 1180,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 1180,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 1400,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 15790,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 13280,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 15000,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 4400,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 4240,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 3890,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 3520,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 3200,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 19770,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 2590,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 3370,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 3560,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 6770,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 1470,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 1290,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 1640,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1030,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 1360,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 5220,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 6410,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2080,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 21700,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 21660,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 21300,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 20770,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 25020,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 25070,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 1100,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 1200,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 6630,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2260,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 2490,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1270,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1480,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1350,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 1020,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 1250,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 15140,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 15660,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 13960,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 13700,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 6170,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 4300,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 3980,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 4340,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 4060,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 3650,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 4150,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 3860,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 4090,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 22670,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2610,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 6300,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 6890,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 16290,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 13860,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 13540,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 14220,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 11670,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 12450,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 14600,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 14350,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 3600,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 6080,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 6410,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 5680,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1440,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1740,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1830,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 2510,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 3110,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 6220,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 4300,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 24460,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 20310,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 21700,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 25280,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 24990,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 1160,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 2510,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 1130,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 1560,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 14780,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 13880,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 15670,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 2700,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 3310,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 23480,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 23320,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 25160,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 25210,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 14140,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 11140,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 14960,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 4400,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 3630,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 3730,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 4010,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 4130,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 3420,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 16020,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 15590,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 15540,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 16460,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 15640,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 11990,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 16420,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1030,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 3180,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 6590,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 2370,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 3230,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 6600,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1150,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 4270,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 3800,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 3030,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 20300,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 18810,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 13340,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 16010,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 15490,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 15680,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 13620,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 12100,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 14060,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 14080,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 15060,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 1850,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2120,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 2850,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 3000,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 3270,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 6280,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 6850,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 21600,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 19860,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 23690,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 24240,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 13520,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 12330,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 14900,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 15000,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2610,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2820,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 4100,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 5050,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 6280,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 6840,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 1390,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 5190,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 4320,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 3500,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 4370,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 5750,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 6400,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 15650,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 16260,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 17420,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 14910,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 3220,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 3360,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 6410,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2240,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 2600,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 24370,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 20900,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 16920,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 23250,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1060,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 1220,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 790,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 1290,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 1660,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 4350,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 5360,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 3310,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 22190,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 23060,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 21210,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 21680,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 19420,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 25460,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 25150,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 24840,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1360,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 980,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 1010,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 1170,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 2570,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 1130,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 15460,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 14880,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 14520,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 4770,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 4070,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 15370,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 11730,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 16760,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 16680,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 16000,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 3220,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 6650,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 5200,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1999
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 3500,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 3580,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 17680,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 19300,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2010
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 3350,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 3410,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 1660,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2014
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 13520,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 12800,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 15490,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 16410,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 16680,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2017
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2006
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 3330,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 3130,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1010,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2001
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 3720,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 7000,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 6980,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 6640,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 14770,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 14150,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 11120,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2007
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 15010,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 14710,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 14250,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 3050,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 5420,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 4400,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 3800,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 3500,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 11460,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2008
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 18240,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 800,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 1160,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 3450,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2005
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 6720,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1310,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 3100,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2019
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 20860,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 21750,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 22310,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 23480,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 25170,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 24060,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1140,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1170,
+        "code_departement": "08",
+        "nom_departement": "Ardennes",
+        "annee": 1998
+    }
+]

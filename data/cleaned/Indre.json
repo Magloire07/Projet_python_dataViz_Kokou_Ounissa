@@ -1,0 +1,7058 @@
+[
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 2530,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 4060,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 4610,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 11490,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 17570,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 17520,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 2630,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 3320,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 4980,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 620,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 550,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 800,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 1080,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 1130,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 600,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 740,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 400,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 1110,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 2710,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 8000,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 8360,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 8210,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 10680,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 10090,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 11180,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 2770,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 2520,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 570,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 660,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 1110,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 900,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 1180,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 8470,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 8320,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 2880,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 3930,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 8750,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 10000,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 8630,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 6520,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 8340,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 8740,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 1890,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 2530,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 2540,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 9070,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 8980,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 7560,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 7330,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 8360,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 8180,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 3060,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 3110,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2450,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 10300,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 8860,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 7200,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 10750,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 10120,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 2120,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2580,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1920,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 2610,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 4620,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 4920,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1560,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1780,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 2420,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 2540,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 13880,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 14060,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 10470,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 17140,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 14980,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 680,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 960,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 1050,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 500,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 620,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 650,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 1080,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 690,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 490,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 920,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 1170,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 8250,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 7600,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 8470,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 3900,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 4250,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 4690,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2420,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 2750,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 2670,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 10580,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 10860,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 4770,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 5150,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1660,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 1640,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 13590,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 13220,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 10380,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 17600,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 16990,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 16580,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 10720,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 8480,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 7530,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 10590,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 10330,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 10160,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 7450,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 9720,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1600,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 5060,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 4910,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 14180,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 13530,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 17540,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 3320,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 1790,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1260,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1700,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1800,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1750,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 1760,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 1800,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 2580,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2370,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 2990,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 3230,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 1080,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 660,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 530,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 580,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 790,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 580,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 530,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 860,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 12250,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 12670,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 9760,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 15440,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2270,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 2660,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 2240,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 6120,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 7190,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 10600,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 9050,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 8160,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 8090,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2420,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 3210,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 3790,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 4810,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1840,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 3590,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 5100,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 530,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 840,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 1140,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 1150,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 850,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 650,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 680,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 640,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 720,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 500,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 590,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 490,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 1030,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2350,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1960,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 1870,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 2580,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 13710,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 11710,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 12570,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 14320,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 17110,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2540,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 4470,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 860,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 640,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 730,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 580,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 540,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 980,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 9040,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 7560,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 7650,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 8840,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 2880,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 8040,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 10430,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 11060,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 9950,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 8430,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1740,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 1740,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 2160,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2120,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 1730,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 2480,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 2370,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 3210,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 12510,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 16040,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 17480,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 15820,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 15690,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 15480,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 530,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 1020,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 1060,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 7850,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 7500,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 8610,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 9260,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 9970,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 10030,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 10260,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 8200,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2260,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2480,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 3060,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 3780,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 4950,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 6190,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 6310,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1910,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 1820,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 5210,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 5050,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 14070,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 12370,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 11610,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 11990,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 12930,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 18040,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 16910,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 10100,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 7790,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 8280,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 8770,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 2460,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 2290,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 4960,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 500,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 9210,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 7340,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 9970,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1060,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 1760,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 3100,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 550,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 500,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 920,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 1230,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 9940,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 17750,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 17450,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 16200,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 9880,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 10900,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 8910,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 4570,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 630,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 580,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 1250,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 900,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 1260,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 11420,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 12040,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 12410,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 13600,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 13820,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2370,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2510,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 2820,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1450,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 4340,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 5020,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 4300,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 4840,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 8590,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 8260,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 9390,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 8750,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 2600,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 8360,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 8710,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 10170,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 9750,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 9060,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 10450,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 7920,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 5660,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 10770,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 7870,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2990,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 4590,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 3020,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2490,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 2110,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 630,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 960,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 1220,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 1150,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 1260,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 1110,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 1160,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 790,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2510,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2100,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 4050,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 3930,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 4980,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 4850,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 13170,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 12670,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 18000,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 18120,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 18080,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1360,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 2500,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 4140,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 11620,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 9770,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 11800,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 17600,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 17930,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2290,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 2830,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 10020,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 9930,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 8150,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 7060,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 8970,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 10250,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 8670,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 510,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 900,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 1100,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 1480,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 920,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 4670,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 9750,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 8140,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 8540,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 9130,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 9200,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 8420,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 6650,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 7320,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1780,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2700,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 14020,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 11720,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 11670,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 11070,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 14960,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 2240,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 2610,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2490,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2390,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 4450,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2100,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 1840,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 2560,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 670,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 1200,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 2270,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 2820,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 8320,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 8160,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 10660,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 10070,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 7900,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1890,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2260,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 2970,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 5150,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 1610,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 1920,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 2420,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 13030,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 13450,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 17300,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 670,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 500,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 560,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 570,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 570,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 490,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 680,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 960,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 920,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 1010,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 9170,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 6270,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 8770,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 9890,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 9900,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 4850,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 2750,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2180,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 2740,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 10290,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 10130,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 8030,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 7950,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 10360,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 10390,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 8220,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 8180,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 6670,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 9760,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 7390,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 8590,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 8640,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 7330,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 9690,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 9740,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 10170,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 3340,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 1840,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 13900,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 14230,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 11590,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 12660,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 14680,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 1060,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 700,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 740,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 780,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 730,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 550,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 1990,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 2240,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 2580,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 2540,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 3550,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 4680,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 5120,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 4790,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1630,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1700,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 1770,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 11020,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 12620,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 1990,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1780,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 4720,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 5010,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 5140,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 5110,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 4740,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 7690,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 10070,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 9560,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 9400,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 9230,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 12710,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 3350,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 3180,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2140,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 2520,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 1920,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 590,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 280,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 920,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 760,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 4550,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 540,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 610,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1030,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 650,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 7790,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 8140,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 9150,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2300,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 2710,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 7900,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 8040,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 7680,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 9420,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 10510,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1610,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 1920,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 2520,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 2540,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1870,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 1750,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 2180,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 3680,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 5160,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 13390,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 15260,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 17420,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 13000,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 12130,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 15160,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 18150,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2100,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2420,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 1920,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 2500,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 4860,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 5090,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 5000,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 8930,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 8020,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 7870,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 6780,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 6640,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 7580,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 660,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 500,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1170,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 880,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 9330,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 9910,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1650,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 4820,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 4930,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 8810,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 7470,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 8140,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 9900,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 2480,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 9320,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 8660,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 6280,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 7570,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 8590,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 8510,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 480,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 550,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 530,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 1060,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 1050,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 880,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 4900,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 4820,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1430,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 2330,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 2290,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 2510,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 2390,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 12620,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 11640,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2430,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 4590,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 1800,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 1770,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1830,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 510,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 12760,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 12050,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 15180,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1050,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 1010,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 420,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 430,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 430,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 1140,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 680,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 9090,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 7360,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 8010,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 1750,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 2540,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 5120,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 5110,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 5150,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 8850,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 10230,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 8220,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 7960,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 7700,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 7590,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 8120,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 8680,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 6370,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 10290,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 1640,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 2490,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 13570,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 12240,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 15680,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 2520,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1780,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 7850,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 8510,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 10830,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2350,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2500,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2330,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 3660,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 4780,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 5020,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 4830,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 740,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 830,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 1220,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 12080,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 13280,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 16540,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 16830,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 17900,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 7010,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 7840,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 9950,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 9360,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 9410,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 3030,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2850,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 2390,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 2460,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 10640,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 7950,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 9390,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 2700,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2570,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 4520,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 4380,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 5170,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 500,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 520,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1030,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 790,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 800,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 920,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 680,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 870,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1990,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 2520,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 10130,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 9850,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 9010,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 8600,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 5860,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 10130,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 7490,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 7360,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 10060,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 9710,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 14130,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 12910,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1920,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2580,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1890,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2160,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 4990,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 4470,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 4970,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 2080,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 2280,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 2450,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2160,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2300,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 2480,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 7970,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 5790,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 10510,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 8380,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 7880,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 4820,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1730,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 2370,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 14170,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 17780,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 740,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 520,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 1130,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 3420,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 14150,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 14380,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 12710,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 15970,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 16990,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 530,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 1010,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 1030,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 1180,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 1140,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 8120,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 8800,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 9110,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 8180,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 7760,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 6420,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2008
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 3340,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 2120,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 2710,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 8280,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 11020,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 10300,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1730,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2350,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 470,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 780,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 1100,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 780,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 760,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 7990,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 8660,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 8540,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 7930,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 4010,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 2770,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 1670,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 1960,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 2080,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 2590,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 3890,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 4140,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 4860,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 7570,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 9080,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 9760,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 9680,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 8820,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 11570,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 10600,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 12170,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 14640,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 16310,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2014
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 790,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 540,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 550,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 520,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 490,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 1130,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 880,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 310,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 860,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 1230,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 9990,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 2850,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 3160,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 5020,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 5130,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 7930,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 10930,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 10800,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 10640,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 10480,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 10010,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2480,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 4420,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2120,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 2510,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 11350,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 17640,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 18020,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 14780,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 590,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1020,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "36",
+        "nom_departement": "Indre",
+        "annee": 2015
+    }
+]

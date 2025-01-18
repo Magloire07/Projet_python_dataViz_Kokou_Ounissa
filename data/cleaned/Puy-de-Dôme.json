@@ -1,0 +1,7058 @@
+[
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 32780,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 29710,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 3860,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 4740,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 5140,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 37000,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 38430,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 40070,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 46370,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 48710,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 51710,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 51570,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 53360,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 3340,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 4510,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 4760,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 7760,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 6220,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 7300,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 6880,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 11080,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 2530,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2530,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 2430,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 2270,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 7260,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 7050,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 6180,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 24770,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 4500,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 4420,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 5960,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 6950,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 13210,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 13310,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 13930,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 6210,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 6890,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 7290,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 3530,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1460,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 3360,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 26490,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 23520,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 29760,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 32300,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 33250,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 6430,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 6990,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 7240,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 6990,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 12170,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 13930,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 23000,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 20400,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 19680,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 24950,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 28390,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 31130,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 30360,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 38490,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 35040,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 35400,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 35490,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 37410,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 38260,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 49690,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 4890,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 5840,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 6070,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 7290,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 7390,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 7660,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 6730,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 25410,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 24870,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 27050,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 32390,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 33120,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 28660,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 6840,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 6420,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 6130,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 7360,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 25870,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 24460,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 4650,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 4650,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 4440,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 5510,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 6380,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 8150,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 11520,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 13220,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 7690,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 6560,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 15130,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 15430,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 15610,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 37850,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 51650,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 54030,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 48360,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 5240,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 7440,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 3740,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 1700,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 2770,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 2600,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 2370,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 2500,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 4840,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 5110,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 4380,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 7370,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 10350,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 13320,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 13330,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 7660,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 7300,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 6530,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 6930,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 6780,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 6630,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 37880,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 36240,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 36000,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 44740,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 52550,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 48380,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 47880,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 29200,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 24680,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 24030,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 27480,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 7220,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 12030,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 5620,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 5600,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 7290,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 7470,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1340,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2690,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 2240,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 2740,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 29300,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 31090,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 30710,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 26190,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 25110,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 25510,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 33010,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 28630,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 4610,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 4600,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 13220,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 6380,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 6490,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 6480,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 6870,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 5590,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 35750,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 39760,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 52770,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 4480,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 6890,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 8850,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 10170,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 12210,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 1280,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2280,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2260,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 3340,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 2700,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 2880,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 3200,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 4000,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 7560,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 7260,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 6880,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 7240,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1750,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2110,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 8220,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 7550,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 38850,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 36400,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 35100,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 35310,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 34760,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 47600,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 50880,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 52990,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 4320,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 5070,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 25160,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 25960,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 32240,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 28890,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 5960,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 6580,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 7710,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 4380,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 5130,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 13670,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 13490,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 3260,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 3620,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 23330,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 23560,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 21070,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 26740,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 29620,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 24280,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 4040,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 5070,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 5750,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 13940,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 36850,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 31280,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 51510,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 53550,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 4750,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 5000,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 5080,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 6750,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 7470,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 7590,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 7070,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 6560,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 9410,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 11460,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 3780,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 3180,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 3680,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 2580,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 24910,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 23120,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 24600,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 26140,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 31360,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 7400,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 5200,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 6460,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 7100,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 7210,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 7610,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 23390,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 18780,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 28670,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 6460,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 7170,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 15990,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1610,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 2420,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 3850,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 5550,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 6470,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 7310,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 24130,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 23950,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 23440,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 31690,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 24190,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 26710,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 26290,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 26600,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 23100,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 21360,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 26450,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 32830,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 4350,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 4910,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 4980,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 12650,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 7240,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 36450,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 37450,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 38150,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 36010,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 41390,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 26760,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 23970,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 24120,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 28910,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 32200,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 31520,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 4810,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 4540,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 4770,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 34960,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 33080,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 47820,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 5330,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 6280,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 6650,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 7380,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 6340,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 5550,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 7310,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 23970,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 29430,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 9890,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 2770,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 3240,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 3880,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 2830,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 3320,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2100,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2080,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 2240,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 25200,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 23910,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 24170,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 32530,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2670,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 14870,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 5050,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 5280,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 11980,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 13250,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 12940,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 53220,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 8230,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 6740,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 6440,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 7990,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 5830,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 6080,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 6840,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 7410,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 7440,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 1770,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2280,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 2520,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 2770,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 22480,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 18440,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 24530,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 24420,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 31740,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 29100,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 30910,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 4290,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 4450,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 13260,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 1200,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 4080,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 3660,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 29880,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 27280,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 27440,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 23110,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 23950,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 20650,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 29700,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 6220,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 7330,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 6110,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 38180,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 38530,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 38520,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 47800,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 7310,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 8460,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 14850,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 15300,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 3940,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 4410,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 4750,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 5520,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 5690,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 7480,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 6980,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1540,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 2530,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 26330,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 24240,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 25710,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 30780,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 24910,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 23920,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 21090,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 27530,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 3910,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 3900,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 5590,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 6640,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 6990,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 6630,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 7400,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 7390,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 7460,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 36480,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 33910,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 40740,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 51690,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2660,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 1370,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 3200,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2820,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 3590,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 4210,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 4240,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 11390,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 13040,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 13290,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 13710,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1600,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 2570,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 4130,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 5680,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 6940,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 6720,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 6850,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 9020,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 16170,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 27080,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 22920,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 18940,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 28110,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 25440,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 24400,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 4870,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 5030,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 5110,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 5050,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 9860,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 11590,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 8200,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 8060,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 7990,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 7080,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 5820,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 5270,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 7370,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 7690,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 6940,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 39300,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 44220,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 51640,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 4530,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 5440,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 6920,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 32090,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 32470,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 31100,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 30440,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2520,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 6890,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 6720,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 11550,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 13100,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 15320,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 2670,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 2420,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 3400,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 23200,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 23780,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 32340,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 31490,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 5170,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 45070,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 46990,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 53430,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 3670,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 5040,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 5690,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 7510,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 7530,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 4740,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 6940,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 8870,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 14400,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 15680,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 16920,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 3800,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 2710,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 1270,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 5970,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 7410,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 6900,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 7340,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 6720,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 6360,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 6140,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 29130,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 24190,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 26050,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 30810,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 29880,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 24620,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 6420,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 7160,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 8020,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 9710,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 15010,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1480,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 1370,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 1910,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 3810,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 2830,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 3430,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 6860,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 1620,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 22760,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 26920,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 24560,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 24190,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 23030,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 20830,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 28940,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 4200,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 4850,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 8660,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 13030,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 6190,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 7030,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 34640,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 37000,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 33910,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 32480,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 30650,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 45680,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 53570,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 51700,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 30070,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 25050,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 31170,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 30120,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 7530,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 7470,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 38670,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 3310,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1610,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 5480,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 6830,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 6730,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 10420,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 10690,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 4110,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 4400,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 7130,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 7610,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 12440,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 13230,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 13790,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 4650,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 7480,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 7300,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 4370,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 13090,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 12970,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 25430,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 22680,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 31930,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 33220,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 27850,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 27480,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 23220,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 23900,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 25220,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 25610,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 30080,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 25260,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 5820,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 7930,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 38400,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 35300,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 34350,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 33390,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2520,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1620,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 3180,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 7220,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 6770,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 6460,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 7280,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 15760,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 2750,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 2880,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 1480,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1550,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 2660,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 2630,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 3070,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 24680,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 22120,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 6620,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 6680,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 7000,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 7290,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 7130,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 25070,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 23730,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 28430,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 25070,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 11760,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 36730,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 4080,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 6760,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 7390,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 5090,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 5060,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 9370,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 10080,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 32150,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 31910,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 30760,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 29020,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 24550,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 35150,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 32290,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 38660,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 53140,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2100,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 1460,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2140,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1540,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 1620,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 1740,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 2630,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 2770,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 3550,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 5560,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 4920,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 5200,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 6830,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 7050,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 7480,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 6860,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 7110,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 6840,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 6870,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 9430,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 16540,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 15890,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 23300,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 23350,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 24460,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 31770,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 6500,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 6480,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 6470,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 6110,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 6260,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 4600,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 4500,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 4680,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2390,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 3660,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2080,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 2710,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 7080,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 11840,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 15320,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 38860,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 50870,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 53660,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 48090,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 3980,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 5630,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 6980,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 5130,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 6620,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 15580,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 16220,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1630,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 4230,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 4700,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 4710,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 4840,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 5260,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 5000,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 5600,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 800,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 26260,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 21690,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 20920,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 25450,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 32420,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 6140,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 6800,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 6840,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 6990,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 34860,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 30700,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 52510,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 4610,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 7840,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 9130,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 29310,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 28380,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 21630,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 19330,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 24820,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 24610,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 30050,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 35990,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 26600,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 26620,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 25940,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 28710,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 28860,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 8110,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 6160,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 37800,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 5120,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 6870,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 7480,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 6870,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 6400,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 10430,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 16390,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 5030,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 8890,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 11130,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1450,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 3080,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1510,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 21170,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 31110,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2740,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 2670,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 4440,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 5060,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 7570,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 38470,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 38400,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 37590,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 31720,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 31050,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 50510,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 49340,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 25910,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 23630,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 23530,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 7400,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 6170,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 5930,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 7140,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 6220,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 24970,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 31390,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 7160,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 9470,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 16830,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 9640,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 10590,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 13590,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1430,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2990,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 3120,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 3950,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 7970,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 6700,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 5290,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 6740,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 7740,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 7150,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 7440,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 30660,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 31550,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 31270,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 28270,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 26590,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 26670,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 22760,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 28550,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 39190,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 34420,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 36450,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 36440,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 26720,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 24920,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 21720,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 25410,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 29320,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 32810,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 28670,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 3980,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 7040,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 6580,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 8540,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 13310,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 15440,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 3720,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 4940,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 4330,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 10840,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 12210,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 7210,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 6650,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 6110,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 30170,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 27540,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 22890,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 19620,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 31110,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 29490,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1560,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 3690,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 4510,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 6440,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 6690,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 6910,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 7270,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 12400,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 16150,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 16300,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 15760,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1540,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1650,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 1340,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1540,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 2590,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 4000,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 4630,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 5170,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 6580,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2020
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 30360,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 43380,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 52790,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 3360,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 4400,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 5580,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 7440,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 7320,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 7140,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1990,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 6510,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 9270,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 34700,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 35670,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 51260,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1600,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2480,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 2700,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 2850,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 3890,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 5600,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 24960,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 23650,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 28300,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 32300,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 8160,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 5750,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 6550,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 7400,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 7580,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 7180,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 4470,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 4880,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 6650,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 8450,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 28990,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 26580,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 24160,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 23380,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 23840,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 3020,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 3940,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 3890,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 4280,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 4930,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 5490,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 5430,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 7430,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 5420,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 7260,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 7220,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 42430,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 51920,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 7220,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 7320,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 6980,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 6650,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2008
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 22600,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 21060,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 25460,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 32030,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 32360,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 32180,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 29100,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 12870,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 13870,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 1780,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1999
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 2880,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 24760,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 28030,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 31730,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 4160,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 4610,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 4660,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 6200,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 13000,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 6800,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2004
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 7810,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 7140,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 22260,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 30700,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2017
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 9050,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 12770,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 52950,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 52130,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 47790,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2760,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 900,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 2420,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 3170,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 4040,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 5830,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2011
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 2780,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 3240,
+        "code_departement": "63",
+        "nom_departement": "Puy-de-D\u00f4me",
+        "annee": 2021
+    }
+]

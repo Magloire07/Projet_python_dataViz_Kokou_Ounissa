@@ -5,7 +5,7 @@ import src.components.navbar as navbar
 from src.pages.home import home_page
 from src.pages.graph import graph_page , register_callbacks
 from src.pages.geoLoc import map_page
-from src.pages.regions import regions_page
+from src.pages.regions import regions_page , register_callbacks
 from src.pages.description import description_page
 from src.components.footer import footer
 from src.utils.get_data import  startDownload

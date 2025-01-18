@@ -1,0 +1,7058 @@
+[
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 3940,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 5160,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 5120,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 6660,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 5870,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 7420,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 9100,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 9160,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 8290,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 9570,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 7830,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 9950,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 9300,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 8970,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 31300,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 30670,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 25290,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 25490,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 22750,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 43960,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 58870,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 5460,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 5180,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 5440,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 6280,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 12170,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 13150,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 14060,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 13880,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 14420,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 13860,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 7200,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 16230,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2350,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 3250,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 1620,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 3650,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 3550,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 26350,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 27950,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 29140,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 28420,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 26420,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 25490,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 28980,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 36310,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 35500,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 30460,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 38670,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 54190,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 3230,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 3470,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 4050,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 4420,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 11310,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 7760,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 8920,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 7550,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 9780,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 9020,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 9620,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 6860,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 8350,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 6810,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 11440,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 36850,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 29260,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 20400,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 23450,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 6560,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 4890,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 4880,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 5100,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 5510,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 8630,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 8710,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 31020,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 25100,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 28870,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 25170,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 26500,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 36180,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 35710,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 30610,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 29440,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 29440,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 6790,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 6830,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 10190,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 11960,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 7040,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 6820,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 7590,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 8610,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 8040,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 47590,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 46770,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 43670,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 32940,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 40210,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 56320,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 51050,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 5380,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 5420,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 6560,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 6870,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 5760,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 13690,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 4110,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 2180,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 3260,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 3450,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 3500,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 3560,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 9180,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 9120,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 9650,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 9770,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 8990,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 6990,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 35650,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 23950,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 21080,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 33900,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 26990,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 3810,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 4130,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 6830,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 11480,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 7450,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 10920,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 13740,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 16630,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 4730,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 6350,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 6970,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 7830,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 57520,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 53640,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 2670,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 3770,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 28810,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 29440,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 27700,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 26520,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 32510,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 35530,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 26310,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 8000,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 7870,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 8250,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 9620,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 8980,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 8510,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 27600,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 27630,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 31880,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 35550,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 47980,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 43830,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 51390,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 4410,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 5280,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 9560,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 13730,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 13580,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 5990,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 7940,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 9060,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 8890,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 7040,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 8090,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 16520,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2500,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 4440,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 4490,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 46030,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 40040,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 41000,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 58360,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 22740,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 25590,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 28910,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 4630,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 9320,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 26940,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 28010,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 31610,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 36460,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 3730,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 3920,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 3310,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 4020,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 8830,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 30110,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 35980,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 35730,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 5050,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 38010,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 4960,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 8110,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 14090,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 16920,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1740,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 1920,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 2510,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 2240,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 3380,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 3400,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 3600,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 8220,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 9060,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 8830,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 8710,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 8860,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 9620,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 8720,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 34730,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 32400,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 36320,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 34210,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 32000,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 35020,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 4470,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 4980,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 8940,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 7580,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 6720,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 16600,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 41540,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 58850,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 2240,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 2300,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 3720,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 3630,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 1600,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 1850,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 1850,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 4020,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 3890,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 8930,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 8880,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 28470,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 28050,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 21070,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 34850,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 36670,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 34400,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 29200,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 20400,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 33510,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 14390,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 13590,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 8920,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 9030,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 8900,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 31410,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 25560,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 29070,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 22740,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 30130,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 35910,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 39700,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 35040,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 43650,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 55190,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 51090,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 4830,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 5160,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 5390,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 8700,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 12950,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 36570,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 33710,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 26920,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 5310,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 5480,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 5800,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 8700,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 9170,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 5480,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 7220,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 7970,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 10690,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 11270,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 2540,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 3530,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 2080,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2600,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 8710,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 10100,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 9070,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 8340,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 7480,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 3380,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 6060,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 6900,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 8320,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 7930,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 7060,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 5940,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 6480,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 7540,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 26200,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 24230,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 31050,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 35850,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 43990,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 39710,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 57900,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 3800,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 3800,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 25530,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 28300,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 28470,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 30330,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 35260,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 5350,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 6170,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 6640,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 14060,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 13990,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 26080,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 25530,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 32020,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 33690,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 34110,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 34250,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 33010,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 1340,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 3380,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 3220,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 3800,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 26860,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 29700,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 41280,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 46690,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 47560,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 43070,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 42420,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 55310,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 13330,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 13440,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 16060,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 16230,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 14050,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 14120,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 9580,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 9840,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 6050,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 26240,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 26770,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 36120,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 34380,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 33580,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 33220,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 5680,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 9820,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 12970,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 13400,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2350,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 1960,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 31530,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 28530,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 23340,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 31180,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 2830,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 3390,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 6000,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 9280,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 16060,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 47310,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 43590,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 50520,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 57010,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 4740,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 5500,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 6900,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 6120,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 6580,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 7820,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 8480,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 8020,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 8170,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 5590,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 5420,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 6740,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 6610,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 28650,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 34810,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 30730,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 35970,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 51530,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 51970,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 36750,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 31740,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 5310,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 6020,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 8260,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 7010,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 8750,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 9800,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 9180,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 6930,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 2530,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2700,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 2960,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 7510,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 7110,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 6950,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 9530,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 17090,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 16790,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 1470,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2350,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2570,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 2820,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 8540,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 27870,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 34760,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 35410,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 58830,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 6480,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 6180,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 13820,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 7470,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 6790,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 6970,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 6780,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 9710,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 16300,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 17000,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 17160,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 16870,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 6780,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 5770,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 5730,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 8490,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 8940,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 8900,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 2430,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2430,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 3220,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 1660,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 33720,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 27470,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 27840,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 7510,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 8440,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 8900,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 4990,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 7830,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 8940,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 39590,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 38510,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 40320,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 44660,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 38850,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 37650,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 45850,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 53200,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 58390,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 59320,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 58180,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 3260,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 3790,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 2520,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 3250,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 11710,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 10700,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 8100,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 8860,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 7170,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 6470,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 6440,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 8770,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 9660,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 7910,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 6990,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 31460,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 29340,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 34890,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 36240,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 26850,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 27580,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 28720,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 3980,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 4260,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 5420,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 5450,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 5950,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 6020,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 13650,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 13580,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 30010,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 35860,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 11000,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 7600,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 8030,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 9000,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 7200,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 45920,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 46650,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 60480,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 51860,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 2700,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 3360,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 3550,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 3510,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 1470,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2290,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 4220,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 5520,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 5610,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 6850,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 5770,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 8390,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 9200,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 11070,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 12560,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 12790,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 13300,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 14500,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 4230,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 5120,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 5150,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 4930,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 6070,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 5800,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 9170,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 9070,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 9260,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 6240,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 7650,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 7750,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 15050,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 15860,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 26890,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 23960,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 27790,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 5310,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 6290,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 9030,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 8760,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 34320,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 34110,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 26630,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 33080,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 5970,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 7870,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 10430,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 13460,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 4040,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 5100,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 7660,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 6930,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 7250,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 9570,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 25800,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 35630,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 35880,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 34080,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 30710,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 12130,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 9090,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 8920,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 8870,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 9870,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 42520,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 57190,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 2570,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 8500,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 8540,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 8550,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 15920,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 16410,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2160,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2240,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 3200,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 1890,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2290,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 7760,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 9020,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 30150,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 31510,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 33780,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 5110,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 6470,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 32450,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 33390,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 59160,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 59110,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 58540,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 6420,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 10690,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 27340,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 22000,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 31070,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 44840,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 42490,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 37540,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 27590,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 11900,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 10280,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 8670,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 8920,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2430,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 1250,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2580,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 3230,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 4170,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 36040,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 29970,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 22200,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 29940,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 35700,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 5350,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 6610,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 5150,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 7330,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 13370,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 6820,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 6450,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 6470,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 7120,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 15590,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 11740,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 10470,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 10010,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 9910,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 9320,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 27670,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 29320,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 33340,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 36250,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 32770,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 25890,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 26010,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 26430,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 28210,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 35210,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 2540,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 2280,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 4030,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 3500,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 11610,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 8320,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 8580,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 47380,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 43320,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 52330,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 57770,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 9620,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 8570,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 46270,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 45280,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 39440,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 43520,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 44770,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 58270,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 3370,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 3670,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 3980,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 3670,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 9180,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 6620,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 9610,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 9050,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 8390,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 7080,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 27300,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 30190,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 5020,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 6830,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 7090,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 34060,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 35470,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 28060,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 29830,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 34600,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 9030,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 8480,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 9680,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 8980,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 8360,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 6800,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 7650,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 47680,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 39140,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 45090,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 56270,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 57980,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 36000,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 21640,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 33330,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 33850,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 5070,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 5430,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 6580,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 6660,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 8860,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 14320,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 7600,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 8380,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 9320,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 13130,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 15990,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 16590,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 30380,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 31290,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 26120,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 35560,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 36360,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 35990,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2420,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1920,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 3220,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 3650,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2170,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2510,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 2560,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 3610,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 3660,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 3420,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 13790,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 14390,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 47190,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 43800,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 43010,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 48650,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 56130,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 59240,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 56430,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 12090,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 11900,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 7850,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 8770,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 7120,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 36740,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 28030,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 34680,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 32310,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 27100,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 8010,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 7770,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 9380,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 15780,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 16390,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 5150,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 5400,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 9140,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 3100,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 3560,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 27110,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 28190,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 6820,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 7510,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 9020,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 6990,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 32470,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 47220,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 58710,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 8970,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 5460,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 5770,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 13980,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 27540,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 28200,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 30490,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 27970,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 28560,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 27470,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 30460,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 7530,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 8220,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 9440,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 14380,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 8940,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 31370,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 29250,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 31890,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 30270,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 25850,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 2590,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2240,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 2540,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 1660,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 3970,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 4350,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 4990,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 8320,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 11010,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 12610,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 16170,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 5340,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 6900,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 6740,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 7140,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 7990,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 8190,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 39440,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 44320,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 58210,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 58000,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 52120,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 2370,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 3330,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 3470,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 4940,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 5240,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 5340,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 6760,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 10110,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 11960,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 14610,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 2590,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 3340,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 3180,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 6780,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 7860,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 14710,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 5380,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 5650,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 6240,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 7190,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 41180,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 45270,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 33800,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 41700,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 49620,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 51090,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 50760,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 1990,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 3230,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 11940,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 7970,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2002
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 9110,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 28020,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 31430,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 24980,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 21450,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 21600,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 28590,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 33090,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 13910,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2260,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2460,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 3910,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 4130,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 37220,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 33010,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 26150,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 6660,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 7580,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 5090,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 5760,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 6640,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 6980,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 7970,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 4800,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 7710,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 7190,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 6420,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 6090,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 13210,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 16360,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 7970,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 8530,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 6940,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 47090,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 51120,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1540,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 3590,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 29300,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 31610,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 31080,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 30290,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1999
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 30630,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 2650,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 1660,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 1600,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 1990,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 2820,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 10520,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 29810,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 28010,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 29340,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 34300,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 32040,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 25040,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 34100,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 34990,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 34220,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 34100,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 33570,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 6310,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 4970,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 11730,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 12930,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 13830,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 4510,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 7620,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 7260,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 8830,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 9700,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 16280,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 15490,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 6570,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 6710,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 8180,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 9030,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 8070,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 8040,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 45410,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 42430,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 44510,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2004
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 58210,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2015
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2420,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2000
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 3170,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 3650,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 2270,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "14",
+        "nom_departement": "Calvados",
+        "annee": 2013
+    }
+]

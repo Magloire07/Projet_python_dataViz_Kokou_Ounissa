@@ -1,0 +1,7058 @@
+[
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 1620,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 7980,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 7050,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 10630,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 12000,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 20070,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1270,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 710,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 860,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 510,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 1700,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 5850,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 10540,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 8850,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 11300,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 12240,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 12470,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 14120,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 15470,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 17230,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 20070,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 540,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 760,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 980,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 1510,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 3240,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2700,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 3740,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 3620,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2170,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 8800,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 7930,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 5950,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 8480,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1330,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 4510,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1770,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2290,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2290,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 2830,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 3610,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 3580,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 3340,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 3120,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 6390,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 7670,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 12260,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 9480,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 9240,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 3830,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 7430,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 7380,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1440,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2290,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 2760,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 10330,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 12250,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 17730,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 20070,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1190,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1310,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1560,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 1870,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 2760,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 4630,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 4910,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 4420,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 1160,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 1370,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 1300,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 1450,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 670,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 1100,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 1050,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 1450,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 3100,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 3580,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 7310,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 7980,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 8960,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 12760,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 8430,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 8070,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 7860,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 14130,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 10710,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 1830,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 4230,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 4480,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2370,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 4190,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 7320,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1810,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 2850,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 2820,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 12550,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 11200,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 11700,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 12130,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 14270,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 17920,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 18850,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 17860,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1160,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 660,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 8450,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 10320,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 11200,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 10800,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 3930,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2140,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 3940,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 3500,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 3090,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 7920,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 12500,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 12460,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 10600,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 19310,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 20280,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 19980,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 18150,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1240,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 1430,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 1510,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 1750,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 1730,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 4540,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 4550,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1540,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1780,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 470,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 480,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 550,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 1310,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 980,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 860,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 1600,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 1700,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 1960,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 12980,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 10140,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 20440,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 19920,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 8540,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 6040,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 7860,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 8380,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 10150,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 10130,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1450,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 1760,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 4730,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 4640,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 3410,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 3520,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 3500,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 5940,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 7390,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 7840,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 7880,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 6690,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 9150,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 10650,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 630,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 1100,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1050,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 1200,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1020,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 1450,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 1630,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 2690,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 6300,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 7400,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 8010,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 2260,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 2270,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 2560,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 13020,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 10210,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 10170,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 14110,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 20460,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 20460,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1150,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2160,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 4830,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2600,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 2270,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2330,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 6100,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 6170,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 7400,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 7100,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 6810,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 420,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 1050,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 1300,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 1480,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2780,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 3220,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 9370,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 6810,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1670,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1560,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 2690,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2110,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2290,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 7600,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 12290,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 12880,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 14360,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 20530,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 17730,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 470,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 510,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 1180,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 1250,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 680,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 700,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 1890,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 1870,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2120,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 3500,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 7380,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 8220,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 7660,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 9080,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 10800,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 10690,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 6600,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 7860,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 7980,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 4600,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 3950,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 3310,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 2530,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 3340,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 11070,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 12850,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 12640,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 12910,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 20660,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 4430,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 8270,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 1630,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 2630,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 2240,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 2580,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 2820,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 7020,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 5250,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 450,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 380,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 1220,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 490,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 470,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 980,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1020,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 3490,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1560,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2290,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2530,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 4070,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 4150,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 4430,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 7540,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 7980,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 6520,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 6620,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 8700,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 12530,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 12940,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 14920,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 20310,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 21360,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 380,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 730,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 790,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 800,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 1020,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 1080,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 8390,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 7620,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 7840,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 7890,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 6190,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 2530,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 3750,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 4560,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 7670,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 9000,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 12140,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 10460,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 460,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 1230,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 1280,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 660,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 8880,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 7870,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 7350,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 8560,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 12150,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 12300,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 11180,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 2390,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 4180,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 7410,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 6830,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 4160,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 4300,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 3590,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 3490,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 1870,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 1960,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 1990,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 3430,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 8180,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 10150,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 10210,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 8090,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1510,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 1660,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 4460,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 410,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 470,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 540,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 1460,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 1360,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 7710,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 7770,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 6410,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 6000,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 6690,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 7250,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 8890,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 12270,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 870,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 640,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 1670,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 1890,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 3900,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 14360,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 14710,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 20300,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1750,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2270,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1750,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1700,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 2960,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 2610,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 7810,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 7830,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 7140,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 10400,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 12390,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 12470,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 10810,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 12320,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 16620,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 19980,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 21080,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 6650,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 7630,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 6250,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 10500,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 10940,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 11020,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 10260,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 1620,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1550,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 3390,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 3820,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 3820,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 3070,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 420,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 6300,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 6780,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 7110,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1030,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 690,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 510,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 580,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 3770,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 3310,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 2510,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 2820,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 3160,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 3590,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 3540,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 3700,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 3130,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 7890,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 6550,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 6520,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 8810,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 12320,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 9500,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 11080,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 11920,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 14350,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 19350,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 18260,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 1910,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 1650,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 7320,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1730,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 2990,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 2970,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 700,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 660,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 520,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 1670,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 1660,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 1890,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 11130,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 2660,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 12640,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 10520,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 20400,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 1030,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 1220,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 880,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2820,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2850,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 7120,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 12100,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 9530,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 9460,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 8590,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 10170,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 9870,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 8010,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 1890,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 6170,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 8360,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 8350,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 10350,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 10290,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 3710,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 3670,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 10040,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 14230,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 21050,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 450,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 1200,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 1540,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 1660,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2260,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 3920,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 5640,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 6350,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 7260,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 7120,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 6930,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 8190,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 9040,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 9790,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 10750,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 11400,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 10490,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 1920,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 9490,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 6380,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 7860,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 7050,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 10200,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 8130,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 4470,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 4400,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 7890,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 8210,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 8920,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 10060,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 12450,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 12350,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 12250,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 12300,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 11500,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 460,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 470,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 980,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 1270,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 520,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 1550,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 2170,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 4570,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 7310,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 380,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 1250,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 1280,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 1260,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 1470,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 1430,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 3170,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 3850,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 3880,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 3470,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 3220,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 3060,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 9320,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 8910,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 8660,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 10970,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1730,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 2270,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 2670,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 2600,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 2700,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 6710,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 8140,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 8840,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 12070,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 13050,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 10260,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 11820,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 13130,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1650,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 4520,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 4920,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 11860,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 18890,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 7440,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 10900,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 12420,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 3420,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 390,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 1480,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1170,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 550,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 1760,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 1870,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 10570,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1470,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 3420,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 4480,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1480,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2240,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 3530,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 3780,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 7010,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 5830,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 8940,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 7960,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 7480,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 6500,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 6770,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 3790,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 4850,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 770,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 710,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 920,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 1550,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 1760,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 5020,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 7500,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 6970,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 10220,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 10880,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 12880,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 13890,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 6870,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1630,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2290,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 12580,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 17840,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 430,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 1300,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 1340,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 500,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 1840,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 4160,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 12160,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 10410,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 1780,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 1870,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 1890,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 3910,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 4500,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 6360,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 8130,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 6780,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 7080,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 9450,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 10180,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 3810,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2570,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2080,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 2880,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 12180,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 10440,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 10640,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 17540,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 21980,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 7260,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 6410,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 11170,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 10190,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 8490,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 1770,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 4610,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1360,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 3970,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 5260,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 7000,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 6570,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 11900,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 11980,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 410,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 440,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 870,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 640,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 550,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2300,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 12920,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 11210,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 16130,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 17410,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 20310,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 18470,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 2610,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 3330,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 3820,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 7790,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 9740,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2370,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2120,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 6630,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2120,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 8190,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 830,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 1240,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 6360,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 7990,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 8450,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 10100,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 10340,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 8820,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2260,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 3390,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 3540,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 3440,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 13090,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 12710,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 13340,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 17580,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 20340,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 20470,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 20430,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 9410,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 12260,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 12050,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 10860,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2330,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 3450,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1450,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 1730,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 3630,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 4040,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 4590,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 4780,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 7750,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 6830,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 6580,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 12390,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 12430,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1620,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2600,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 7560,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 7060,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 2700,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 5490,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 7350,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 8130,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 9870,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 10790,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 790,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 960,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 1620,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 830,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 870,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2750,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2300,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 3730,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2100,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 2270,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 12940,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 12660,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 18210,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 20360,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 20560,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 18590,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 530,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 710,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 860,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 1250,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 1620,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 3860,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 500,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2570,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 2690,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 7160,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 7050,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 6930,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 2760,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 11230,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 12590,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 10450,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 690,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 940,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 1280,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 3660,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 8260,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 7350,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 8160,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 9970,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 10970,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 8770,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 7720,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 7620,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 7090,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 10600,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 4490,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 6850,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 7910,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 10610,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 10460,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1430,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 1800,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 3520,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 4370,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 4550,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 4580,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 4620,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 4780,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1430,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1790,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2280,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2700,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 4120,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 4840,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 4780,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2120,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2540,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 3440,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 10300,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 20110,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 6170,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 7660,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 8350,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 10540,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 11810,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 1430,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 1730,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 3510,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 3720,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 3540,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 11570,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 10540,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 11610,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1100,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1480,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 1700,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1540,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2650,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 3170,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 4240,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 2260,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 2240,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 2110,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 4560,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 4930,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 6950,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1730,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 1740,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 2490,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2019
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 10120,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 1350,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 1190,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2018
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2009
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "53",
+        "nom_departement": "Mayenne",
+        "annee": 2023
+    }
+]

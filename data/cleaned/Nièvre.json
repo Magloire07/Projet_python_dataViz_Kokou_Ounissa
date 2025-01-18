@@ -1,0 +1,7058 @@
+[
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 1760,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 9200,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 8900,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 8010,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 8350,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1370,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1800,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 4040,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 4010,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 4030,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 3880,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 13690,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 13780,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 11980,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 1460,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 1700,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 1770,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 2740,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 590,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 640,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 700,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 490,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 660,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 870,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 1080,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 980,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 770,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2100,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 1670,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 9100,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 10640,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 10940,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 10720,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 10110,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 8410,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 9240,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 3220,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 720,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 580,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 900,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 760,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 7290,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 7750,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 7590,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 7380,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1370,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 2880,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 3130,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 7860,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 7940,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 9280,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 12930,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 14040,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 13620,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 12950,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 12030,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 6520,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1400,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1460,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 1920,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 1870,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 7690,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 6010,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 5770,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 7280,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 2180,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 3050,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 6180,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 6510,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 6860,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 6670,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1400,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2170,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 3200,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 1990,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 1850,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 10200,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 12730,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 13810,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 14390,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 14350,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 13410,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 12270,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 1600,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 380,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 670,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 860,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 760,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 870,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 390,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 900,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 770,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 7980,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 5850,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 7490,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 6930,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2100,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 1850,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 3400,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 3980,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 8580,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 8100,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 12320,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 10580,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 10900,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 1910,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 1390,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1470,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 530,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 690,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 920,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 9240,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 6170,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 6690,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 8010,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1630,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 2100,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2490,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 13910,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 14270,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 12950,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 14790,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1760,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2270,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2100,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 2600,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 2970,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 3550,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 3790,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 3720,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 580,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 780,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 900,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 870,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 1610,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 770,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 800,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 11600,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 10740,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 12040,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 13600,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 13500,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 8700,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1180,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1280,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1540,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 1460,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 1670,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 1840,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 9440,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 7350,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 7300,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 7990,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 7040,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 6770,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 3200,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 3580,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 3870,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 3640,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1540,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 500,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 320,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 710,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 610,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 610,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 980,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 940,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 1080,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 7980,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 8030,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 1920,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 3910,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 14440,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 11790,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 1550,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2260,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2100,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1920,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 3580,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 3790,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 4000,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 720,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 770,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 570,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 940,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 7680,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 8180,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 7500,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 3310,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 8410,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 6730,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 8790,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 9440,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 1670,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 1870,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 2690,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 3660,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 560,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 440,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 790,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 740,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 720,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 830,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 940,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 880,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 7700,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 8220,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 6360,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 7640,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 7660,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 6360,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 2140,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 3890,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2180,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 9120,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 14680,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 13580,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 12430,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 7710,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 7380,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 7520,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1740,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 3920,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 12140,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 11350,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 11020,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 11360,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 11180,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 1640,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1460,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 1620,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 2160,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 6440,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 8170,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2560,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 3860,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 690,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 480,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 650,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 670,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 7880,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 6430,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 7750,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 7330,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 360,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 510,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 790,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2180,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 3680,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 3790,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1960,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2120,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 2380,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 4000,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 3560,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 13160,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 13170,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2880,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 1790,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 1650,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 1640,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 1870,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 580,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 850,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 760,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 6930,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 6430,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 8000,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 8490,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 9320,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1780,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 3490,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 3980,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 4090,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 4080,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 4100,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 3640,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 3650,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1030,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 580,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 590,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 730,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 7870,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 8400,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 7440,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 2420,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 14380,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 13060,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 14390,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1820,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 1800,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 700,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 1080,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 940,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 8590,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 8540,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 7250,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 7530,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 7110,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 6240,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 7240,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 7900,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 7230,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 9080,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 8000,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 7580,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 7980,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2100,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 3330,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 3780,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 3160,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 2460,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 11150,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 11100,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 12320,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 14700,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 490,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 650,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 860,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 510,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 570,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 620,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 650,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 960,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 960,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 2100,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2420,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 3360,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 3860,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 3680,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 7910,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 8300,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 1890,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 14370,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 12090,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 14000,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 12400,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1550,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 7630,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 7400,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 7090,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 7440,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 1760,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 3970,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 690,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 630,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 1030,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 1170,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 840,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 9550,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 8510,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 8050,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 8500,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 6080,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 7970,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 7600,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 8140,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 7440,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 3740,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 13200,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 14140,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 13490,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 11380,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1190,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 1640,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 1800,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 2750,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1030,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 510,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 530,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 1080,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 870,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 3350,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2390,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 1770,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 1760,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 6620,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 10670,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 8190,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 9250,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 9620,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2290,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 1630,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2460,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 3540,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 420,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 880,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 600,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1440,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 1830,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 670,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 1110,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 7880,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 7960,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 8070,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 8310,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 9480,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 9410,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 7130,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 6650,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 5930,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 7930,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 8110,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 6940,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 1770,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 3230,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 3810,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 4030,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 3910,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 2120,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 2270,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 14050,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 11640,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 14480,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 12610,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 8210,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 7730,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 8030,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 9410,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 6870,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 8120,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 3240,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 11650,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 11450,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 11960,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 14250,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 760,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 690,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 570,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 1510,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2240,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 2170,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 1550,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 2820,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1330,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 4020,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 7900,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 1770,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2500,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2560,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 3430,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 3700,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 3970,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 3880,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 7430,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 8400,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 8160,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 9090,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 2430,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 14440,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 11420,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 10200,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 13230,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1140,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 440,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 640,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 670,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 700,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 670,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 590,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 570,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 630,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 830,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 1030,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1080,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 780,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 620,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 700,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 570,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 570,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 770,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 9300,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 8020,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2830,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 7680,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 8040,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 1960,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 12230,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 9860,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 11450,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 12570,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 13360,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 3310,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 1870,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1790,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 2390,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 2390,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 2140,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 1840,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 4040,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 8600,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 9420,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 7510,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 7460,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 6690,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 10790,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 6710,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 9300,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 14370,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 12510,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 9530,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 10800,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 13500,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 480,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 790,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 800,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 620,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 700,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 550,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 1550,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 1390,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2240,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 3250,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 9510,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 8170,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 8120,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 8070,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 7890,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2160,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 2180,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 1770,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 3720,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 3680,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 10840,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 8270,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 8470,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 5950,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 7750,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 660,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 400,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 660,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 800,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 700,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 620,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 520,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 660,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 1010,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 14480,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 14450,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 12000,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 9740,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1630,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1410,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1390,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 3710,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 1890,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 570,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 610,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 650,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1160,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 480,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 530,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 840,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 730,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 780,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 680,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 7660,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 7370,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 3030,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2170,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 14470,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 11930,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 14500,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 13570,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2080,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 2080,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 4080,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 3800,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 3900,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 3900,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 3830,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 8020,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 7540,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 7770,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 7480,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 12080,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 10500,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 9440,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 8870,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 7200,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1560,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 1390,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 1620,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2280,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 1990,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 3200,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 2110,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 3000,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 730,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 940,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 690,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 9200,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 380,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 920,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 770,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1480,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1430,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 13700,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 11740,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 12420,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 12400,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 7430,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2170,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 2370,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 2180,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 1810,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 7820,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 7460,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 10970,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 7060,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 8660,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 8940,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 2330,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 3750,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 3830,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 3890,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 3720,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2520,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 4040,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 3990,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2080,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 2490,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 10940,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 10710,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 9530,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 9320,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 8890,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 7620,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 9430,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 6000,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 8060,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 7960,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 7580,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 11560,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 12380,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 9240,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 13450,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 14340,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 8890,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 9570,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 7430,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 7870,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 7390,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 6820,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 1890,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2600,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 3330,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 2070,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 1700,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 2080,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 1800,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 7730,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 7630,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 10550,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 9210,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 8790,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 7710,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 850,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 540,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 710,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 630,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 3740,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 3680,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 1630,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 12510,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 11920,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 14060,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 13870,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 940,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 690,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 760,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 900,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 1430,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 1510,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 850,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2170,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2140,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1840,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 2560,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 3720,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 12010,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 14200,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 14670,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 13650,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 12960,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 700,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 850,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 1700,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 8200,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 7680,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 6720,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 3230,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 11040,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 7660,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 7990,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 7230,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 9260,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 9560,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 740,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 6740,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1390,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 1870,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 3130,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 3690,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 3950,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1960,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1760,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 2480,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 9370,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 9530,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 12160,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 13920,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 14410,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 12130,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 7510,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 7360,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 8310,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 8300,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 7560,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 10990,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 7170,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1250,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 760,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 680,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 830,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 800,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 9310,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 7310,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 7910,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 6810,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 6910,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1460,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2330,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 3680,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 3690,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1780,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 1830,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 7860,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 6800,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 8230,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 8260,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 6230,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 8670,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2390,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2280,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 2760,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 3060,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 2690,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 1990,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 1910,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 1640,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 13210,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 14060,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 13430,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 510,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 520,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 680,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 700,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2022
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1400,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 520,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 1996
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 960,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 940,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 940,
+        "code_departement": "58",
+        "nom_departement": "Ni\u00e8vre",
+        "annee": 2023
+    }
+]

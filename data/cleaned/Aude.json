@@ -1,0 +1,7058 @@
+[
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 4060,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 5180,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 21630,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 22380,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 20300,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 36740,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 4520,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 10500,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 3210,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 5830,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 7180,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 9530,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 770,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1230,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 2110,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1430,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 3800,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 2630,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 17620,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 18340,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 15170,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 24740,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 4030,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 3260,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 22860,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 20620,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 19710,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 20890,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 36640,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 36810,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 760,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 740,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 1170,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 1810,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 3690,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 14570,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 20390,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 3590,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 4380,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 5210,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 6460,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 18470,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 13670,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 24730,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 25160,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 24560,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 4340,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 3680,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 4200,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 7100,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 9900,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 11230,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 11810,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 11400,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 3320,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 5130,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 4980,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 13890,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 14620,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 14320,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 14740,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 15430,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 16080,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 16630,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 18690,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 3520,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 4320,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 4170,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 5280,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 4530,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 2590,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 6910,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 8070,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 8740,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 2280,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 3210,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 4620,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 5390,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 20870,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 26010,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 26060,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 2520,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 3500,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 3520,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 3670,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 4340,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 730,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 730,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1250,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 1390,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 3170,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 2450,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 2710,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 1130,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 16950,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 14370,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 13730,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 21080,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 21780,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 19190,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 20610,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 4160,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 4240,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 4030,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 4510,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 4870,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 5530,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 9650,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 11680,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2830,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 4930,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 5310,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 8960,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 9070,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 2170,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 28880,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 32700,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 36400,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 36580,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 38280,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 38500,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 1790,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 1840,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 18970,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 22000,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 24260,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 15770,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 20530,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 20850,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 21850,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 24360,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 23670,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 22670,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 5110,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 3870,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 3710,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 3370,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 8060,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 11340,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 11580,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 11530,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2970,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 5080,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 4810,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2500,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 8460,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 9550,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 23850,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 21330,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 20280,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 37980,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 38310,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 16150,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 14970,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 14780,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 18420,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 22630,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 24030,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 23250,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 2390,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 3340,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 3360,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 3840,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 7400,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 15330,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 15340,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 13040,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 13070,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 16460,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 18780,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 21290,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 2240,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 2600,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 2570,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2990,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 4080,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 730,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 700,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 1740,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 2110,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1050,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 5220,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 4930,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 3370,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 4230,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 4810,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 4990,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 3210,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 3220,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 3650,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 4360,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 4870,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 26930,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 37590,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 38170,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 2460,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 3680,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 6020,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1190,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 2280,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 1280,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 1550,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 2710,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 2740,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 2830,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 19950,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 20240,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 22060,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 19680,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 17820,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 16900,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 25290,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 24380,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 3420,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 3090,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 4430,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 5100,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 5080,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 5380,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 3310,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 5640,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 6530,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 6910,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 9500,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 21700,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 21450,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 34150,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 38020,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 640,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 640,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 680,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 1370,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 2490,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 2770,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 2660,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 15330,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 19330,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 19710,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 20170,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 21620,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 20900,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 13390,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 24760,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 3390,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 3420,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 6430,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 10850,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 4270,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 4480,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 16880,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 14690,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 15000,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 13120,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 19350,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 19420,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 22510,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 23420,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 22710,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 38470,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 3240,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 11320,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 14200,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 24230,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 23660,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 4140,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 3710,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 4590,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2760,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 4990,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2770,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 8440,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 870,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 830,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 1240,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 3880,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 15240,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 16680,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 21910,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 22150,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 1660,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 3650,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 3180,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 2530,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 2140,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2650,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 3380,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 4090,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 4440,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 4830,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 4810,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 5140,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2740,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 4640,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 8780,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 24050,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 34690,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 37070,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 35600,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 780,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 1270,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 15670,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 18350,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 23960,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 24310,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 23560,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 21390,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 20610,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 7660,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 5060,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1230,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 2560,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 1670,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 3440,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 3810,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 2610,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 15370,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 16160,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 4450,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 4110,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 3950,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 4350,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 5010,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 21780,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 36860,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 37450,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 35550,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 3020,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 5290,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 8860,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 9420,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 9200,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 3450,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 8890,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 11220,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 21500,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 22010,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 21040,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 19600,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 4630,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 16210,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 15360,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 16750,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 17050,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 21880,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 15480,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 16440,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 20240,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 24220,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 27780,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 3160,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 3210,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 3810,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 4810,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 5140,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 7870,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1020,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 790,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 1230,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 1340,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 2300,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1390,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 3120,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 3800,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 3410,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 20880,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 20350,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 28190,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 32880,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 36600,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 37360,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 3160,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 4770,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 3320,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 3090,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 3030,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 4960,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 5080,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 4950,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1800,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 2330,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 3220,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 4300,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 4790,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 4910,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 21560,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 18860,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 16030,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 16340,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 14730,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 15510,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 16190,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 2160,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 5740,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 11270,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 21460,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 700,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 1250,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 1200,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 1210,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2650,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 5000,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1400,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 790,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 600,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2460,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 4270,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 4330,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 4950,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 5380,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 4990,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 5060,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 14920,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 16920,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 16210,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 19710,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 22040,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 22790,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 22060,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 19490,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 19600,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 30130,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 4400,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 3270,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 4980,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 4820,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 3540,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 11910,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 11470,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 2260,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 3100,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 2310,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 2330,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 2280,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 700,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 3070,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 2830,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 15710,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 15830,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 19770,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 23360,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 25450,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 24370,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 24630,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 3080,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 5220,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 8550,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 2180,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 3050,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 3640,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 3850,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 4310,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 4740,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 22310,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 35880,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 780,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 920,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 1210,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 1590,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 1300,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 840,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 3210,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 3430,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 3750,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 15930,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 14230,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 18590,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 19160,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 15280,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 24640,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 3940,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 3510,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 3260,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 4870,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 4950,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 4900,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 4890,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 5040,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 2560,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 3650,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 5010,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 11240,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 13790,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 14130,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 17600,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 18810,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 25260,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 13930,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 21700,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 21740,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 19670,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 33460,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 35160,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 1910,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1280,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1030,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 3590,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 3260,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 10110,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 4480,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 4190,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 4100,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 5190,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 4860,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2350,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 4240,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 3130,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 3050,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 4600,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 5310,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 4770,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 4950,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 18040,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 24700,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 3790,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 4460,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 2490,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2580,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 4160,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 8850,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 14990,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 17180,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 14270,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 13680,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 21550,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 22000,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 22620,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 21970,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 35540,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 960,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 700,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 980,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1250,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 1750,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 7900,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 8840,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 1650,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 1640,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 3660,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 16880,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 14880,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 20070,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 15890,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 15560,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 17130,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 25020,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 20360,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 3030,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 5060,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 4730,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2880,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 4210,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 4810,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 20600,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 22390,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 20150,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 24220,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 35830,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 36820,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 36990,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 3380,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 3440,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 6720,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 11810,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 11420,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 24220,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 29200,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 14070,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 13860,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 13920,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 21650,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1740,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1750,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2820,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 17870,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 20350,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 23340,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 2200,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 3370,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 9400,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 10370,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 4170,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 4630,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 4350,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 4620,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 3430,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 4660,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 4960,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 2430,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 3060,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 2510,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 8280,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 8640,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 14110,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 17780,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 15250,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 15690,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 25560,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 22400,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 20310,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 3510,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 800,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 690,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 2430,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1600,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 3080,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3790,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 5080,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 7770,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1730,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 3030,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 4270,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 4270,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 22630,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 27440,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 32080,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 33180,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 3830,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 4710,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 6100,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 2110,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2280,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 4760,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 5370,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 19940,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 35440,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 1180,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 1350,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1630,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 14080,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 14110,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 14250,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 15700,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 21830,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 10990,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 5030,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 4890,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 4460,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 17490,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 15790,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 18200,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 25350,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 24750,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 21220,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 20620,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 13290,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 17740,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2660,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 22660,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 19520,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 37980,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 18440,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 20840,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 3710,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 3430,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 6280,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 8260,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 8540,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 9090,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 9750,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 10640,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 2630,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 840,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 1250,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 1700,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 3750,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 4120,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 3530,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 5080,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 3070,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 3560,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 3410,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 3830,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 11370,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 11370,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 22980,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 20610,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 21120,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 16090,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 16670,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 15050,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 17040,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 18260,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 21990,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 21770,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 20980,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2500,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 5230,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 9440,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 4230,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 960,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 18230,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 24500,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 16000,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 15090,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 15200,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 22090,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 21950,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 21440,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 20320,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 22250,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 24810,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 31300,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 8750,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 11320,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 3400,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 4380,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 5260,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 4470,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 4420,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 16900,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 17320,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 21570,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 20930,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 6710,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 9490,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 2120,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 3470,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 19350,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 15700,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 13690,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 19150,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 24650,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 23180,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 1300,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 3170,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 3000,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 4350,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 5290,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 5010,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 4950,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1200,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 3250,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 9000,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2160,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2970,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 5100,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 5040,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 24060,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 20230,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 38200,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 3000,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 3060,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 4020,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 9540,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 770,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 3080,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 5570,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 6600,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 8470,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 9470,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2460,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 3060,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 5540,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 24110,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 20140,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 20150,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 20850,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 21950,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 23440,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 37890,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 38240,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 35180,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 730,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 2270,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 15650,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 16600,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 13200,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 18110,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 19880,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 19620,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 15480,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 3320,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 5370,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 10820,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 3390,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 3080,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 4680,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1550,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 3120,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 3220,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 3590,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2014
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 15810,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 13570,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 24560,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 3580,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 11330,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 3070,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 3710,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 4550,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2000
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 7490,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 8440,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 9670,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 13330,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2008
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 4450,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 36500,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 38330,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 35170,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 35210,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 1600,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 2290,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 14270,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 14520,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 15210,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 16020,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 19540,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 19030,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 18660,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 16180,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 23160,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2013
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 2720,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 9770,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 11080,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 11680,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 11710,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 4190,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 3350,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2005
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 4860,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 4320,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 2350,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 3000,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 3030,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 4240,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1910,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 3710,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 4640,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 5060,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 21640,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 21310,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 25600,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 26760,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 36630,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 760,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 800,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 1270,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 1350,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2009
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 2300,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1390,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1100,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 600,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 1030,
+        "code_departement": "11",
+        "nom_departement": "Aude",
+        "annee": 2006
+    }
+]

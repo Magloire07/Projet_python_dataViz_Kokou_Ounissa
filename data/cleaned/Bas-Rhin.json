@@ -1,0 +1,7058 @@
+[
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 6380,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 8800,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 7590,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 19550,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 16050,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 33290,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 56200,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 57450,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 6340,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 22150,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 4330,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 4150,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 6550,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 8380,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 9230,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 9870,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 10230,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 11420,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 42250,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 75970,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 82970,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 2570,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2770,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 4590,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 4390,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 1670,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 3860,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 9920,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 8450,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 10570,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 12300,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 42740,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 32990,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 44990,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 51610,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 66460,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 49830,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 5570,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 6940,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 18610,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 4010,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 4380,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 4850,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 4940,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 4290,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 10250,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 9960,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 10970,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 9450,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 11010,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 10100,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 4820,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 3800,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 30400,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 48630,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1840,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1790,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 4480,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 36160,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 29930,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 43680,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 52850,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 5710,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 6550,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 11440,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 16730,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 21830,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 22620,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 25960,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 7720,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 10290,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 13190,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 16550,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 20110,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 21870,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 21790,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 31460,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 52930,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 44890,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 1270,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2690,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 4930,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 5120,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 6940,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 6600,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 8660,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 8670,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 4000,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 6320,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 7110,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 10560,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 40920,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 46970,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 69630,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 4380,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 720,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 1030,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 4880,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 30870,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 28070,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 32690,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 49950,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 5700,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 7330,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 7260,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 11440,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 11060,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 63050,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 84270,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 35740,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 28710,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 48040,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 5450,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 6120,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 12120,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 14350,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 24890,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 5000,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 9540,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 36130,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 41790,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 42220,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 41400,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 42280,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 57360,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 46080,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 36010,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 31430,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 31510,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 34990,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 54620,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 6280,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 7810,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 8510,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 7570,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 7780,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 11920,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 4290,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 6790,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 9580,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 8850,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 13320,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 12610,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 46710,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 82360,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 90610,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 6100,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 6220,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 6070,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 8710,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 4540,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 4250,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 1510,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 5100,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 5000,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 4480,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 4440,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 11570,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 9500,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 9860,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 51310,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 71620,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 77060,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 88810,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 90930,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 90470,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 48120,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 49360,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 54870,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1920,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 3090,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 4140,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 5600,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 8540,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 22140,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 22940,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 4030,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 34960,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 41200,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 6510,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 7120,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 8520,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 8770,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 13060,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 14320,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 24690,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 5650,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 9930,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 10880,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 12730,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 22260,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 24140,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 24440,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 6610,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 12100,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 12740,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 50200,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 51570,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 53850,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 58300,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 52820,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 88500,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 83200,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 82030,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 81830,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2930,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 4230,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 4300,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 4460,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 4600,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 3950,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 4620,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 4770,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 27160,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 37790,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 42220,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 43760,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 51400,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 56700,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 53630,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 50300,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 50000,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 10900,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 7500,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 9480,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 8010,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 43470,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 34370,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 44580,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 52550,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 4200,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 6000,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 23730,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 25450,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2780,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 4390,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 5280,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 12040,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 10540,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 3340,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 4630,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 4250,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 4440,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 45480,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 31150,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 37170,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 42480,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 42530,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 45230,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 56780,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 51700,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 6080,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 6730,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 7000,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 22130,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 23480,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 9280,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 12040,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 10980,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 13300,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 43390,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 87370,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 91710,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 29020,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 31300,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 38030,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 39160,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 6380,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 8570,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 21010,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 23490,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 5520,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 6860,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 6820,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 11920,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 11820,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 47810,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 48370,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 60250,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 93050,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 10420,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 7020,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 9540,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 13420,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 43760,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 6090,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 8220,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 24100,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 2540,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1920,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 4740,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 4800,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 5000,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 43060,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 44240,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 6360,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 13410,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 23390,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1770,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2590,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 4170,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 5240,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 5350,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 5990,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 8320,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 12330,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 15610,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 18300,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 22230,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 88770,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 8860,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 10220,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 12450,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 4630,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 5370,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 8270,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 11870,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 11750,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1350,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1850,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 38030,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 29410,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 49980,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 56530,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 44390,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 44970,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 5490,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 13650,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2990,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 4530,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 4300,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 4450,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 37110,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 57290,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 55300,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 11140,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 11460,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 11720,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 8020,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 8230,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 10050,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 13110,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 12900,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 11630,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 10540,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 47620,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 47160,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 46500,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 58650,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 65420,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 88960,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 81610,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 4930,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 57230,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 57070,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 56250,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 6810,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 6310,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 8080,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 23990,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 39580,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 55580,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 57320,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 51000,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 50020,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 6500,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 11080,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 47970,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 48000,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 89670,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 82060,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 6420,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 6060,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 17570,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 22170,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 3710,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 4960,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 11060,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 11940,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 12390,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 5410,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 6870,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 18120,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 23050,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 23770,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 31700,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 40630,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 32000,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 56780,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 54580,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 6390,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 8620,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 15230,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 6060,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 11540,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 17920,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 3620,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 8120,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 10550,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 11880,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 11870,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 10330,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 6970,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 11560,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 47580,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 46230,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 62630,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 81100,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 25400,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 53850,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1600,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 3770,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 4920,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 4330,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 4470,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 5650,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 37910,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 46400,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 28460,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 35730,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 35880,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 39330,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 31280,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 31170,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 19170,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 21380,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 4490,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 4490,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 5050,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 6720,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 6940,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 7780,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 64590,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 3890,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 4560,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 4820,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 13710,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1400,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1030,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 3490,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 4130,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 6210,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 9460,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 11170,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 11740,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 35990,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 43400,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1830,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1430,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2180,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 4250,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 4630,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 5390,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 3220,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 4500,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 6230,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 7640,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 990,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 3110,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 4400,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 5050,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 4790,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 4500,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 36560,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 33350,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 28350,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 33220,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 38320,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 34490,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 44350,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 56260,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 54310,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 58820,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 29270,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 42390,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 50380,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 9530,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 22150,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 23250,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 9500,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 10210,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 13670,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 43430,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 38290,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 49850,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 68510,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 87740,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 89650,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 30810,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 39800,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 36350,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 45060,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 56030,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 30510,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 32160,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 31510,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 41420,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 46280,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 55580,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 50770,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 49560,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 10650,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 7190,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 11700,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 11640,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 11160,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 11980,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 3500,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 4920,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 6330,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 6690,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 8020,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 10900,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 12020,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 56850,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 47940,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 64890,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 83920,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 89630,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1060,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 1750,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 4550,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 4470,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 3870,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 4680,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 6990,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 6880,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 6510,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 12470,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 17340,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 3210,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 4630,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 5220,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 7590,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 7060,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 6200,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 8630,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 23170,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 23040,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1800,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1660,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 5070,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 5840,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 6360,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 7560,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 10450,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 42880,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 55150,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 37320,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 30230,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 42720,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 44810,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 4140,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 5490,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 11680,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 9090,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 12860,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 11660,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 11670,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 37980,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 44240,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 64800,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 91230,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 3100,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 4660,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 4280,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1430,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1130,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 4670,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 4360,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 3930,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 29310,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 54880,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 56850,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 8890,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 10780,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 9910,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 8110,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 12490,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 11840,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 11660,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 10040,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 36870,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 37950,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 38680,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 6540,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 7880,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 7830,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 13650,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 14300,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 6260,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 23460,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 3470,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 5700,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 46270,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 48670,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 4200,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 6910,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 6120,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 8100,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 10320,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 11570,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 13040,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 12100,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 5980,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 21570,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 22180,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 22160,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 31610,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 38200,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 53250,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 57170,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 39190,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 52790,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 57910,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 53770,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 46300,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 46790,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 89310,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 81390,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2850,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 6660,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 7490,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 9160,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 13820,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 14490,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 16410,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 24120,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1510,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2990,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 4020,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 5520,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 29770,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 31730,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 25830,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 30680,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 41070,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 8080,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 12820,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 12160,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 10300,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 57330,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 6520,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 7800,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 8490,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 11210,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 19510,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 5130,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 5140,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 4180,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 4910,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 3720,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 3790,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 8540,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 8390,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 19400,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 19990,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 6410,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 11380,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 11720,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 11650,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 44570,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 45820,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 40450,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 42480,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 57470,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1820,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 2570,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 4640,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 3880,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 4370,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 4950,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 20220,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 24240,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 7330,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 8150,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 9890,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 11050,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 12650,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 1250,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 5050,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 4520,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 34210,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 56450,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 55710,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 10140,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 10790,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 9030,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 8270,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 12750,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 12540,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 39100,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 57760,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 78940,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 5370,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 7960,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 8440,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 7860,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 22180,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 36340,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 37510,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 38490,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 27740,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 40900,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 45020,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 53730,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 53750,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 52140,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 30750,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 34490,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 42340,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 55740,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 15920,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 4710,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 5730,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 6310,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 9990,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 6530,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 13040,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 13310,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 10030,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 73820,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 77770,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 87110,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 3740,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 5960,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 7050,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 14230,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 16030,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 17100,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 22040,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 21240,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 940,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 1310,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 4890,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 4890,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 35920,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 33040,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 53540,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 56120,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 55580,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 5220,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 11970,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 11320,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 46960,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 45270,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 39060,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 56640,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 64480,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 66380,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 67060,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 89470,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 92470,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 91340,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 34790,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 47480,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 9360,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 10170,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 10530,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 8620,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 13260,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 11120,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 10020,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 39530,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 44000,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 43740,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 52450,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 46280,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 3000,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 4210,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 5340,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 5520,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 5670,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 18950,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 24770,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 6040,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 8310,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 8960,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 4390,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 5010,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 10670,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 11240,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 11700,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 11270,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 13120,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 32080,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 32250,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 52320,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 54540,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 55300,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 4580,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 6110,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 6410,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 8620,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 11550,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 5920,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 5850,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 8120,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 8160,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 6930,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 8430,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 14790,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 23000,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 23340,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 22470,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 55390,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 89290,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 32130,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 36850,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 38750,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 56760,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 5010,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 6140,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 22260,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1790,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 4360,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 5280,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 12450,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 11610,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 9890,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 8230,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 16110,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 21070,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 24250,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 56190,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 53510,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 56460,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1480,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2170,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 3030,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 3200,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 4570,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1970,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2770,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 3910,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 5260,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 5540,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 5440,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 10450,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 23870,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 23150,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 6970,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 8910,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 11520,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 12500,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 12520,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 47850,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 47320,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 58660,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 79910,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 85270,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 4130,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 4180,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 4080,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 4340,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3670,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 3910,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 5790,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 8510,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 9930,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 14720,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 12730,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 51680,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 91610,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 88330,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 86730,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 92770,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1800,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 880,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 950,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 4790,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 4550,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 27270,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 31100,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 50630,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 53210,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 7940,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 8110,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 13360,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 11890,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 54370,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 53870,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 7030,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 7140,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 15180,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 22170,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 9330,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 10720,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 12160,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 11440,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 10580,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 47150,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 57850,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 46310,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 92130,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 86690,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 6110,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 8090,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 8460,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 8170,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 25310,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 24180,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 23200,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 3640,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 4900,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 4090,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 31730,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 39360,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 33660,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 55840,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2018
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 36750,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 57810,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 4810,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 6330,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 8350,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2011
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 12540,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1480,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 1110,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 1750,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 4570,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 3650,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 6780,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 20380,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 20650,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 28470,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 26280,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 38810,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 32570,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2007
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 56050,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 19940,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 21970,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 21570,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 21530,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 10500,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 12820,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 35030,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 31520,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 31860,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 32500,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 46070,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 55060,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 57500,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 56860,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 53610,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 46910,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 46620,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1770,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 1998
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 5730,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 6090,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 8690,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2005
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 23650,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 23910,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 21530,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 4570,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 6470,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 11090,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2016
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 55100,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 53660,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2006
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 970,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2990,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 4560,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 4470,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 4580,
+        "code_departement": "67",
+        "nom_departement": "Bas-Rhin",
+        "annee": 2022
+    }
+]

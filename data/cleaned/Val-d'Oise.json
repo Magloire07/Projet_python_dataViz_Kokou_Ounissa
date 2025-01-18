@@ -1,0 +1,7058 @@
+[
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 4810,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 6870,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 6620,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 7920,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 10080,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 11810,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 53730,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 70280,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 61870,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 80940,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 100510,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 8470,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 22970,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 27970,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 5810,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 8100,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 22060,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2420,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 7160,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1750,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 1750,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1200,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 48800,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 52240,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 7520,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 11390,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 65870,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 105410,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 101120,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 3820,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 3790,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 6970,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 5030,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 5250,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 46460,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 48250,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 45660,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 8580,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 10180,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 20690,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 22230,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 59400,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 56400,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 67550,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 65030,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 10860,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 11950,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 12480,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 19450,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 26420,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 4680,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 6680,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 6620,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 10630,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 38790,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 41980,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 49860,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 56530,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 64960,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 63660,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 55400,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 68090,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 12070,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 10290,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 12720,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 11240,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 5690,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 9060,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 7610,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 22350,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 5630,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 6560,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 8090,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 10760,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 11070,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 10600,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 65150,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 102070,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 10140,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 13070,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 21910,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 23520,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 27070,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 3020,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 3840,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 3890,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 3670,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 4260,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 4850,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 5200,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 5640,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 6000,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 5920,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 5990,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 3780,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 39840,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 43930,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 46460,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 66400,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 69340,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 50210,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 56550,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 72420,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 71840,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 64020,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 8480,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 11540,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 12140,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 10230,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 20040,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 27970,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 6560,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 8490,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 23560,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 3340,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 4460,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 6590,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 7410,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 12320,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 64700,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 5980,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 5450,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 6140,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 5270,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 69760,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 72280,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 72390,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 75850,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 43050,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 46850,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 61270,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 70220,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 70580,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 60100,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 75470,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 57920,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 10730,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 11920,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 9190,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 11690,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 12040,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 9780,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 12150,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 4820,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 6720,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 8170,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 9300,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 11210,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 8550,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 8390,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 11010,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 15440,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 22900,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 22610,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 850,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 1110,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 1650,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 2820,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 3480,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2970,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 4090,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 5000,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 70290,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 58400,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 102170,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 99090,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 44390,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 54810,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 46850,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 42660,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 73180,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 80140,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 11020,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 11710,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 17630,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 26270,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 26030,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 48600,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 48520,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 65700,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 10960,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 11010,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 10810,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 21360,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 3940,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 3820,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 3940,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 3990,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 4270,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 12220,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 11760,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 10970,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 10890,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 9200,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 12100,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 13410,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 11530,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 4040,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 4850,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 4910,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 5680,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 6590,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 6620,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 11080,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 74540,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 105060,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 15480,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 15820,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 26710,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 8490,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 23160,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1800,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 3470,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 4110,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 4050,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 5410,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 48750,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 66710,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 51230,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 48210,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 53650,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 64760,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 72270,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 69800,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 71120,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 4300,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 4830,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 5920,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 7570,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 10620,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 8530,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 21480,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 68880,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 63650,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 75270,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 101230,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 98710,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 1600,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 1380,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2160,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 3650,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 5780,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 52690,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 65160,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 57240,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 55670,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 57530,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 11130,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 22380,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 26200,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 8580,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 12910,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 11550,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 13720,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 39730,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 42260,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 51940,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 60650,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 61530,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 63310,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 68170,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 56060,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 101860,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 10620,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 11440,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 24650,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 25760,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 27780,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 59150,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 48770,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 46980,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 44190,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 55890,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 8110,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 12660,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 11520,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 11250,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 7000,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 8840,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 10040,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 5180,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 8640,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 10560,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 12100,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 2830,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 1910,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 4530,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 3780,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 3950,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 6030,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 43020,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 41290,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 40600,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 42480,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 44650,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 68670,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1540,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 730,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 1960,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 5870,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 5040,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 5910,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 4810,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 6880,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 7860,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 11160,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 11440,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 8170,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 12890,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 19860,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 22810,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 70870,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 69730,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 62110,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 110860,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1870,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 3730,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 4210,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 43470,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 45700,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 62750,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 11670,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 13480,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 14400,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 26430,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 25730,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 9490,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1840,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1780,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 3880,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1480,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 57650,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 55820,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 10890,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 11510,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 12090,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 67190,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 79890,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 84970,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 9310,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 13760,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 20870,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 11210,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 10410,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 11090,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 48800,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 40860,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 47770,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 49600,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 7770,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 8520,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 51560,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 49320,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 59660,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 65760,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 66850,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 66940,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 46660,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 71850,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 70580,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 64110,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 10010,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 10330,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 10490,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 11610,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 12230,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 23750,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 25530,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 3640,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2180,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2270,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 3520,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 3860,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 7500,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1670,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 1150,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 5180,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 8930,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 10500,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 9940,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 21410,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 68300,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 76880,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 96820,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 104330,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 108700,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 99590,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 7140,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 9250,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 11340,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 10870,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 11040,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 12150,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 10020,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 10030,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 12170,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 11700,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 11300,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 5270,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 5430,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 6990,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 10550,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 10990,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 10440,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 11410,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 12520,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 60030,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 68960,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 72810,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 104720,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 51920,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 52960,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 56640,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 10730,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 27460,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 27090,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 26880,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 64700,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 65610,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 3070,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 3120,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 4270,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 7220,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 13730,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 17990,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1160,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 5410,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 7370,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 11660,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 13110,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 12770,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 11920,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 48880,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 50040,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 50730,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 44900,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 52330,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 64400,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 59810,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 62990,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 76230,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 88580,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 89090,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 99880,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 105050,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 12100,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 13070,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 9390,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 10540,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 11140,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 9580,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 11520,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 13250,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 20990,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 22900,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 11160,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 3490,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 53970,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 41630,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 65600,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 8480,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 16990,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 19330,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 20640,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 3930,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 4480,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 4370,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 7110,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 6700,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 8310,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 8350,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 9930,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 70850,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 110220,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 3450,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1510,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1020,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2750,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 3720,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 5320,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 5160,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 39640,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 39670,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 61930,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 41560,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 58470,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 65860,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 8640,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 8810,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 11390,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 10680,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 20540,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 25980,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 58090,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 40800,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 79480,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 49570,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 50550,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 62460,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 64460,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 66760,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 74890,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 61680,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 98980,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 720,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 1360,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1890,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 3230,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 3910,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 4180,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 5120,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 8780,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 16320,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 17040,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 18160,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 11850,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 10770,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 10230,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 11870,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 4010,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 5070,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 7580,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 10790,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 10720,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 10700,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 10720,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 13010,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 13390,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 4210,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 57740,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 56370,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 57510,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 71140,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 70520,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 10430,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 23910,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 8990,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 11590,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 11410,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 8150,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 10800,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 21770,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 19300,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 61460,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 72830,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 103330,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 100420,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 3080,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1630,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2100,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 3380,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1240,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2740,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 5190,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 22760,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 22760,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 3710,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 5290,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 6780,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1760,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1290,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 5560,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 5700,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 38340,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 69620,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 72960,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 71230,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 10680,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 7700,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 9790,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 11790,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 11420,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 12860,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 12600,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 12730,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 12420,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 6090,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 10980,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 10260,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 10470,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 77750,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 100380,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 101500,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 10370,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 11950,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 24190,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 66710,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 71500,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 58320,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 66670,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 82870,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 101250,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 104670,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 110720,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 104810,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 49160,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 48040,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 45250,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 44000,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 50970,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 68050,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 2140,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2330,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 3810,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 5490,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 4650,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 610,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 5300,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 57340,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 53880,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 54840,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 70800,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 71940,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 11770,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 9740,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 18570,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 18870,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 26140,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 26520,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 26120,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 11480,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 11990,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 12630,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 5590,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 6910,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 6930,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 10230,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 11300,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 9840,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 9460,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 10170,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 17790,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 22250,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 39060,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 50760,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 62160,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 72360,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 71870,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 9550,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 10430,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 11930,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 12850,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 11050,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 11750,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 11940,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 21450,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 3130,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2960,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 1960,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2470,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2260,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2280,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 7350,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2530,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 3520,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 5600,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 5160,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 5020,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 10860,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 13370,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 17330,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 4370,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 7000,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 8690,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 71430,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 59900,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 87550,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 101910,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 111130,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 7910,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 9530,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 8460,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 12490,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 12940,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 17810,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 4370,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 4520,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 56840,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 68460,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 69550,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2480,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 1810,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 3790,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 4720,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 4970,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 5450,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 5220,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 48570,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 50370,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 69330,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 10770,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 10900,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 9910,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 10010,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 14880,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 8970,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 11920,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 10070,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 9560,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 12440,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 13270,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 59760,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 50490,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 46350,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 41410,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 58690,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 66480,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 65420,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 4850,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 5670,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 10970,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 63270,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 56620,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 43250,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 72070,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 68230,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 63240,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 9060,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 10900,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 11700,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 14090,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 26000,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 25670,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 8850,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 9450,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 10160,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 11780,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2280,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 3630,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 5180,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 4280,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 12190,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 12080,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 11860,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 11630,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 11770,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 11070,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 12540,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 4190,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 5950,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 5520,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 6250,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 5140,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 10800,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 10330,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 12170,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 26340,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 26590,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 66010,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 66430,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 71770,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 78850,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 92430,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 102830,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 49600,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 46140,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 54860,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 58050,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 58560,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 59890,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 58480,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 48410,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 57850,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 11900,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 11740,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 6120,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 9660,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 11010,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 14820,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 20400,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 19970,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 22330,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 3480,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 6260,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 9800,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 10770,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 8580,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3460,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 3170,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 7250,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 7040,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 3910,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 55820,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 44990,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 71450,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 45650,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 48840,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 47740,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 51450,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 65200,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 65020,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 69360,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 61550,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 57620,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 71410,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 70850,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 74190,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 93850,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 98290,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 101570,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 102520,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 10580,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 13780,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 28120,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 7390,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 11470,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 8700,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 12140,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 12120,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 51320,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 40590,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 63800,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 62940,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 7310,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 11200,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 13500,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 14320,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 16300,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 19020,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 21680,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 6540,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 9480,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 42240,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 66930,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 69130,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 72300,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 71690,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 3200,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 1700,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 3330,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 12150,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 10500,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 11290,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 9970,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 13550,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1560,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 3880,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 4100,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 5220,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 8700,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 15790,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 14160,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 4420,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 64430,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 58970,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 90870,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 105020,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1800,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 1180,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3310,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 3950,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 3860,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 9700,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 9840,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 12610,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 5730,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 8970,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 9000,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 12310,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 13070,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 14540,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 4650,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 4560,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 9620,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 11210,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 10520,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 73930,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 75840,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 4000,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 7030,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 65680,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 64110,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 60520,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 55770,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 52780,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 86140,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 63960,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 8290,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 11260,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 11790,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 27620,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 27220,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 11360,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 8070,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 11780,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 11680,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 12730,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 12060,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 12690,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1820,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2760,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 5810,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 46000,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 55300,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 57960,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 46830,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 71570,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 10350,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 10670,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 11510,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 12240,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 10640,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 7310,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 9910,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 11230,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 47670,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 49590,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 45050,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 48140,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 62560,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 8490,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 9960,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 11420,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 11930,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 12680,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 13150,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 11090,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 56820,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 66720,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 3590,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2010
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 6840,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1260,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 1310,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2370,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 47330,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 47380,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 46790,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 43270,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 57150,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 57620,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 66520,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2018
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 54650,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 50540,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 50100,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 59170,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 60810,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 81000,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 80900,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 67700,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2022
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 10480,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 21030,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 25230,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 8480,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 11040,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 18650,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 4890,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 6370,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 11300,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 10370,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 12750,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 71450,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 70260,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 69460,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 72290,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 75720,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 95240,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 103740,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 108880,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2460,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2550,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 3860,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 4430,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 5930,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 6690,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1770,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 1660,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 4530,
+        "code_departement": "95",
+        "nom_departement": "Val-d'Oise",
+        "annee": 2013
+    }
+]

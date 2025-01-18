@@ -1,0 +1,7058 @@
+[
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 5980,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 6740,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 7780,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 12430,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 13060,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 27820,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 32540,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 34550,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 30080,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 27860,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 46930,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 53290,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 4460,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 5440,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 5560,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 5540,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 11090,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 12480,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 82210,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 89350,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 10270,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 11720,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 10270,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 10270,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 9930,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 9470,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 17180,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 20950,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2570,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2710,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 3020,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 4720,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 4530,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1080,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 1010,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 850,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 1350,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 1250,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 5490,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 5560,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 12000,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 9480,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 8800,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 12490,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 10700,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 36320,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 43840,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 45130,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 37750,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 4840,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 5610,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 14270,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 15240,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 11950,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 9360,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 9870,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 2690,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 2560,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2210,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 3400,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 4420,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 4900,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 1220,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 1470,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 5250,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 34110,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 34180,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 31710,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 27590,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 49980,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 8800,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 9810,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 8820,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 13880,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 47570,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 46060,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 51140,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 53840,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 78260,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 82170,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 83210,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 36690,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 28810,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 33580,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 43700,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 44110,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 49900,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 38180,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 5230,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 11350,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 12780,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 11330,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 35200,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 35370,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 29670,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 33310,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 51690,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 50300,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 9800,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 8550,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 15750,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 18250,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 18530,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 11700,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 19570,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 26210,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 29570,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 8340,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 7820,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 12970,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 13580,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 48000,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 44460,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 42910,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 75850,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 81420,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 4150,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 4710,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 4970,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 6210,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 3530,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 5170,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 6030,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 6410,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 6020,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 3110,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 3320,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 4680,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 4760,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 5430,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 5940,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 6410,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 6070,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 31540,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 33190,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 29260,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 35580,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 44820,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 6120,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 18520,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 11870,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 8610,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 9590,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 12020,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 12010,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 11070,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 50440,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 47560,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 56720,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 70520,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 74240,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 78150,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 10850,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 10130,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 15070,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 15540,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 26770,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 28870,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 28260,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 6000,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 6170,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 8720,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 12360,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 12940,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 13500,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 25730,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 33510,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 34500,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 54460,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 50670,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 4240,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 5550,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 17790,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 7460,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 10110,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 10660,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 12580,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 12600,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 6050,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 8580,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 9370,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 11880,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 12920,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 13630,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 9890,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 11100,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 9830,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 10160,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 24560,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 25960,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 29380,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 28080,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 3130,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 5850,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1760,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 4360,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 4770,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 9820,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 7780,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 9820,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 11950,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 48330,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 51380,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 48760,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 50120,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 64200,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 82720,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 29970,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 24060,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 38100,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 31910,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 50800,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 6960,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 10980,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 14000,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 21260,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 5380,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 6330,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 16840,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 17010,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 18230,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 1150,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 3030,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 3110,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 6350,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 5730,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 6340,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 3360,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 3110,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 5370,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 7970,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 10510,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 11320,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 12680,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 5040,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 10210,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 9110,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 13180,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 41070,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 49470,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 52010,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 18290,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 26080,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 6270,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 28340,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 39370,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 51830,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 50050,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 7610,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 9630,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 12200,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 33660,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 32260,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 25160,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 29800,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 44380,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 46240,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 37880,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 6140,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 8010,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 8320,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 9380,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 12620,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 12770,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 10120,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 12140,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 11860,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 23300,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 24990,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 26800,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 4050,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 5280,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 5170,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 3330,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3990,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 4810,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 6340,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 36690,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 50820,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 51560,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 56020,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 6300,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 15020,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 15430,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 18480,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 12020,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 11730,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 12260,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 50130,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 49360,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 44930,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 40770,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 68980,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 79380,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 79910,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 35240,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 32800,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 5540,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 87260,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 11360,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 10390,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 32310,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 43040,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 43650,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 43840,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 6090,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 12530,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 13230,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 8520,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 20360,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 26150,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 3220,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 5290,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 5460,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 6030,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 6140,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 5490,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 6460,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 34860,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 30540,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 41940,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 48190,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 53210,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 53380,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 5700,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 6970,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 12230,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 25060,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 4110,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 5610,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 5360,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 7310,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 16650,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 18370,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 50480,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 62020,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 10440,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 12190,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 10380,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 4860,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 5250,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 31770,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 30320,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 31740,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 33250,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 44960,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 43280,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 6250,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 6280,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 8910,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 18320,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 18520,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2560,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 6660,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 5010,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 5200,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 6300,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 5590,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 26010,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 32870,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 41480,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 45180,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 44240,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 37300,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 10000,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 9620,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 8180,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 9880,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 10090,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 13100,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 12210,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 11680,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 86460,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 9630,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 11650,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 9720,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 18770,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 33930,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 46580,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 5880,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 8740,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 11360,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 12690,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 12720,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 34440,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 35370,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 5450,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 9510,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 14590,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 9080,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 11710,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 12130,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 11100,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 81380,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 78670,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 1850,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 4610,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 6510,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 6020,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 5790,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 6020,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 11860,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 11950,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 11880,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 10020,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 11630,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 5920,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 6030,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 8220,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 8670,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 9410,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 6030,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 8910,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 8650,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 8040,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 7960,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 7680,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 9250,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 12510,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 13140,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 18170,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 12160,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 12200,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 12190,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 10410,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 48450,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 51210,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 29910,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 30900,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 30050,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 33690,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 43390,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 44210,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 40690,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 28990,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 53020,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 53370,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 2300,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 2320,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 3180,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 6350,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 1140,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 940,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 1550,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 1290,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 7490,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 10710,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 25690,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 34300,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 50410,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 4600,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 12180,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 51820,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 55760,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 23860,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 26030,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 6020,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 8470,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 5100,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 1310,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 1680,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 5180,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 5650,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 11470,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 9710,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 9980,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 10120,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 9630,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 11660,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 30840,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 29130,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 31200,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 28120,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 33220,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 42770,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 36730,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 9260,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 12130,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 16360,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 27540,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 6600,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 10040,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 12100,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 12300,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 12610,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 11870,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 13270,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 2540,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 3210,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 3120,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 4810,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 4630,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 1620,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 1240,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 5240,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 6200,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 6300,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 33480,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 32450,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 45920,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 49340,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 5280,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 6480,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 6650,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 16910,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 18010,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 8200,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 10040,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 9820,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 10030,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 9580,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 11170,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 11760,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 10580,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 10530,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 47100,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 50620,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 42780,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 55210,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 82740,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 26520,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 36860,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 26920,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 23180,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 46440,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 30720,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 29930,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 43270,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 55380,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 11760,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 43020,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 49650,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 78470,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 1610,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 830,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 1200,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 3280,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 5870,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 6400,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 6260,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 4270,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 8790,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 11520,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 11290,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 10560,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 28320,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 6220,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 6240,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 10670,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 17060,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 17610,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 11680,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 12010,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 28430,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 36470,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 42580,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 44990,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 36650,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 36670,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 7760,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 11120,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 9830,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 8990,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 13400,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 6080,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 11970,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 34300,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 36890,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 12110,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 11710,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 12850,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 11440,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 13750,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 45980,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 50530,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 48900,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 41810,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 82640,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 4480,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 5060,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 1200,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 4730,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 5740,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 5360,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 6160,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 6240,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 6910,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 10090,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 10300,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 14110,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 28870,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 2160,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 3070,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 4710,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 4590,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 850,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1060,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 3010,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 5270,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 5530,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 33230,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 33670,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 29280,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 36990,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 38320,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 50620,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 12020,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 12230,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 11360,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 10210,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 12010,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 11960,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 12920,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 30610,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 22910,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 42140,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 43520,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 36450,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 6060,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 7260,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 7380,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 12690,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 5760,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 5420,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 13820,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 16530,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 17180,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 17340,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 47900,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 54680,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 59810,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 72200,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 82150,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 10740,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 7870,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 6410,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 5400,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 12850,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 13100,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 13320,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 17350,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 32100,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 31610,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 33890,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 31220,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 45050,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 51540,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 50260,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 49460,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 50720,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 51090,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 49840,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 82490,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 79640,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 80400,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2390,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 2970,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 4360,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 4370,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 4370,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 5110,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 1790,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3810,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 4840,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 5170,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 5880,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 34600,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 24040,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 25140,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 35200,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 6470,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 6210,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 8590,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 10910,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 10210,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 28440,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 34170,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 28840,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 31730,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 11260,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 8900,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 7270,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 12560,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 12320,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 35540,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 30330,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 27590,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 44250,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 43360,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 46160,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 37500,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 11480,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 2340,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 3230,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 3760,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 5170,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2760,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 6050,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 5910,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 8630,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 8950,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 14580,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 27240,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 7630,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 8190,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 13090,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 50750,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 50440,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 10320,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 11660,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 12290,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 6860,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 1850,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 3180,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 5200,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 6590,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 1740,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2670,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 31380,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 36420,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 57340,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 9610,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 7960,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 8920,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 12700,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 12760,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 12450,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 51710,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 40980,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 52690,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 71380,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 79630,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 83060,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 4730,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 5590,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 5400,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 8020,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 18630,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 36550,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 36310,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 29350,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 33740,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 45460,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 33990,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 27760,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 36930,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 6380,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 11460,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 12610,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 14210,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 10150,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 7990,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 9990,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 10230,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 12510,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 55070,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 67760,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 32580,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 31560,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 44350,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 10910,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 10500,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 13530,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 13610,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 5610,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 5740,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 4560,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 6280,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 1440,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 4400,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 5270,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 6290,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 5510,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 50790,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 47480,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 82710,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 86340,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 32200,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 33670,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 33740,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 7220,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 10120,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 9750,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 12830,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 31280,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 39690,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 45680,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 13050,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 14300,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 20080,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 26360,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 6200,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 7060,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 8270,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 10920,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 5520,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 5590,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 6290,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 6350,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 6290,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 6010,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 8530,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 9870,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 13540,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 2580,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 4410,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 4280,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 6390,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2220,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 3380,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 6270,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 5570,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 9780,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 34680,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 30320,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 45890,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 43650,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 48410,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 33780,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 36960,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 52290,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 53060,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 50150,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 4950,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 5920,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 7670,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 17490,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 49850,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 42920,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 46270,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 58020,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 69530,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 33850,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 40690,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 53110,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 52880,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 55220,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 15430,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 22430,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 29010,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 4360,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 5400,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 5950,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 6610,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 6550,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 9190,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 11640,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 17330,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 5880,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 8810,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 9360,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 9420,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 9720,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 10100,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 12240,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 35860,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 35650,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 35140,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 32210,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 32990,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 4910,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 6670,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 960,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 5420,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 6270,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 12580,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2010
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 25490,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 6000,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 7620,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 7960,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 9330,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 12550,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 50160,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 50680,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 46190,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 40530,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 80170,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 79170,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 78910,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 4420,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 4700,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 5070,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 6140,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 8910,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 11580,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 12560,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 13510,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 44890,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 69180,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 81810,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 2510,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 2430,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 4310,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 5410,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 33480,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 34040,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1998
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 52410,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 30370,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 34220,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 43400,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 46490,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 59250,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 6330,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 6430,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 6990,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 17160,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 17970,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 18020,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 1640,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 910,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 6100,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 5370,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 29830,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 25290,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 23910,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 5690,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 5470,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 6240,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 10420,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 43600,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 85260,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 5630,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 11260,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 10020,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 11110,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 15860,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 32880,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 34410,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1999
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 45390,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 53450,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 53370,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 2650,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 2530,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 3290,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2007
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 1530,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1997
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 6070,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 30830,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 37580,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 44110,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 51910,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 52560,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 53610,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 53160,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 4090,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 1996
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 16200,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 18150,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 8600,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 7010,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 9640,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 12640,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 11750,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 11660,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 28730,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 27880,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 10310,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 10440,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 13090,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 25790,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 28560,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 6450,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2001
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 12880,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 49740,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 40000,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 49470,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 55250,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 66510,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 78170,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 80980,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 82410,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 80930,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 78870,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 5030,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 4810,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 4790,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2016
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 6220,
+        "code_departement": "35",
+        "nom_departement": "Ille-et-Vilaine",
+        "annee": 2017
+    }
+]

@@ -1,0 +1,7058 @@
+[
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 160,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 3780,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 4660,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 7890,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 6110,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 7070,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 7040,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 5000,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 5130,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 30980,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 46370,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 47030,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 45260,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 51190,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 50980,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 3640,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 13390,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 17950,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 3240,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 4260,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 4330,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 5160,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 5870,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 6530,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 7090,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 960,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 1090,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 2660,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 1290,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 45040,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 39810,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 38590,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 34230,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 40200,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 39250,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 37920,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 37230,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 29860,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 34550,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 34820,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 29900,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 31030,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 32420,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 26880,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 23300,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 42290,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 45450,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 40110,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 39620,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 800,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 1420,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 2710,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 1430,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 1220,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 5660,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 5510,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 5450,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 1510,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 2760,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 4350,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 6220,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 3110,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 3900,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 11770,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 15610,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 1790,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 3330,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 4240,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 7980,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 5200,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 49320,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 48470,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 41250,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 42720,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 33500,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 37400,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 36370,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 30290,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 28710,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 29270,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 29740,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 210,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 1040,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 2810,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 3150,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 3050,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 3390,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 3840,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 160,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 410,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 1290,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 3990,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 4700,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 45820,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 42830,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 4340,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 15810,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1260,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 2170,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 150,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 640,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 2440,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 530,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 1850,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 2280,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 7270,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 5830,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 7080,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 7700,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 6690,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 5390,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 36830,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 35780,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 28420,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 48750,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 34790,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 38260,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 35800,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 3630,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 5190,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 5450,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 110,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 4170,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 47620,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 50760,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 41010,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 52610,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 52640,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 48730,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 160,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1310,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 1760,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 1670,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 5340,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 5940,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 7000,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 6710,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 40320,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 38280,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 33130,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 21770,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 43320,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 42650,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 43020,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 53520,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 44000,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 46760,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 38110,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 42220,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 42800,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 41710,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 34090,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 3790,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 4190,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 4740,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 18220,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 580,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1520,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 1640,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 260,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 540,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 3180,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 3740,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 6680,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 1650,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 1770,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2670,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2410,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 1990,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 46330,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 46290,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 52800,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 35190,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 42370,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 2970,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 4440,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 4650,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 18100,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 6960,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 6810,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 5640,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 5020,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 140,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 38760,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 35280,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 28640,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 2760,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 50,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 1960,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 1960,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 650,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 2270,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 4090,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 40130,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 34450,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 31810,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 2500,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 2540,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2700,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 2800,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 3380,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 4290,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 3560,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 40810,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 40110,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 52850,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 42150,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 3120,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 4370,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 9930,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 10640,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 16320,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 2820,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2490,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 5580,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 6220,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 110,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1180,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 2730,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 8580,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 5430,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 5910,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 7700,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 5630,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 46550,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 47730,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 42850,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 35180,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 43080,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 32330,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 1890,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 3070,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 4380,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 4480,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 2970,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 7030,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 50720,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 45590,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 51010,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 2850,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 230,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1340,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 6710,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 5630,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 5930,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 6000,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 6230,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 6480,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 34770,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 29050,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 31500,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 24680,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 49270,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 38060,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 37670,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 36890,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 3650,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 4740,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 5210,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 15970,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 18090,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 5570,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 5510,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 7070,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 7400,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 5340,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 5140,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 4710,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 39840,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 30600,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 22610,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 52650,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 3300,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 3560,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 4110,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 5060,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 16760,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 18230,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 40070,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 41300,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 43390,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 1140,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 4520,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 3970,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 4660,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 3140,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 6460,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 2820,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 340,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 2100,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 5520,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 7130,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 820,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 3970,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 90,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 4380,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 6360,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 37550,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 38510,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 32590,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 31600,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 31820,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 27580,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 26850,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 4790,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 14090,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 46630,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 39430,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 42370,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 46910,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 46200,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 52570,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 51770,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 51320,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 50350,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 32050,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 790,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 1220,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 1400,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 1800,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 1050,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 1920,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 3430,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 2480,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 2100,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 50630,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 48010,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 41340,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 40370,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 41510,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 31600,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 4140,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 9020,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 17680,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 3110,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 3970,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 6060,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 7490,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 5400,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 1220,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1460,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 3240,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 3850,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 4180,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 7670,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 7030,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 5490,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 5660,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 39840,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 44780,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 3960,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 13650,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 860,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 2110,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 3070,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 2630,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 39490,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 32600,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 31590,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 2000,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 1700,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 2160,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 4190,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 4900,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 7010,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 7180,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 45640,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 51320,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 47710,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 1310,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2390,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 4250,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 4280,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 180,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 36210,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 29680,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 28510,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 30090,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 31260,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 31430,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 32360,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 32130,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 29920,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 43150,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 42720,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 39960,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 48060,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 53220,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 46650,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 46120,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 47170,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 45180,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 44790,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 43290,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 3430,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 3620,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 3770,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 4060,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 5480,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 6730,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 9400,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 16100,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 7510,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 6390,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 1170,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 1150,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 1310,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 1990,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 1060,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 3030,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 3570,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 3500,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 4030,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 4500,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 4930,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 5390,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 6570,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 130,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 1770,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 2280,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 6660,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 34480,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 32410,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 28960,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 26330,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 48520,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 52330,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 45660,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 3160,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 12460,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 17040,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 17600,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 18010,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 200,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 260,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 5450,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 6160,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 6240,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 1240,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2050,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 2480,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 3480,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 4150,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 1350,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 1800,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 2350,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 2900,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 4030,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 1710,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 46180,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 50740,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 44150,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 38810,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 30670,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 260,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 2860,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 4570,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 5330,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 5930,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 170,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 190,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 2250,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 3490,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 49710,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 42450,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 53190,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 52610,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 570,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 600,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 890,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 1390,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 2330,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 120,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 80,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 200,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 650,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 1350,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 1870,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 2120,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 2580,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 7960,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 5770,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 5550,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 39740,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 33210,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 31690,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 39350,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 43980,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 41960,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 3470,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 3690,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 4610,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 10250,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 17010,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 7560,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 4900,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 46590,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 44640,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 41150,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 42920,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 43170,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 45940,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 49940,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 47240,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 12190,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 18110,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 17370,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 640,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1320,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 1490,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 2240,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 2010,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 2390,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 3710,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 220,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 3030,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 34240,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 32450,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 31240,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 25290,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 22380,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 21360,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 1560,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 1200,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 2040,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 1830,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 1720,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 320,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 4030,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T4",
+        "nombre_demandeur_emploi": 4400,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 2680,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 4720,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 35950,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 35220,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 41580,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 32240,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 30020,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 25640,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 25010,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 6340,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 6800,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 5660,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 5130,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 4890,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 45560,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 44150,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 52960,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 45970,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 38540,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 36070,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 42040,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 37820,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 3950,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 5190,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 16110,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 18370,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 860,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 870,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 450,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1000,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 1440,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 2870,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 700,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 3210,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 5430,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 4590,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 6290,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 6820,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 710,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 1200,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 2060,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 3410,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 3540,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 5570,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 7680,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 44270,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 40090,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 340,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 1850,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 3430,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 45550,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 43940,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 49010,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 53120,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 49900,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 41740,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 4190,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 4510,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 4730,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 7460,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 8470,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 11030,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 11430,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 16290,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 46330,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 44360,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 40550,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 49060,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 49060,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 44960,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 33680,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 32960,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 32140,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 30270,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 29240,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 6440,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 6820,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 5930,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 4670,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 17490,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T1",
+        "nombre_demandeur_emploi": 590,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 1610,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 1950,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 1800,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 1920,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 2400,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 2740,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 2560,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 2530,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 300,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 130,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 840,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 2080,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 2580,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 2790,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 3600,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 7610,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 7450,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 6140,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 6350,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 7010,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 5220,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 4870,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 37620,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 39800,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 36420,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 35850,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 31800,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 22930,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 1340,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 1210,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 2330,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 6240,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 60,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 2510,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 4220,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 4110,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 4540,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 45410,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 42460,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 44510,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 4070,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 5830,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 17890,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 2760,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2017-T2",
+        "nombre_demandeur_emploi": 5810,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 2520,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 2940,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 4690,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 48580,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 42410,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 790,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 640,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 1330,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 2180,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 3640,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 3370,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 2300,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2360,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 2630,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2009-T3",
+        "nombre_demandeur_emploi": 1600,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 1900,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 5890,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 6370,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 6280,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 7130,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 49480,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 37870,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 45310,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 41170,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 32720,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 2950,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 9580,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 36280,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 28750,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 32440,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 24340,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2003-T4",
+        "nombre_demandeur_emploi": 5210,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 5690,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2008-T3",
+        "nombre_demandeur_emploi": 6250,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 7050,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2010-T4",
+        "nombre_demandeur_emploi": 6740,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 7410,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 2830,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 4660,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 43730,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 40710,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 50580,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 53430,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 48210,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 40840,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 37390,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T2",
+        "nombre_demandeur_emploi": 35510,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 42200,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 4150,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 17770,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 2700,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 3040,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 3190,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 6620,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 6430,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 5850,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 31140,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T3",
+        "nombre_demandeur_emploi": 31820,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 31180,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 30720,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 29910,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 28550,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 1580,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T1",
+        "nombre_demandeur_emploi": 1570,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 1850,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 2500,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2016-T4",
+        "nombre_demandeur_emploi": 3550,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 3500,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 760,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 530,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 1790,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 2390,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 2840,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T3",
+        "nombre_demandeur_emploi": 190,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2890,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 1980,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T4",
+        "nombre_demandeur_emploi": 1840,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 42070,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 39920,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 45430,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2013-T1",
+        "nombre_demandeur_emploi": 51870,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 53260,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 2960,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 4820,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2020-T2",
+        "nombre_demandeur_emploi": 18350,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T4",
+        "nombre_demandeur_emploi": 17770,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 16760,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 6530,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 5580,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 5460,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 4790,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 5070,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2005-T1",
+        "nombre_demandeur_emploi": 38220,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T3",
+        "nombre_demandeur_emploi": 37170,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 44450,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 44480,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 43210,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 42210,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 4050,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 4350,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 200,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 780,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 2090,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 2130,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 3330,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 3540,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 4350,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 4240,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 34720,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 32610,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 30200,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 27880,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 21570,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 750,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 810,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 1070,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 2230,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 2920,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "1996-T4",
+        "nombre_demandeur_emploi": 180,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 1770,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 2390,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2021-T3",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 40580,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 44420,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 38580,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 7730,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 5300,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 5320,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 7580,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 47060,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 51190,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 42440,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 39480,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2012-T1",
+        "nombre_demandeur_emploi": 49490,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 45160,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T2",
+        "nombre_demandeur_emploi": 42770,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2008-T4",
+        "nombre_demandeur_emploi": 5720,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2009-T4",
+        "nombre_demandeur_emploi": 7110,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 7810,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 14460,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 7580,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2020-T4",
+        "nombre_demandeur_emploi": 4980,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 32340,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2012-T3",
+        "nombre_demandeur_emploi": 32420,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2013-T2",
+        "nombre_demandeur_emploi": 32720,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2016-T3",
+        "nombre_demandeur_emploi": 29580,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 26370,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 260,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 930,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2003-T2",
+        "nombre_demandeur_emploi": 2770,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 2970,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2001-T3",
+        "nombre_demandeur_emploi": 41480,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 44840,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 1310,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 1690,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T3",
+        "nombre_demandeur_emploi": 1860,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 850,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T2",
+        "nombre_demandeur_emploi": 1660,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2013-T3",
+        "nombre_demandeur_emploi": 2020,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2022-T2",
+        "nombre_demandeur_emploi": 2910,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 620,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 3310,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 3630,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 6990,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 1190,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 1290,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 3790,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 52820,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 44900,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 47910,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T1",
+        "nombre_demandeur_emploi": 53240,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 52310,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T1",
+        "nombre_demandeur_emploi": 3680,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2009-T2",
+        "nombre_demandeur_emploi": 6410,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2015-T1",
+        "nombre_demandeur_emploi": 14840,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2015-T3",
+        "nombre_demandeur_emploi": 15540,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 17280,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2019-T4",
+        "nombre_demandeur_emploi": 18150,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 1620,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 2430,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 2570,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 3080,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "2002-T1",
+        "nombre_demandeur_emploi": 720,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 1250,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2018-T3",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 1940,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 3070,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 3200,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2017-T3",
+        "nombre_demandeur_emploi": 5820,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 1120,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 1920,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 4050,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 47010,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 48590,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T2",
+        "nombre_demandeur_emploi": 50940,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2004-T4",
+        "nombre_demandeur_emploi": 43470,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2012-T2",
+        "nombre_demandeur_emploi": 50060,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 53790,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 51850,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "1999-T3",
+        "nombre_demandeur_emploi": 3770,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2006-T4",
+        "nombre_demandeur_emploi": 4700,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2018-T2",
+        "nombre_demandeur_emploi": 18000,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 580,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 1500,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 1850,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "1996-T2",
+        "nombre_demandeur_emploi": 8690,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "1997-T4",
+        "nombre_demandeur_emploi": 7640,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2000-T4",
+        "nombre_demandeur_emploi": 6080,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 5580,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 5360,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2022-T3",
+        "nombre_demandeur_emploi": 4860,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 4870,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2004-T2",
+        "nombre_demandeur_emploi": 37760,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 37910,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2006-T1",
+        "nombre_demandeur_emploi": 37560,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2006
+    },
+    {
+        "periodes": "2007-T1",
+        "nombre_demandeur_emploi": 35770,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 34470,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 41640,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2012-T4",
+        "nombre_demandeur_emploi": 43620,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2012
+    },
+    {
+        "periodes": "2016-T2",
+        "nombre_demandeur_emploi": 42600,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 40420,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 33140,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 32330,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2009-T1",
+        "nombre_demandeur_emploi": 28160,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2009
+    },
+    {
+        "periodes": "2017-T1",
+        "nombre_demandeur_emploi": 29600,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2010-T2",
+        "nombre_demandeur_emploi": 1890,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 1930,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T3",
+        "nombre_demandeur_emploi": 2260,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 41050,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2003-T3",
+        "nombre_demandeur_emploi": 38770,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 34640,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2011-T1",
+        "nombre_demandeur_emploi": 41380,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2000-T2",
+        "nombre_demandeur_emploi": 3790,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 4650,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2010-T3",
+        "nombre_demandeur_emploi": 8180,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2010
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 15270,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 18130,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "1997-T1",
+        "nombre_demandeur_emploi": 190,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 2120,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T2",
+        "nombre_demandeur_emploi": 2330,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2016-T1",
+        "nombre_demandeur_emploi": 3950,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2016
+    },
+    {
+        "periodes": "2020-T1",
+        "nombre_demandeur_emploi": 4410,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "2003-T1",
+        "nombre_demandeur_emploi": 2640,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2003
+    },
+    {
+        "periodes": "2007-T3",
+        "nombre_demandeur_emploi": 3120,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 4520,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "1996-T1",
+        "nombre_demandeur_emploi": 8820,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1996
+    },
+    {
+        "periodes": "2005-T2",
+        "nombre_demandeur_emploi": 5810,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2023-T4",
+        "nombre_demandeur_emploi": 4780,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2021-T1",
+        "nombre_demandeur_emploi": 48390,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2011-T4",
+        "nombre_demandeur_emploi": 1920,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2014-T2",
+        "nombre_demandeur_emploi": 32010,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "1998-T2",
+        "nombre_demandeur_emploi": 130,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "1998-T3",
+        "nombre_demandeur_emploi": 120,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 280,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2021-T2",
+        "nombre_demandeur_emploi": 2030,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2021
+    },
+    {
+        "periodes": "2023-T1",
+        "nombre_demandeur_emploi": 1880,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "1997-T3",
+        "nombre_demandeur_emploi": 7600,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "2007-T4",
+        "nombre_demandeur_emploi": 6140,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2007
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 6320,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T4",
+        "nombre_demandeur_emploi": 6280,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "1999-T4",
+        "nombre_demandeur_emploi": 39540,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2001-T4",
+        "nombre_demandeur_emploi": 36070,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2011-T2",
+        "nombre_demandeur_emploi": 32090,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2011
+    },
+    {
+        "periodes": "2022-T1",
+        "nombre_demandeur_emploi": 23960,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2022
+    },
+    {
+        "periodes": "2008-T1",
+        "nombre_demandeur_emploi": 35040,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2008
+    },
+    {
+        "periodes": "2015-T2",
+        "nombre_demandeur_emploi": 44840,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2015
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1080,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 2190,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T1",
+        "nombre_demandeur_emploi": 2620,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2005-T4",
+        "nombre_demandeur_emploi": 2980,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2005
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 4450,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2020-T3",
+        "nombre_demandeur_emploi": 5880,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2020
+    },
+    {
+        "periodes": "1999-T1",
+        "nombre_demandeur_emploi": 530,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1999
+    },
+    {
+        "periodes": "2002-T2",
+        "nombre_demandeur_emploi": 1290,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2002-T3",
+        "nombre_demandeur_emploi": 1370,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2014-T4",
+        "nombre_demandeur_emploi": 3610,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 4320,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2019-T2",
+        "nombre_demandeur_emploi": 4430,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "1997-T2",
+        "nombre_demandeur_emploi": 45840,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1997
+    },
+    {
+        "periodes": "1998-T4",
+        "nombre_demandeur_emploi": 51850,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 1998
+    },
+    {
+        "periodes": "2017-T4",
+        "nombre_demandeur_emploi": 53510,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2017
+    },
+    {
+        "periodes": "2018-T1",
+        "nombre_demandeur_emploi": 53550,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2018
+    },
+    {
+        "periodes": "2002-T4",
+        "nombre_demandeur_emploi": 4100,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2002
+    },
+    {
+        "periodes": "2004-T1",
+        "nombre_demandeur_emploi": 4130,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2013-T4",
+        "nombre_demandeur_emploi": 13010,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2013
+    },
+    {
+        "periodes": "2019-T1",
+        "nombre_demandeur_emploi": 18300,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2019
+    },
+    {
+        "periodes": "2023-T3",
+        "nombre_demandeur_emploi": 15910,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2023
+    },
+    {
+        "periodes": "2000-T3",
+        "nombre_demandeur_emploi": 840,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2000
+    },
+    {
+        "periodes": "2001-T2",
+        "nombre_demandeur_emploi": 960,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2001
+    },
+    {
+        "periodes": "2004-T3",
+        "nombre_demandeur_emploi": 1440,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2004
+    },
+    {
+        "periodes": "2014-T3",
+        "nombre_demandeur_emploi": 2150,
+        "code_departement": "972",
+        "nom_departement": "Martinique",
+        "annee": 2014
+    }
+]
