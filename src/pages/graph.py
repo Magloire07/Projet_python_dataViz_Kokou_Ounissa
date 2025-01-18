@@ -3,6 +3,7 @@ import plotly.express as px
 from dash import dcc, html, Input, Output, Dash
 import plotly.graph_objects as go
 import os
+import json
 
 def get_non_empty_dirs(directory):
     # Liste pour stocker les noms des répertoires non vides
@@ -34,30 +35,6 @@ color=["rgb(128, 181, 254)","rgb(255, 128, 189)","rgb(255, 152, 16)","rgb(27, 10
 
 
 def graph_page():
-    # Données départements
-    labels = ["Ile-de-France", "Côte-d'or", "Jura", "Nièvre", "Savoie", "etc..", "etc.."]
-
-    # Figure 1 
-    fig1 = go.Figure()
-    fig1.add_trace(
-        go.Pie(labels=labels, values=[16, 15, 12, 6, 5, 4, 42], name="chomeurs", hole=0.6,pull=[0,0,0,0,0.1 ,0, 0])
-    )
-    fig1.update_layout(
-        title_text="Proportion demandeurs d'emploi (1996-2023)",
-        annotations=[dict(text="PDE", x=0.5, y=0.5, font_size=20, showarrow=False)],
-        showlegend=True
-    )
-
-    # Figure 2 
-    fig2 = go.Figure()
-    fig2.add_trace(
-        go.Pie(labels=labels, values=[27, 11, 25, 8, 1, 3, 25], name="Dansité", hole=0.6,pull=[0, 0,0,0,0.1,0 ,0])
-    )
-    fig2.update_layout(
-        title_text="Dansité population par département 01-95 (%)",
-        annotations=[dict(text="DAP", x=0.5, y=0.5, font_size=10, showarrow=False)],
-        showlegend=True
-    )
 
     return html.Div([
         html.Div([
@@ -211,16 +188,113 @@ def graph_page():
            #donut 
         html.Div([
             html.Div([
-            dcc.Graph(figure=fig1,className="pie")
+            dcc.Graph(className="pie", id="donut01")
             ],className="donut1"),
             html.Div([
-            dcc.Graph(figure=fig2,className="pie")
+            dcc.Graph(className="pie", id="donut02")
             ],className="donut2")
             
         ],className="donuts"),
       ],className="graphs")
     ])
 # Callback pour mettre à jour chaque graphique individuellement
+
+def register_callbacks3(app):
+        @app.callback(
+            Output(f"donut01", "figure"),
+            [
+                Input("graph1-selector", "value")
+            ]
+        )
+        def update_graph(_):
+            data = pd.read_json(f"data/cleaned/coupleCodeDeptEtTauxChomage.json")
+            # Calculer et ajout de la colonne la taux
+            somme = sum(data["nombre_chomeurs"])
+            data['taux'] = data["nombre_chomeurs"].apply(lambda x: (x * 100) / somme)
+
+            # Appliquer un seuil pour regrouper les petites valeurs
+            seuil = 1.8  # Pourcentage minimum pour afficher un département
+            autres = data[data['taux'] < seuil]['taux'].sum()
+            
+            # Filtrer les labels et valeurs
+            labels_filtrés = data[data['taux'] >= seuil]['code_dept'].tolist() # ici code_dept est le nom du departement 
+            #labels_filtrés.append("Autres")
+            
+            valeurs_filtrées = data[data['taux'] >= seuil]['taux'].tolist()
+            #valeurs_filtrées.append(autres)
+
+            # Créer la figure
+            fig1 = go.Figure()
+            fig1.add_trace(
+            go.Pie(
+                labels=labels_filtrés,
+                values=valeurs_filtrées,
+                name="Taux",
+                hole=0.6,
+                textinfo="label+percent",
+                #pull=[0 if label == "Autres" else 0.5 for label in labels_filtrés]
+            )
+        )
+            fig1.update_layout(
+                title_text="Proportion demandeurs d'emploi (1996-2023), catégorie A et  semestre4",
+                annotations=[dict(text="PDE", x=0.5, y=0.5, font_size=20, showarrow=False)],
+                showlegend=True
+            )
+            return fig1
+
+
+#donut2
+def register_callbacks4(app):
+    @app.callback(
+        Output("donut02", "figure"),
+        [
+            Input("graph1-selector", "value")
+        ]
+    )
+    def update_graph(_):
+        # Charger les données
+        data = pd.read_json(f"data/cleaned/coupleCodeDeptEtPopMoy.json")
+        with open(f"data/cleaned/coupleDeptCode.json", "r") as f:
+            coupleDeptCode = json.load(f)
+
+        # Calculer et ajout de la colonne la dansité
+        somme = sum(data["population_moy"])
+        data['dansite'] = data["population_moy"].apply(lambda x: (x * 100) / somme)
+
+        # Appliquer un seuil pour regrouper les petites valeurs
+        seuil = 2  # Pourcentage minimum pour afficher un département
+        autres = data[data['dansite'] < seuil]['dansite'].sum()
+        
+        # Filtrer les labels et valeurs
+        labels_filtrés = data[data['dansite'] >= seuil]['code_dept'].tolist()
+        labels_filtrés.append("Autres")
+        
+        valeurs_filtrées = data[data['dansite'] >= seuil]['dansite'].tolist()
+        valeurs_filtrées.append(autres)
+
+        labels_filtrés = [coupleDeptCode.get(code, code) for code in labels_filtrés]  # Remplace avec le nom du département ou "Autres"
+
+        # Créer la figure
+        fig2 = go.Figure()
+        fig2.add_trace(
+            go.Pie(
+                labels=labels_filtrés,
+                values=valeurs_filtrées,
+                name="Dansité",
+                hole=0.6,
+                textinfo="label+percent",
+               # pull=[0.1 if label == "Autres" else 0 for label in labels_filtrés]
+            )
+        )
+        fig2.update_layout(
+            title_text="Dansité population par département",
+            annotations=[dict(text="DAP", x=0.5, y=0.5, font_size=10, showarrow=False)],
+            showlegend=True,
+        )
+        return fig2
+
+        
+
 def register_callbacks(app):
     for i in range(1, 5):
         @app.callback(

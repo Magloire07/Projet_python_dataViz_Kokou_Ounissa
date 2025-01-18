@@ -3,7 +3,7 @@ from dash import Dash, html, dcc
 from dash.dependencies import Input, Output
 import src.components.navbar as navbar
 from src.pages.home import home_page
-from src.pages.graph import graph_page , register_callbacks
+from src.pages.graph import graph_page , register_callbacks,register_callbacks3,register_callbacks4
 from src.pages.geoLoc import map_page
 from src.pages.regions import regions_page ,register_callbacks2,cleanDataByDept
 from src.pages.description import description_page 
@@ -25,6 +25,9 @@ register_callbacks(app)
 # Register callbacks2
 register_callbacks2(app)
 
+register_callbacks3(app)
+
+register_callbacks4(app)
 # Callbacks pour le routage
 @app.callback(
     Output("page-content", "children"),

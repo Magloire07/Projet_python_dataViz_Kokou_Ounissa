@@ -53,4 +53,20 @@ def starCleaning():
             debut= (mandat.iloc[1])[7:]
             l=[ annee for annee in range(int(debut), 2024)]
             cleanData(l,n)
+    clean_population()
 
+def clean_population():
+    data= pd.read_csv("data/raw/demographyref-france-pop-legale-commune-arrondissement-municipal-millesime.csv", sep=";")
+    code_dept= data["Code Officiel Département"]
+    #popu=data["Population totale"]
+    
+    listUniqueCodeDepartement=sorted(set(code_dept))
+
+    listPopulationMoyenne=[]
+    for codeDept in listUniqueCodeDepartement:
+        popuByDept= data[ data["Code Officiel Département"] == codeDept]["Population totale"]
+        listPopulationMoyenne.append( mean(popuByDept))
+        # on cree un dico pour enregistrer en json le couple dept et popMoy
+        dico_by_cat= {"code_dept":listUniqueCodeDepartement, "population_moy":listPopulationMoyenne }
+        with open(f"data/cleaned/coupleCodeDeptEtPopMoy.json","w") as file:
+            json.dump(dico_by_cat, file, indent=4, ensure_ascii=False)

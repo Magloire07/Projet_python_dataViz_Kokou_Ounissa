@@ -23,14 +23,13 @@ def download_file_auto(url, save_directory):
     except requests.exceptions.RequestException as e:
         print(f"Erreur lors du téléchargement : {e}")
 
-
 UrlList=list()
 save_directory = "data/raw/"
 # on ajoute des fichiers.csv à télécharger
 UrlList.append("https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/labouref-france-departement-quarter-jobseeker/exports/csv?lang=fr&timezone=Europe%2FBerlin&use_labels=true&delimiter=%3B")
 UrlList.append("https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/correspondance-code-insee-code-postal/exports/csv?lang=fr&timezone=Europe%2FBerlin&use_labels=true&delimiter=%3B")
 UrlList.append("https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/base-cc-caract-emploi-2012-arm/exports/csv?lang=fr&timezone=Europe%2FBerlin&use_labels=true&delimiter=%3B")
-
+UrlList.append("https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/demographyref-france-pop-legale-commune-arrondissement-municipal-millesime/exports/csv?lang=fr&timezone=Europe%2FBerlin&use_labels=true&delimiter=%3B")
 def  startDownload():
     for url in UrlList:
         download_file_auto(url, save_directory)

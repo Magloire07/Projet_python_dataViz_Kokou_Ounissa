@@ -22,10 +22,15 @@ def cleanDataByDept():
 
     # Liste des départements uniques
     departements = chomage_data['Nom Officiel Département'].unique()
+    writeDeptName(departements)
 
     # Itérer sur chaque département pour créer un fichier JSON
     for departement in departements:
-        data_filtered = chomage_data[chomage_data['Nom Officiel Département'] == departement]
+        data_filtered = chomage_data[
+            (chomage_data['Nom Officiel Département'] == departement) &
+            (chomage_data['Catégorie'] == 'A') &
+            (chomage_data['Période (Trimestre)'].str[5:7] == 'T4')]
+        
         data_json = []
         for _, row in data_filtered.iterrows():
             data_json.append({
@@ -40,8 +45,10 @@ def cleanDataByDept():
         json_filepath = os.path.join(output_dir, json_filename)
         with open(json_filepath, 'w') as json_file:
             json.dump(data_json, json_file, indent=4)
-
         print(f"Fichier généré : {json_filepath}")
+
+        # ecrit de fichier de couple code département et taux chomage 
+    tauxByDept()
 
 
 def get_non_empty_dirs(directory):
@@ -167,11 +174,28 @@ def register_callbacks2(app):
 
         return fig
 
-# Lancer l'application Dash
-    app = Dash(__name__)
-    app.layout = regions_page()
 
-if __name__ == "__main__":
-    register_callbacks2(app)
-    app.run_server(debug=True)
 
+def writeDeptName(departements):
+    print(f"Création:   DeptsName.txt ")
+    with open("data/cleaned/DeptsName.txt", "a", encoding="utf-8") as file:
+        for nom in departements:
+            file.write(nom + "\n")
+
+
+def tauxByDept():
+    listDept=[]
+    listTaux=[]
+    with open("data/cleaned/DeptsName.txt", "r") as fichier:
+        for ligne in fichier:
+            listDept.append(ligne.strip())
+    for dept in listDept:
+        with open(f"data/cleaned/{dept}.json", "r") as f:
+            dept_data = json.load(f)        
+        somme= sum(demandeur_par_annee["nombre_demandeur_emploi"]  for demandeur_par_annee in dept_data)
+        listTaux.append(somme)
+        
+    dico_by_cat= {"code_dept":listDept, "nombre_chomeurs":listTaux }
+    print(f"Création:   coupleCodeDeptEtTauxChomage.json ")
+    with open(f"data/cleaned/coupleCodeDeptEtTauxChomage.json","w") as file:
+        json.dump(dico_by_cat, file, indent=4, ensure_ascii=False)
