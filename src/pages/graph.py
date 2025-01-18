@@ -63,7 +63,7 @@ def graph_page():
         html.Div([
             #options
         html.Div([
-             html.H2("CONTROLE", style={"text-align": "center", "margin-bottom": 20,"color":"#30495a"}),
+             html.H2("DEDUCTION", style={"text-align": "center", "margin-bottom": 20,"color":"#30495a"}),
              html.H3("remarque1", style={"text-align": "center", "margin-bottom": 20}),
              html.P( "En cinq ans le chômage est passé de 9,5% de la population active à 7,4%, avec un mandat toujours encours ",className="com"),
              html.H3("remarque2", style={"text-align": "center", "margin-bottom": 20}),
