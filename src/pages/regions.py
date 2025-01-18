@@ -22,11 +22,9 @@ if not os.path.exists(output_dir):
 # Liste des départements uniques
 departements = chomage_data['Nom Officiel Département'].unique()
 
-# Itérer sur chaque département pour générer des fichiers JSON
+# Itérer sur chaque département pour créer un fichier JSON
 for departement in departements:
-    # Filtrer les données pour le département
     data_filtered = chomage_data[chomage_data['Nom Officiel Département'] == departement]
-    # Créer une structure de données pour JSON
     data_json = []
     for _, row in data_filtered.iterrows():
         data_json.append({
@@ -36,14 +34,49 @@ for departement in departements:
             "nom_departement": row['Nom Officiel Département'],
             "annee": row['Année']
         })
-    # Créer le chemin du fichier JSON pour chaque département
+    # Sauvegarder dans un fichier JSON
     json_filename = f"{departement}.json"
     json_filepath = os.path.join(output_dir, json_filename)
-    # Sauvegarder les données filtrées dans un fichier JSON
     with open(json_filepath, 'w') as json_file:
         json.dump(data_json, json_file, indent=4)
 
     print(f"Fichier généré : {json_filepath}")
+
+def get_non_empty_dirs(directory):
+    non_empty_dirs = []
+    try:
+        if not os.path.exists(directory):
+            raise FileNotFoundError(f"Le répertoire '{directory}' est introuvable.")
+        for subdir in os.listdir(directory):
+            full_path = os.path.join(directory, subdir)
+            if os.path.isdir(full_path) and os.listdir(full_path):
+                non_empty_dirs.append(subdir)
+    except Exception as e:
+        print(f"Une erreur est survenue : {e}")
+    return non_empty_dirs
+
+# Dictionnaire des années de mandats
+mandats = {
+    "Jacques Chirac": (1995, 2007),
+    "Nicolas Sarkozy": (2007, 2012),
+    "François Hollande": (2012, 2017),
+    "Emmanuel Macron": (2017, 2025)
+}
+
+# Dictionnaire des couleurs par mandat présidentiel
+mandat_colors = {
+    "Jacques Chirac": "red",      
+    "Nicolas Sarkozy": "orange",  
+    "François Hollande": "blue",  
+    "Emmanuel Macron": "green"    
+}
+
+# Fonction pour obtenir la couleur et la période du mandat
+def get_mandat_and_color(annee):
+    for mandat, (start, end) in mandats.items():
+        if start <= annee <= end:
+            return mandat, mandat_colors.get(mandat, "gray")
+    return None, "gray"
 
 # Initialisation Dash
 app = Dash(__name__)
@@ -51,7 +84,7 @@ app = Dash(__name__)
 # Page des régions
 def regions_page():
     return html.Div([
-        html.H1("Analyse des Chiffres du Chômage par Mandat Présidentiel", style={"text-align": "center"}),
+        html.H1("Analyse des Chiffres du Chômage par Département selon le Mandat Présidentiel", style={"text-align": "center"}),
         html.Div([
             dcc.Dropdown(
                 id="department-selector",
@@ -66,7 +99,7 @@ def regions_page():
                     {"label": "Histogramme", "value": "bar"},
                     {"label": "Courbe", "value": "line"}
                 ],
-                value="bar",
+                value="line",
                 style={"text-align": "center", "margin-bottom": "20px"}
             ),
             dcc.Graph(id="dynamic-graph1")
@@ -85,25 +118,52 @@ def register_callbacks(app):
         # Charger les données filtrées pour le département
         data_path = f"data/cleaned/{departement}.json"
         data = pd.read_json(data_path)
+        
+        # Agréger les données par année en calculant la moyenne des demandeurs d'emploi
+        data_aggregated = data.groupby('annee').agg({'nombre_demandeur_emploi': 'mean'}).reset_index()
 
-        # Agrégation des données par année
-        data_aggregated = data.groupby(['annee']).agg({'nombre_demandeur_emploi': 'mean'}).reset_index()
-
-        # Créer un graphique en fonction du type
+        # Créer un graphique avec les données agrégées
         if graph_type == "bar":
             fig = px.bar(data_aggregated, x="annee", y="nombre_demandeur_emploi", title=f"Chômage - {departement}", height=400)
         else:
             fig = px.line(data_aggregated, x="annee", y="nombre_demandeur_emploi", title=f"Chômage - {departement}", height=400)
 
+        # Ajouter les bandes de couleur représentant les mandats présidentiels
+        for mandat, (start, end) in mandats.items():
+            color = mandat_colors.get(mandat, "gray")
+            fig.add_vrect(
+                x0=start, x1=end, 
+                fillcolor=color, opacity=0.3,
+                layer="below", line_width=0
+            )
+
+        # Ajouter une légende
         fig.update_layout(
             xaxis_title="Année",
             yaxis_title="Nombre de demandeurs d'emploi",
-            template="plotly_white"
+            template="plotly_white",
+            annotations=[
+                dict(
+                    x=0.95, y=0.95, xref="paper", yref="paper",
+                    text="Mandat Présidentiels", showarrow=False, font=dict(size=14),
+                    align="center", bgcolor="rgba(255, 255, 255, 0.7)", borderpad=10
+                ),
+                dict(
+                    x=0.95, y=0.9, xref="paper", yref="paper",
+                    text="Chirac: rouge, Sarkozy: orange, Hollande: bleu, Macron: vert",
+                    showarrow=False, font=dict(size=12),
+                    align="center", bgcolor="rgba(255, 255, 255, 0.7)", borderpad=10
+                )
+            ]
         )
+
         return fig
 
-app.layout = regions_page()
-register_callbacks(app)
+# Lancer l'application Dash
+    app = Dash(__name__)
+    app.layout = regions_page()
 
 if __name__ == "__main__":
+    register_callbacks(app)
     app.run_server(debug=True)
+
