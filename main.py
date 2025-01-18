@@ -5,6 +5,7 @@ import src.components.navbar as navbar
 from src.pages.home import home_page
 from src.pages.graph import graph_page , register_callbacks
 from src.pages.geoLoc import map_page
+from src.pages.regions import regions_page
 from src.pages.description import description_page
 from src.components.footer import footer
 from src.utils.get_data import  startDownload
@@ -30,6 +31,8 @@ def display_page(pathname):
         return graph_page()
     elif pathname == "/map":
         return map_page()
+    elif pathname == "/regions":
+        return regions_page()
     elif pathname == "/description":
         return description_page()
     else:

@@ -5,10 +5,11 @@ def navbar():
          html.Img(src='/assets/logo.png',style={"width":110, "margin-left":20}),
 
         html.Ul([
-            html.Li(html.A("Home", href="/")),
-            html.Li(html.A("Graphiques", href="/graphs")),
+            html.Li(html.A("Acceuil", href="/")),
+            html.Li(html.A("Données par mandats", href="/graphs")),
+            html.Li(html.A("Données par régions", href="/regions")),
             html.Li(html.A("Carte", href="/map")),
-            html.Li(html.A("informations", href="/description")),
+            html.Li(html.A("Informations", href="/description")),
 
 
         ], className="nav-list"),

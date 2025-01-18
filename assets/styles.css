@@ -4,9 +4,11 @@ body {
     font-family: Aiglon Pro Wide, Arial, sans-serif;
     margin: 0;
     padding: 0;
+    text-align: center
 }
 .homebackground{
-    width: 99.8%;
+    max-width: 60%;
+    padding: 1.5rem;
 }
 /* Navbar */
 nav {
@@ -14,7 +16,7 @@ nav {
     align-items: center;
     /* justify-content: space-between; */
     padding: 10px 20px;
-    background-color: #c99a6d;
+    background-color: #008fd0;
     color: black;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
     height: 90px;
@@ -22,8 +24,13 @@ nav {
 
 .descript
 {
+    max-width: 60%;
+    padding: 1rem;
+    text-align: right;
     font-size: 28px;
     font-family: "Rouge Script", serif;
+    justify-content: center;
+    
 
 }
 
@@ -80,11 +87,11 @@ h1 {
 
 /* Footer */
 .footer {
-    background-color: #c99a6d;
+    background-color: #008fd0;
     color:#131d24;
     text-align: center;
     padding: 10px;
-    position: fixed;
+    /*position: fixed;*/
     bottom: 0;
     width: 100%;
     height: 20px;

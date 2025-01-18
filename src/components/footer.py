@@ -1,4 +1,4 @@
 from dash import html
 
 def footer():
-    return html.Footer(children=[ "Copyright © 2024 @kokou@ounissa. All rights reserved."],className="footer")
+    return html.Footer(children=[ "Copyright © 2024-2025 @Kokou @Ounissa. All rights reserved."],className="footer")
