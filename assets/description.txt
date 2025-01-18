@@ -2,7 +2,7 @@ Ces données présentent les séries corrigées des variations saisonnières et 
 
 Les données sont arrondies à la dizaine. De légers écarts peuvent donc apparaître entre la somme des données désagrégées et la série agrégée.
 
-Source
+Source:
 
 Les données sont issues des fichiers de la statistique mensuelle sur le marché du travail (STMT) de Pôle emploi et de la Dares.
 
@@ -14,7 +14,7 @@ C : Personne ayant exercé une activité réduite de plus de 78 heures par mois,
 D : Personne sans emploi, qui n'est pas immédiatement disponible, et qui n'est pas tenue d'accomplir des actes positifs de recherche d'emploi (demandeur d'emploi en formation, en maladie, etc.)
 E : Personne pourvue d'un emploi, et qui n'est pas tenue d'accomplir des actes positifs de recherche d'emploi
 
-Avertissement
+Avertissement:
 
 Toutes catégories sauf D et E
 

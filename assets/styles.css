@@ -2,7 +2,6 @@
 /* Style général */
 body {
     font-family: Aiglon Pro Wide, Arial, sans-serif;
-    background-color: #f4f4f9;
     margin: 0;
     padding: 0;
 }
@@ -18,7 +17,7 @@ nav {
     background-color: #c99a6d;
     color: black;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-    height: 100px;
+    height: 90px;
 }
 
 .descript
@@ -52,9 +51,10 @@ nav ul li {
 }
 
 nav ul li a {
-    color: black;
+    color:#20323d;
     text-decoration: none;
     font-weight: bold;
+    font-size: 17px;
 }
 
 nav ul li a:hover {
@@ -81,7 +81,7 @@ h1 {
 /* Footer */
 .footer {
     background-color: #c99a6d;
-    color: black;
+    color:#131d24;
     text-align: center;
     padding: 10px;
     position: fixed;
@@ -92,27 +92,75 @@ h1 {
 }
 
 .descr{
- background-color: white;
- color :black;
+ background-color: #f8f7f7dc;
  opacity: 0.7;
  margin: 50px;
  padding: 10px;
+
 }
 
 .graphs{
-    display: grid;
-    grid-template-rows: repeat(2, 1fr); /* 2 rows */
-    grid-template-columns: repeat(2, 1fr); /* 2 columns */
+    display: flex;
+
+}
+#dynamic-graph1,#dynamic-graph2,#dynamic-graph3,#dynamic-graph4{
+    height: 400px;
+}
+.options{
+    background-clip: border-box;
+    border: 1px solid #c99a6d;
+    border-radius: 0.25rem;
+    width: 15%;
+    height: 850px;
+    margin: 20px;
+    padding: 5px;
+
 }
 
 
-.graphe_frame{
-    margin-bottom: 100px;
-}
-fieldset
+.chart_scroll
 {
-    margin: 40px;
+    background-clip: border-box;
+    border: 1px solid rgba(72, 94, 144, 0.16);
+    border-radius: 0.25rem;
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    border-right: 1px solid #ddd;
+    overflow-y: auto; /* Scroll pour la sidebar si nécessaire */
+    height: 850px;
+    margin: 20px;
+}
 
+
+.donuts
+{
+    display: flex;
+    flex-wrap: wrap;
+    width: 45%;
+    margin: 20px;
+    background-clip: border-box;
+    border: 1px solid rgba(72, 94, 144, 0.16);
+    border-radius: 0.25rem;
+
+}
+.donut1,.donut2
+{
+    width: 100%;
+}
+
+.pie{
+    height: 395px;
+}
+.graphe_frame{
+    margin-bottom: 10px;
+    width: 650px;
+    /* height: 300px; */
+}
+.type_cat
+{
+    display: flex;
+    justify-content: space-around;
 }
 .legend1{
     color: #30495a;
@@ -138,7 +186,12 @@ fieldset
     font-weight: bold;
     opacity: 0.9;
 }
-.textArea{
-    width: 809px;
-    height: 70px; 
+.com{
+    color: #30495a;
+    background-color: #f8f7f7dc;
+    padding: 4px;
+    border-radius: 5px;
+}
+h3{
+    color: #30495a;
 }

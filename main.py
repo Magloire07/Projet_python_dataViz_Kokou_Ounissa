@@ -6,12 +6,11 @@ from src.pages.home import home_page
 from src.pages.graph import graph_page , register_callbacks
 from src.pages.geoLoc import map_page
 from src.pages.description import description_page
-
 from src.components.footer import footer
 from src.utils.get_data import  startDownload
 from src.utils.clean_data import starCleaning
 app = Dash(__name__, suppress_callback_exceptions=True)
-app.title = "WStatAnalyser"
+app.title = "MDPOL&EMPLOI"
 # Layout principal
 app.layout = html.Div([
     dcc.Location(id="url"),
