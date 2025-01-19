@@ -165,7 +165,7 @@ flowchart TD
     C --> D[Update Map Style]
     D --> E[Return HTML Layout]
     
-    A --> F[Title: "Localisation spatiale"]
+    A --> F[Title: Localisation spatiale]
     A --> G[Graph: Geolocalization Map]
 
     style A fill:#f9f,stroke:#333,stroke-width:4px
@@ -182,7 +182,7 @@ flowchart TD
     B --> C[Store Lines in List]
     C --> D[Create HTML Layout]
     
-    D --> E[Title: "DESCRIPTION DES CATÉGORIES"]
+    D --> E[Title: DESCRIPTION DES CATÉGORIES]
     D --> F[Paragraph: File Lines]
 
     style A fill:#f9f,stroke:#333,stroke-width:4px
