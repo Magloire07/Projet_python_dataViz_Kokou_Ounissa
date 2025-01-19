@@ -221,7 +221,7 @@ graph TD
     F --> G[Capture Data Inside a Tag]
     G --> H[Write Data to CSV]
     H --> I[Parse HTML End Tag]
-    I --> J[Is Link Tag Closed]
+    I --> J[Is Link Tag Closed?]
     J --> K[Reset Current Text]
     K --> L[Check for ul End Tag]
     L --> M[End Parsing]
@@ -253,7 +253,7 @@ graph TD
     B --> C[Extract Unique Periods & Categories]
     C --> D[Create Directory for Each President]
     D --> E[Loop Through Presidents and Mandates]
-    E --> F{Is the Mandate "In Progress"?}
+    E --> F{Is the Mandate In Progress?}
     F -->|No| G[Clean Data for Historical Periods]
     F -->|Yes| H[Clean Data for Current Period]
     G --> I[Save Data by Category JSON]
