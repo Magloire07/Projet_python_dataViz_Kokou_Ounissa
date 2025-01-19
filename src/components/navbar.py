@@ -8,7 +8,7 @@ def navbar():
             html.Li(html.A("Accueil", href="/")),
             html.Li(html.A("Données par mandats", href="/graphs")),
             html.Li(html.A("Données par régions", href="/regions")),
-            html.Li(html.A("Carte", href="/map")),
+            html.Li(html.A("Carte", href="/map"),id="map"),
             html.Li(html.A("Informations", href="/description")),
 
 

@@ -254,7 +254,7 @@ def register_callbacks4(app):
     def update_graph(_):
         # Charger les données
         data = pd.read_json(f"data/cleaned/coupleCodeDeptEtPopMoy.json")
-        with open(f"data/cleaned/coupleDeptCode.json", "r") as f:
+        with open(f"assets/coupleDeptCode.json", "r") as f:
             coupleDeptCode = json.load(f)
 
         # Calculer et ajout de la colonne la densité
@@ -320,9 +320,4 @@ def register_callbacks(app):
                 template="plotly_white"
             )
             return fig
-# Initialisation de l'application Dash
-app = Dash(__name__)
-app.layout = graph_page()
-register_callbacks(app)
-if __name__ == "__main__":
-    app.run_server(debug=True)
+

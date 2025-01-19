@@ -5,5 +5,5 @@ suppress_callback_exceptions= False
 titre="MDPOL&EMPLOI"
 use_reloader=False
 use_debugger=False
-dev_tools_ui=False,    
+dev_tools_ui=True,    
 dev_tools_hot_reload=False   

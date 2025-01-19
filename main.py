@@ -4,7 +4,7 @@ from dash.dependencies import Input, Output
 import src.components.navbar as navbar
 from src.pages.home import home_page
 from src.pages.graph import graph_page , register_callbacks,register_callbacks3,register_callbacks4
-from src.pages.geoLoc import map_page
+from src.pages.geoLoc import map_page,register_callbacks5
 from src.pages.regions import regions_page ,register_callbacks2,cleanDataByDept
 from src.pages.description import description_page 
 from src.components.footer import footer
@@ -26,6 +26,7 @@ register_callbacks(app)
 register_callbacks2(app)
 register_callbacks3(app)
 register_callbacks4(app)
+register_callbacks5(app)
 # Callbacks pour le routage
 @app.callback(
     Output("page-content", "children"),
@@ -50,4 +51,6 @@ if __name__ == "__main__":
         cleanDataByDept()
         with open("data/raw/data_already_downloaded.flag", "w") as f:  # Crée un fichier indicateur après le téléchargement
             f.write("Download completed.")
+   
+
     app.run_server( host=host, port=port, debug=debug,use_reloader=use_reloader,use_debugger=use_debugger,dev_tools_ui=dev_tools_ui,dev_tools_hot_reload=dev_tools_hot_reload)

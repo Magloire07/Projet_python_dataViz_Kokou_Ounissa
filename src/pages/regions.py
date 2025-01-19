@@ -4,7 +4,17 @@ import json
 import plotly.express as px
 from dash import dcc, html, Input, Output, Dash
 
+
 # Fonction pour nettoyer les données par département et sauvegarder en JSON
+def readDeptName():
+    listDept = []
+    with open("assets/DeptsName.txt", "r") as fichier:
+        for ligne in fichier:
+            listDept.append(ligne.strip())
+    return listDept
+
+departements= readDeptName()
+
 def cleanDataByDept():
     # Charger les données CSV
     file_path = 'data/raw/labouref-france-departement-quarter-jobseeker.csv'
@@ -22,8 +32,7 @@ def cleanDataByDept():
         os.makedirs(output_dir)
 
     # Liste des départements uniques
-    departements = chomage_data['Nom Officiel Département'].unique()
-    writeDeptName(departements)
+    #departements = chomage_data['Nom Officiel Département'].unique()
 
     # Itérer sur chaque département pour créer un fichier JSON
     for departement in departements:
@@ -50,16 +59,18 @@ def cleanDataByDept():
     # Créer le fichier des départements et taux de chômage
     tauxByDept()
 
-def writeDeptName(departements):
-    print(f"Création:   DeptsName.txt ")
-    with open("data/cleaned/DeptsName.txt", "a", encoding="utf-8") as file:
-        for nom in departements:
-            file.write(nom + "\n")
+# def writeDeptName(departements):
+#     print(f"Création:   DeptsName.txt ")
+#     with open("data/cleaned/DeptsName.txt", "a", encoding="utf-8") as file:
+#         for nom in departements:
+#             file.write(nom + "\n")
+
+
 
 def tauxByDept():
     listDept = []
     listTaux = []
-    with open("data/cleaned/DeptsName.txt", "r") as fichier:
+    with open("assets/DeptsName.txt", "r") as fichier:
         for ligne in fichier:
             listDept.append(ligne.strip())
     for dept in listDept:
@@ -100,18 +111,14 @@ app = Dash(__name__)
 # Page des régions
 def regions_page():
     # Charger les données CSV
-    file_path = 'data/raw/labouref-france-departement-quarter-jobseeker.csv'
-    if not os.path.exists(file_path):
-        raise FileNotFoundError(f"Le fichier {file_path} est introuvable.")
-    chomage_data = pd.read_csv(file_path, delimiter=';')
 
     return html.Div([
         html.H1("Analyse des Chiffres du Chômage par Département selon le Mandat Présidentiel", style={"text-align": "center", "font-size": "24px"}),
         html.Div([
             dcc.Dropdown(
                 id="department-selector",
-                options=[{"label": dep, "value": dep} for dep in chomage_data['Nom Officiel Département'].unique()],
-                value=chomage_data['Nom Officiel Département'].iloc[0],
+                options=[{"label": dep, "value": dep} for dep in departements ],
+                value=departements[0],
                 clearable=False,
                 style={"max-width": "55%", "margin": "auto", "margin-bottom": "20px"}
             ),

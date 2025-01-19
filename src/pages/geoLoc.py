@@ -1,12 +1,9 @@
 import json
 import pandas as pd
 import plotly.express as px
-from dash import Dash, dcc, html
-import os
+from dash import Dash, dcc, html,Input, Output
 
-with open("data/cleaned/departements.json", "r", encoding="utf-8") as file:
-    france_departments = json.load(file)
-with open("data/cleaned/DeptsName.txt", "r", encoding="utf-8") as file:
+with open("assets/DeptsName.txt", "r", encoding="utf-8") as file:
     depts = file.read().splitlines()
 
 mandats = {
@@ -36,29 +33,36 @@ def load_data():
     df = pd.DataFrame(all_data)
     return df
 
-# Charger les données
-df = load_data()
 
-# Calculer la moyenne de chômage par mandat et par département
-mandat_data = []
-for mandat, (start, end) in mandats.items():
-    mandat_df = df[(df["annee"] >= start) & (df["annee"] <= end)]
-    
-    # Grouper les données par code de département et calculer la moyenne du nombre de demandeurs d'emploi
-    avg_data = mandat_df.groupby("code_departement")["nombre_demandeur_emploi"].mean().reset_index()
-    
-    # Ajouter le nom du département à chaque ligne 
-    avg_data["mandat"] = mandat
-    
-    # Récupérer le nom du département pour chaque code_departement en utilisant 'merge'
-    avg_data = avg_data.merge(mandat_df[["code_departement", "nom_departement"]].drop_duplicates(), on="code_departement", how="left")
-    
-    mandat_data.append(avg_data)
-
-final_df = pd.concat(mandat_data)
 
 # cartes Plotly pour chaque mandat
 def create_figures():
+
+    # Charger les données
+    df = load_data()
+
+    # Calculer la moyenne de chômage par mandat et par département
+    mandat_data = []
+    for mandat, (start, end) in mandats.items():
+        mandat_df = df[(df["annee"] >= start) & (df["annee"] <= end)]
+        
+        # Grouper les données par code de département et calculer la moyenne du nombre de demandeurs d'emploi
+        avg_data = mandat_df.groupby("code_departement")["nombre_demandeur_emploi"].mean().reset_index()
+        
+        # Ajouter le nom du département à chaque ligne 
+        avg_data["mandat"] = mandat
+        
+        # Récupérer le nom du département pour chaque code_departement en utilisant 'merge'
+        avg_data = avg_data.merge(mandat_df[["code_departement", "nom_departement"]].drop_duplicates(), on="code_departement", how="left")
+        
+        mandat_data.append(avg_data)
+
+    final_df = pd.concat(mandat_data)
+
+
+
+    with open("assets/departements.json", "r", encoding="utf-8") as file:
+        france_departments = json.load(file)
     figures = []
     for mandat in mandats:
         mandat_df = final_df[final_df["mandat"] == mandat]
@@ -83,24 +87,29 @@ def create_figures():
 
     return figures
 # Fonction pour créer la page avec Dash
+
+
+def register_callbacks5(app):
+    for i in range(6):
+        @app.callback(
+                Output(f"graph{i}", "figure"),
+                [Input(f"graph{i}", "id")], 
+        )
+        def update_graph(_,i=i):
+            figures = create_figures()
+            return figures[i]
+        
+
+
 def map_page():
-    figures = create_figures()
     return html.Div([
         html.H1("Évolution du chômage par mandat présidentiel", className="title"),
         html.Div([
-            dcc.Graph(figure=figures[0], className="map-graph"),
-            dcc.Graph(figure=figures[1], className="map-graph"),
-            dcc.Graph(figure=figures[2], className="map-graph"),
-            dcc.Graph(figure=figures[3], className="map-graph"),
-            dcc.Graph(figure=figures[4], className="map-graph"),
-            dcc.Graph(figure=figures[5], className="map-graph"),
+            dcc.Graph( className="map-graph", id="graph0"),
+            dcc.Graph( className="map-graph", id="graph1"),
+            dcc.Graph( className="map-graph", id="graph2"),
+            dcc.Graph( className="map-graph", id="graph3"),
+            dcc.Graph( className="map-graph", id="graph4"),
+            dcc.Graph( className="map-graph", id="graph5"),
         ], className="maps-container")
     ])
-
-# Initialiser l'application Dash
-app = Dash(__name__)
-app.layout = map_page()
-
-# Lancer le serveur Dash
-if __name__ == "__main__":
-    app.run_server(debug=True)
