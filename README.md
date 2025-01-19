@@ -8,7 +8,7 @@
 ### installation des dépenddances 
 `$ python -m pip install -r requirements.txt`
 ###  Premier lancement du projet
-Si le repertoires  `data/cleanded` est vide alors assurez-vous de suprimer s'il existe, le fichier `data_already_downloaded.flag` avant le lancer le projet
+Si le repertoires  `data/cleaned` est vide alors assurez-vous de suprimer s'il existe, le fichier `data_already_downloaded.flag` avant le lancer le projet
 ### lancement du projet (`python>=3.0`)
 `$ python main.py`
 
@@ -201,7 +201,7 @@ graph TD
     E --> F[Presidency Data Fetch]
     F --> G[Scrape French Presidents Data]
     G --> H[Parse HTML with PresidencyParser]
-    H --> I[Handle Errors (if any)]
+    H --> I[Handle Errors if any]
     I --> J[End]
 
     classDef startEnd fill:#f9f,stroke:#333,stroke-width:4px;
@@ -216,14 +216,14 @@ graph TD
     A[Start] --> B[Initialize Parser]
     B --> C[Create Output File]
     C --> D[Parse HTML Start Tag]
-    D --> E[Check if inside "galery"]
-    E --> F[Inside Link "a" Tag?]
-    F --> G[Capture Data Inside "a" Tag]
+    D --> E[Check if inside galery]
+    E --> F[Inside Link a Tag?]
+    F --> G[Capture Data Inside a Tag]
     G --> H[Write Data to CSV]
     H --> I[Parse HTML End Tag]
-    I --> J[Is Link Tag Closed?]
+    I --> J[Is Link Tag Closed]
     J --> K[Reset Current Text]
-    K --> L[Check for "ul" End Tag]
+    K --> L[Check for ul End Tag]
     L --> M[End Parsing]
 
     classDef startEnd fill:#f9f,stroke:#333,stroke-width:4px;
@@ -234,8 +234,8 @@ graph TD
 ```mermaid
 graph TD
     A[Start] --> B[Load JSON File]
-    B --> C[Check for "data" Key]
-    C --> D{Is "data" Key Present?}
+    B --> C[Check for data Key]
+    C --> D{Is data Key Present?}
     D -->|No| E[Raise KeyError]
     D -->|Yes| F[Filter Data Columns]
     F --> G[Create New Data Structure]
@@ -249,17 +249,17 @@ graph TD
 ```
 ```mermaid
 graph TD
-    A[Start] --> B[Load Data (Jobseeker, Presidency, Population)]
+    A[Start] --> B[Load Data Jobseeker, Presidency, Population]
     B --> C[Extract Unique Periods & Categories]
     C --> D[Create Directory for Each President]
     D --> E[Loop Through Presidents and Mandates]
     E --> F{Is the Mandate "In Progress"?}
     F -->|No| G[Clean Data for Historical Periods]
     F -->|Yes| H[Clean Data for Current Period]
-    G --> I[Save Data by Category (JSON)]
-    H --> I[Save Data by Category (JSON)]
+    G --> I[Save Data by Category JSON]
+    H --> I[Save Data by Category JSON]
     I --> J[Clean Population Data]
-    J --> K[Save Population Data (JSON)]
+    J --> K[Save Population Data JSON]
     K --> L[End]
 
     classDef startEnd fill:#f9f,stroke:#333,stroke-width:4px;
