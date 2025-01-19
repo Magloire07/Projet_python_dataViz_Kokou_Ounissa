@@ -198,3 +198,19 @@ h1 {
 h3{
     color: #30495a;
 }
+
+/* pour les maps */
+.maps-container {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(400px, 1fr));
+    gap: 20px;
+    padding: 20px;
+}
+
+/* Styles pour chaque carte */
+.map-graph {
+    height: 50vh;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
