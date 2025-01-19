@@ -36,8 +36,6 @@ def cleanDataByDept():
             data_json.append({
                 "periodes": row['Période (Trimestre)'],
                 "nombre_demandeur_emploi": row['Nb moyen demandeur emploi'],
-                "nombre_demandeur_emploi_homme": row['Nb moyen demandeur emploi Homme'],
-                "nombre_demandeur_emploi_femme": row['Nb moyen demandeur emploi Femme'],
                 "code_departement": row['Code Officiel Département'],
                 "nom_departement": row['Nom Officiel Département'],
                 "annee": row['Année']
@@ -66,9 +64,9 @@ def tauxByDept():
             listDept.append(ligne.strip())
     for dept in listDept:
         with open(f"data/cleaned/{dept}.json", "r") as f:
-            dept_data = json.load(f)        
-            somme = sum(demandeur_par_annee["nombre_demandeur_emploi"] for demandeur_par_annee in dept_data)
-            listTaux.append(somme)
+            dept_data = json.load(f)
+        somme = sum(demandeur_par_annee["nombre_demandeur_emploi"] for demandeur_par_annee in dept_data)
+        listTaux.append(somme)
     dico_by_cat = {"code_dept": listDept, "nombre_chomeurs": listTaux}
     print(f"Création:   coupleCodeDeptEtTauxChomage.json ")
     with open(f"data/cleaned/coupleCodeDeptEtTauxChomage.json", "w") as file:
@@ -83,10 +81,10 @@ mandats = {
 }
 
 mandat_colors = {
-    "Jacques Chirac": "red",      
-    "Nicolas Sarkozy": "orange",  
-    "François Hollande": "blue",  
-    "Emmanuel Macron": "green"    
+    "Jacques Chirac": "red",
+    "Nicolas Sarkozy": "orange",
+    "François Hollande": "blue",
+    "Emmanuel Macron": "green"
 }
 
 # Fonction pour obtenir la couleur et la période du mandat
@@ -108,14 +106,14 @@ def regions_page():
     chomage_data = pd.read_csv(file_path, delimiter=';')
 
     return html.Div([
-        html.H1("Analyse des Chiffres du Chômage par Département selon le Mandat Présidentiel", style={"text-align": "center"}),
+        html.H1("Analyse des Chiffres du Chômage par Département selon le Mandat Présidentiel", style={"text-align": "center", "font-size": "24px"}),
         html.Div([
             dcc.Dropdown(
                 id="department-selector",
                 options=[{"label": dep, "value": dep} for dep in chomage_data['Nom Officiel Département'].unique()],
                 value=chomage_data['Nom Officiel Département'].iloc[0],
                 clearable=False,
-                style={"width": "60%", "margin": "auto", "margin-bottom": "20px"}
+                style={"max-width": "55%", "margin": "auto", "margin-bottom": "20px"}
             ),
             dcc.RadioItems(
                 id="graph-type-selector",
@@ -126,7 +124,12 @@ def regions_page():
                 value="line",
                 style={"text-align": "center", "margin-bottom": "20px"}
             ),
-            dcc.Graph(id="dynamic-graph")
+            dcc.Graph(id="dynamic-graph"),
+            # Explication des couleurs sous le graphique
+            html.Div(
+                "Chirac: rouge, Sarkozy: orange, Hollande: bleu, Macron: vert",
+                style={"text-align": "center", "margin-top": "20px", "font-size": "14px", "color": "black"}
+            )
         ], style={"border": "2px solid #142E7B", "padding": "20px", "margin-bottom": "40px"})
     ])
 
@@ -141,17 +144,14 @@ def register_callbacks2(app):
     def update_graph(departement, graph_type):
         # Charger les données filtrées pour le département
         data_path = f"data/cleaned/{departement}.json"
-        print(f"Chargement des données à partir de : {data_path}")  # Debug
         try:
             data = pd.read_json(data_path)
-            print(f"Données chargées pour le département {departement}:")  # Debug
-            print(data.head())  # Debug : Affiche les premières lignes des données chargées
         except Exception as e:
             print(f"Erreur lors du chargement des données : {e}")
             return {}
 
         # Vérifier les colonnes disponibles et ajuster
-        columns_needed = ['nombre_demandeur_emploi', 'nombre_demandeur_emploi_homme', 'nombre_demandeur_emploi_femme']
+        columns_needed = ['nombre_demandeur_emploi']
         available_columns = [col for col in columns_needed if col in data.columns]
 
         # Si des colonnes sont manquantes, afficher un message et ne pas continuer avec l'incomplet
@@ -161,10 +161,6 @@ def register_callbacks2(app):
 
         # Agréger les données par année
         data_aggregated = data.groupby('annee').agg({col: 'mean' for col in available_columns}).reset_index()
-
-        # Debug: Vérifiez les données agrégées
-        print(f"Données agrégées pour {departement}:")
-        print(data_aggregated.head())
 
         # Créer un graphique avec les données agrégées
         if graph_type == "bar":
@@ -178,7 +174,7 @@ def register_callbacks2(app):
         for mandat, (start, end) in mandats.items():
             color = mandat_colors.get(mandat, "gray")
             fig.add_vrect(
-                x0=start, x1=end, 
+                x0=start, x1=end,
                 fillcolor=color, opacity=0.3,
                 layer="below", line_width=0
             )
@@ -188,19 +184,12 @@ def register_callbacks2(app):
             xaxis_title="Année",
             yaxis_title="Nombre de demandeurs d'emploi",
             template="plotly_white",
-            annotations=[
-                dict(
-                    x=0.95, y=0.95, xref="paper", yref="paper",
-                    text="Mandat Présidentiels", showarrow=False, font=dict(size=14),
-                    align="center", bgcolor="rgba(255, 255, 255, 0.7)", borderpad=10
-                ),
-                dict(
-                    x=0.95, y=0.9, xref="paper", yref="paper",
-                    text="Chirac: rouge, Sarkozy: orange, Hollande: bleu, Macron: vert",
-                    showarrow=False, font=dict(size=12),
-                    align="center", bgcolor="rgba(255, 255, 255, 0.7)", borderpad=10
-                )
-            ]
+            legend=dict(
+                title="Mandat Présidentiels",
+                x=0.5, y=-0.2,  # Position sous le graphique
+                xanchor="center", yanchor="top",
+                orientation="h"  # Disposition horizontale
+            )
         )
 
         return fig
