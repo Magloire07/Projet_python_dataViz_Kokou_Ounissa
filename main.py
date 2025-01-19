@@ -10,8 +10,9 @@ from src.pages.description import description_page
 from src.components.footer import footer
 from src.utils.get_data import  startDownload
 from src.utils.clean_data import starCleaning
-app = Dash(__name__, suppress_callback_exceptions=True)
-app.title = "MDPOL&EMPLOI"
+from config import host,port,debug,suppress_callback_exceptions,titre,use_reloader,use_debugger,dev_tools_ui,dev_tools_hot_reload
+app = Dash(__name__, suppress_callback_exceptions= suppress_callback_exceptions)
+app.title = titre
 # Layout principal
 app.layout = html.Div([
     dcc.Location(id="url"),
@@ -21,12 +22,9 @@ app.layout = html.Div([
 ])
 # Register callbacks
 register_callbacks(app)
-
 # Register callbacks2
 register_callbacks2(app)
-
 register_callbacks3(app)
-
 register_callbacks4(app)
 # Callbacks pour le routage
 @app.callback(
@@ -52,4 +50,4 @@ if __name__ == "__main__":
         cleanDataByDept()
         with open("data/raw/data_already_downloaded.flag", "w") as f:  # Crée un fichier indicateur après le téléchargement
             f.write("Download completed.")
-    app.run_server(debug=True)
+    app.run_server( host=host, port=port, debug=debug,use_reloader=use_reloader,use_debugger=use_debugger,dev_tools_ui=dev_tools_ui,dev_tools_hot_reload=dev_tools_hot_reload)

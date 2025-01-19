@@ -1,10 +1,16 @@
 
 # Infos sur de projet Mdpol&Emploi
-
+![MDPOL&EMPLOI](/assets/dashboard.png)
 
 
 ## User Guide
 
+### installation des dépenddances 
+`$ python -m pip install -r requirements.txt`
+###  Premier lancement du projet
+Si le repertoires  `data/cleanded` est vide alors assurez-vous de suprimer s'il existe, le fichier `data_already_downloaded.flag` avant le lancer le projet
+### lancement du projet (`python>=3.0`)
+`$ python main.py`
 
 
 ##  Data
@@ -40,10 +46,222 @@
 
 
 ## Developer Guide
+- l'ajout d'un graphe se fait dans le fichier `src/pages/graph.py` en rajoutant à la methode `graph_page()` le composant du graphe 
+- Pour ajouter une page il faut rajouter le fichier .py   au  repertoire `src/pages` puis l'importé dans le `main.py` sans oublié de rajouter le chemin de routage  à la structure conditionnelle  écrite a ce effet. Le fichier `src/components/navbar.py permet d'ajouter la page dans une liste non ordonnée.
+
+```mermaid
+graph TD
+    App_Layout --> url[url]
+    App_Layout --> navbar[navbar]
+    App_Layout --> page-content[page-content]
+    App_Layout --> footer[footer]
+    url[url] -->|Callback| page-content[page-content]
+
+graph TD
+    A[cleanDataByDept] -->|Reads CSV| B[Chômage Data]
+    A --> C[Extracts Year and Quarter]
+    C --> D[Write Departments to File]
+    A --> E[Generate Department JSON Files]
+    E --> F[Data Aggregation by Department]
+    F --> G[Write JSON for Each Department]
+    E --> H[Create Taux Chômage JSON]
+    
+    B -->|Departments List| I[Departements Array]
+    I --> D
+    
+    subgraph Mandats
+        M1[Jacques Chirac] --> M2[Nicolas Sarkozy]
+        M2 --> M3[François Hollande]
+        M3 --> M4[Emmanuel Macron]
+    end
+    
+    G -->|Department Data by Mandat| J[Graph Generation with Plotly]
+    J --> K[Dynamic Graph Callback]
+    K --> L[Update Graph with Data]
+    K --> M[Graph Type Selector]
+    M --> L
+    M --> N[Dynamic Department Selector]
+    N --> L
+    
+    subgraph Output
+        L --> O[Display Graph]
+        O --> P[Visualize Mandat Colors]
+    end
+
+    classDef Mandats fill:#f9f,stroke:#333,stroke-width:4px;
+    class M1,M2,M3,M4 Mandats;
 
 
+graph TD
+    A[home_page] --> B[Main Container]
+    B --> C[Bienvenue Div]
+    C --> D[H1: Bienvenue sur MDPOL & EMPLOI!]
+    B --> E[Description Paragraph]
+    E --> F[P: Impact sur le marché de l'emploi des politiques économiques]
+    B --> G[Background Image]
+    G --> H[Img: Ministere_travail.jpeg]
+    
+    classDef main fill:#f9f,stroke:#333,stroke-width:4px;
+    class B main;
+    
+    classDef description fill:#ccf,stroke:#333,stroke-width:2px;
+    class E description;
 
 
+flowchart TD
+    A[Graph Page Layout] --> B[Options Section]
+    A --> C[Graphs Section]
+    C --> D[Graph 1: Dynamic Graph]
+    C --> E[Graph 2: Dynamic Graph]
+    C --> F[Graph 3: Dynamic Graph]
+    C --> G[Graph 4: Dynamic Graph]
+    C --> H[Donut Charts]
+    H --> I[Donut 1: Unemployment Rate]
+    H --> J[Donut 2: Population Density]
+
+    B --> K[Dropdown for Chart Type]
+    B --> L[Radio Buttons for Categories]
+
+    D --> M[Callback: Dynamic Graph Update]
+    E --> M
+    F --> M
+    G --> M
+
+    I --> N[Callback: Update Donut 1]
+    J --> O[Callback: Update Donut 2]
+
+    M --> P[Data Fetch: JSON Files]
+    N --> P
+    O --> P
+    P --> Q[Data Processing: Calculations]
+    Q --> R[Graph Update: Plotly Express]
+
+    style A fill:#f9f,stroke:#333,stroke-width:4px
+    style B fill:#ffcc00,stroke:#333,stroke-width:2px
+    style C fill:#ffcc00,stroke:#333,stroke-width:2px
+    style D fill:#99ff99,stroke:#333,stroke-width:2px
+    style E fill:#99ff99,stroke:#333,stroke-width:2px
+    style F fill:#99ff99,stroke:#333,stroke-width:2px
+    style G fill:#99ff99,stroke:#333,stroke-width:2px
+    style H fill:#ffcc00,stroke:#333,stroke-width:2px
+    style I fill:#66ccff,stroke:#333,stroke-width:2px
+    style J fill:#66ccff,stroke:#333,stroke-width:2px
+    style K fill:#e6f7ff,stroke:#333,stroke-width:2px
+    style L fill:#e6f7ff,stroke:#333,stroke-width:2px
+    style M fill:#f2f2f2,stroke:#333,stroke-width:2px
+    style N fill:#f2f2f2,stroke:#333,stroke-width:2px
+    style O fill:#f2f2f2,stroke:#333,stroke-width:2px
+    style P fill:#f2f2f2,stroke:#333,stroke-width:2px
+    style Q fill:#ffcc99,stroke:#333,stroke-width:2px
+    style R fill:#ffcc99,stroke:#333,stroke-width:2px
+
+
+flowchart TD
+    A[Map Page] --> B[Create DataFrame]
+    B --> C[Create Scatter Mapbox]
+    C --> D[Update Map Style]
+    D --> E[Return HTML Layout]
+    
+    A --> F[Title: "Localisation spatiale"]
+    A --> G[Graph: Geolocalization Map]
+
+    style A fill:#f9f,stroke:#333,stroke-width:4px
+    style B fill:#ffcc00,stroke:#333,stroke-width:2px
+    style C fill:#99ff99,stroke:#333,stroke-width:2px
+    style D fill:#ffcc99,stroke:#333,stroke-width:2px
+    style E fill:#ffcc00,stroke:#333,stroke-width:2px
+    style F fill:#e6f7ff,stroke:#333,stroke-width:2px
+    style G fill:#e6f7ff,stroke:#333,stroke-width:2px
+
+flowchart TD
+    A[Description Page] --> B[Read Text File]
+    B --> C[Store Lines in List]
+    C --> D[Create HTML Layout]
+    
+    D --> E[Title: "DESCRIPTION DES CATÉGORIES"]
+    D --> F[Paragraph: File Lines]
+
+    style A fill:#f9f,stroke:#333,stroke-width:4px
+    style B fill:#ffcc00,stroke:#333,stroke-width:2px
+    style C fill:#99ff99,stroke:#333,stroke-width:2px
+    style D fill:#ffcc99,stroke:#333,stroke-width:2px
+    style E fill:#e6f7ff,stroke:#333,stroke-width:2px
+    style F fill:#e6f7ff,stroke:#333,stroke-width:2px
+
+graph TD
+    A[Start] --> B[Download CSV Files]
+    B --> C[Fetch Data from URLs]
+    C --> D[Download File from URL]
+    D --> E[Save File to Directory]
+    E --> F[Presidency Data Fetch]
+    F --> G[Scrape French Presidents Data]
+    G --> H[Parse HTML with PresidencyParser]
+    H --> I[Handle Errors (if any)]
+    I --> J[End]
+
+    classDef startEnd fill:#f9f,stroke:#333,stroke-width:4px;
+    class A,J startEnd;
+    classDef process fill:#bbf,stroke:#333,stroke-width:2px;
+    class B,C,D,E,F,G,H process;
+    classDef error fill:#fbb,stroke:#333,stroke-width:2px;
+    class I error;
+
+graph TD
+    A[Start] --> B[Initialize Parser]
+    B --> C[Create Output File]
+    C --> D[Parse HTML Start Tag]
+    D --> E[Check if inside "galery"]
+    E --> F[Inside Link "a" Tag?]
+    F --> G[Capture Data Inside "a" Tag]
+    G --> H[Write Data to CSV]
+    H --> I[Parse HTML End Tag]
+    I --> J[Is Link Tag Closed?]
+    J --> K[Reset Current Text]
+    K --> L[Check for "ul" End Tag]
+    L --> M[End Parsing]
+
+    classDef startEnd fill:#f9f,stroke:#333,stroke-width:4px;
+    class A,M startEnd;
+    classDef process fill:#bbf,stroke:#333,stroke-width:2px;
+    class B,C,D,E,F,G,H,I,J,K,L process;
+
+
+graph TD
+    A[Start] --> B[Load JSON File]
+    B --> C[Check for "data" Key]
+    C --> D{Is "data" Key Present?}
+    D -->|No| E[Raise KeyError]
+    D -->|Yes| F[Filter Data Columns]
+    F --> G[Create New Data Structure]
+    G --> H[Save Filtered Data to File]
+    H --> I[End]
+
+    classDef startEnd fill:#f9f,stroke:#333,stroke-width:4px;
+    class A,I startEnd;
+    classDef process fill:#bbf,stroke:#333,stroke-width:2px;
+    class B,C,D,F,G,H process;
+
+
+graph TD
+    A[Start] --> B[Load Data (Jobseeker, Presidency, Population)]
+    B --> C[Extract Unique Periods & Categories]
+    C --> D[Create Directory for Each President]
+    D --> E[Loop Through Presidents and Mandates]
+    E --> F{Is the Mandate "In Progress"?}
+    F -->|No| G[Clean Data for Historical Periods]
+    F -->|Yes| H[Clean Data for Current Period]
+    G --> I[Save Data by Category (JSON)]
+    H --> I[Save Data by Category (JSON)]
+    I --> J[Clean Population Data]
+    J --> K[Save Population Data (JSON)]
+    K --> L[End]
+
+    classDef startEnd fill:#f9f,stroke:#333,stroke-width:4px;
+    class A,L startEnd;
+    classDef process fill:#bbf,stroke:#333,stroke-width:2px;
+    class B,C,D,E,F,G,H,I,J,K process;
+
+```
 ## Rapport d'analyse
 
 `Emmanuel Macron`
@@ -63,14 +281,10 @@ Il y a donc une disparité disproportionnelle dans la repartion des offres d'emp
 
 
 
-## Copyright 
-
+## Copyright &copy;
+ Nous déclarons sur l’honneur que le code fourni a été produit par nous, master et contributeurs du depôt git ci contre 
+https://github.com/Magloire07/Projet_python_dataViz_Kokou_Ounissa.git
 .
 
-# génération des dépendances 
-`$ python -m pip freeze > requirements.txt`
-# installation des dépenddances 
-`$ python -m pip install -r requirements.txt`
-# lancement du projet 
-`$ python3 main.py`
+
 
