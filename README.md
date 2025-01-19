@@ -69,7 +69,7 @@ Il y a donc une disparité disproportionnelle dans la repartion des offres d'emp
 - l'ajout d'un graphe se fait dans le fichier `src/pages/graph.py` en rajoutant à la methode `graph_page()` le composant du graphe 
 - Pour ajouter une page il faut rajouter le fichier .py   au  repertoire `src/pages` puis l'importé dans le `main.py` sans oublié de rajouter le chemin de routage  à la structure conditionnelle  écrite a ce effet. Le fichier `src/components/navbar.py permet d'ajouter la page dans une liste non ordonnée.
 
-
+## main.py
 ```mermaid
 graph TD
     App_Layout --> url[url]
@@ -78,6 +78,8 @@ graph TD
     App_Layout --> footer[footer]
     url[url] -->|Callback| page-content[page-content]
 ```
+## regions.py
+
 ```mermaid
 graph TD
     A[cleanDataByDept] -->|Reads CSV| B[Chômage Data]
@@ -114,6 +116,9 @@ graph TD
     class M1,M2,M3,M4 Mandats;
 
 ```
+
+## home.py
+
 ```mermaid
 graph TD
     A[home_page] --> B[Main Container]
@@ -130,6 +135,8 @@ graph TD
     classDef description fill:#ccf,stroke:#333,stroke-width:2px;
     class E description;
 ```
+## graph.py
+
 ```mermaid
 flowchart TD
     A[Graph Page Layout] --> B[Options Section]
@@ -179,6 +186,7 @@ flowchart TD
     style R fill:#ffcc99,stroke:#333,stroke-width:2px
 
 ```
+## geoLoc.py
 ```mermaid
 flowchart TD
     A[Map Page] --> B[Create DataFrame]
@@ -197,6 +205,7 @@ flowchart TD
     style F fill:#e6f7ff,stroke:#333,stroke-width:2px
     style G fill:#e6f7ff,stroke:#333,stroke-width:2px
 ```
+## description.py
 ```mermaid
 flowchart TD
     A[Description Page] --> B[Read Text File]
@@ -213,6 +222,7 @@ flowchart TD
     style E fill:#e6f7ff,stroke:#333,stroke-width:2px
     style F fill:#e6f7ff,stroke:#333,stroke-width:2px
 ```
+## get_data.py
 ```mermaid
 graph TD
     A[Start] --> B[Download CSV Files]
@@ -232,6 +242,7 @@ graph TD
     classDef error fill:#fbb,stroke:#333,stroke-width:2px;
     class I error;
 ```
+## presidenceParser.py
 ```mermaid
 graph TD
     A[Start] --> B[Initialize Parser]
@@ -252,6 +263,7 @@ graph TD
     classDef process fill:#bbf,stroke:#333,stroke-width:2px;
     class B,C,D,E,F,G,H,I,J,K,L process;
 ```
+## communes.py
 ```mermaid
 graph TD
     A[Start] --> B[Load JSON File]
@@ -268,6 +280,7 @@ graph TD
     classDef process fill:#bbf,stroke:#333,stroke-width:2px;
     class B,C,D,F,G,H process;
 ```
+## clean_data.py
 ```mermaid
 graph TD
     A[Start] --> B[Load Data Jobseeker, Presidency, Population]
