@@ -1,7 +1,7 @@
 <b>Kokou et Ounissa </b> <br>
 
 # Infos sur de projet Mdpol&Emploi
-<b> Bienvenue sur la page de notre projet concernant une étude des taux de chômages et DU nombre de demandeurs d'emploi en France en fonction du temps et des régions allignée sur les mandats présidentiels allant de Jacques Chirac à Emmanuel Marcon. </b>
+<b> Bienvenue sur la page de notre projet concernant une étude des taux de chômages et du nombre de demandeurs d'emploi en France en fonction du temps et des régions allignée sur les mandats présidentiels allant de Jacques Chirac à Emmanuel Marcon. </b> <br>
 ![MDPOL&EMPLOI](/assets/dashboard.png)
 
 
