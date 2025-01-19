@@ -56,7 +56,8 @@ graph TD
     App_Layout --> page-content[page-content]
     App_Layout --> footer[footer]
     url[url] -->|Callback| page-content[page-content]
-
+```
+```mermaid
 graph TD
     A[cleanDataByDept] -->|Reads CSV| B[Chômage Data]
     A --> C[Extracts Year and Quarter]
@@ -91,7 +92,8 @@ graph TD
     classDef Mandats fill:#f9f,stroke:#333,stroke-width:4px;
     class M1,M2,M3,M4 Mandats;
 
-
+```
+```mermaid
 graph TD
     A[home_page] --> B[Main Container]
     B --> C[Bienvenue Div]
@@ -106,8 +108,8 @@ graph TD
     
     classDef description fill:#ccf,stroke:#333,stroke-width:2px;
     class E description;
-
-
+```
+```mermaid
 flowchart TD
     A[Graph Page Layout] --> B[Options Section]
     A --> C[Graphs Section]
@@ -155,7 +157,8 @@ flowchart TD
     style Q fill:#ffcc99,stroke:#333,stroke-width:2px
     style R fill:#ffcc99,stroke:#333,stroke-width:2px
 
-
+```
+```mermaid
 flowchart TD
     A[Map Page] --> B[Create DataFrame]
     B --> C[Create Scatter Mapbox]
@@ -172,7 +175,8 @@ flowchart TD
     style E fill:#ffcc00,stroke:#333,stroke-width:2px
     style F fill:#e6f7ff,stroke:#333,stroke-width:2px
     style G fill:#e6f7ff,stroke:#333,stroke-width:2px
-
+```
+```mermaid
 flowchart TD
     A[Description Page] --> B[Read Text File]
     B --> C[Store Lines in List]
@@ -187,7 +191,8 @@ flowchart TD
     style D fill:#ffcc99,stroke:#333,stroke-width:2px
     style E fill:#e6f7ff,stroke:#333,stroke-width:2px
     style F fill:#e6f7ff,stroke:#333,stroke-width:2px
-
+```
+```mermaid
 graph TD
     A[Start] --> B[Download CSV Files]
     B --> C[Fetch Data from URLs]
@@ -205,7 +210,8 @@ graph TD
     class B,C,D,E,F,G,H process;
     classDef error fill:#fbb,stroke:#333,stroke-width:2px;
     class I error;
-
+```
+```mermaid
 graph TD
     A[Start] --> B[Initialize Parser]
     B --> C[Create Output File]
@@ -224,8 +230,8 @@ graph TD
     class A,M startEnd;
     classDef process fill:#bbf,stroke:#333,stroke-width:2px;
     class B,C,D,E,F,G,H,I,J,K,L process;
-
-
+```
+```mermaid
 graph TD
     A[Start] --> B[Load JSON File]
     B --> C[Check for "data" Key]
@@ -240,8 +246,8 @@ graph TD
     class A,I startEnd;
     classDef process fill:#bbf,stroke:#333,stroke-width:2px;
     class B,C,D,F,G,H process;
-
-
+```
+```mermaid
 graph TD
     A[Start] --> B[Load Data (Jobseeker, Presidency, Population)]
     B --> C[Extract Unique Periods & Categories]
