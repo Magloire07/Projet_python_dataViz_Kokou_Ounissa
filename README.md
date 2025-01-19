@@ -10,7 +10,7 @@
 ### installation des dépenddances 
 `$ python -m pip install -r requirements.txt`
 ###  Premier lancement du projet
-Si le repertoires  `data/cleaned` est vide alors assurez-vous de suprimer s'il existe, le fichier `data_already_downloaded.flag` avant le lancer le projet
+Si le repertoires  `data/cleaned` est vide alors assurez-vous de suprimer s'il existe, le fichier `data_already_downloaded.flag` avant de lancer le projet
 ### lancement du projet (`python>=3.0`)
 `$ python main.py`
 
