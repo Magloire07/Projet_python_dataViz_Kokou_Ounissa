@@ -86,6 +86,39 @@ def graph_page():
         ],className="type_cat"),
 
         ],className="graphe_frame"),
+         
+        
+        # Troisiemme groupe  pour le troisiemme graphique 
+        html.Div([
+        dcc.Graph(id="dynamic-graph3"),
+        html.Div([
+            dcc.Dropdown(
+            id="graph3-selector",
+            options=[
+                {"label": "Histogramme", "value": "histogram"},
+                {"label": "Courbe", "value": "line"}
+            ],
+            value="line",
+            clearable=False,
+            style={"width": "150px"}
+        ),
+            dcc.RadioItems(
+            id='radio-selector3',
+            options=[
+                {'label': 'A', 'value': 'A'},
+                {'label': 'B', 'value': 'B'},
+                {'label': 'ABC', 'value': 'ABC'},
+                {'label': 'C', 'value': 'C'},
+                {'label': 'D', 'value': 'D'},
+                {'label': 'E', 'value': 'E'}
+            ],
+            value='E',
+            inline=True,
+            style={"text-align": "center"}
+        )
+        ],className="type_cat"),
+        ],className="graphe_frame"),
+                 
 
         # Deuxième groupe pour le deuxième graphique
         html.Div([
@@ -97,7 +130,7 @@ def graph_page():
                 {"label": "Histogramme", "value": "histogram"},
                 {"label": "Courbe", "value": "line"}
             ],
-            value="line",
+            value="histogram",
             clearable=False,
             style={"width": "150px"}
         ),
@@ -118,40 +151,7 @@ def graph_page():
         ],className="type_cat"),
 
         ],className="graphe_frame"),
-         
-                 # Troisième groupe pour le troisième graphique
-        
-        # Troisiemme groupe  pour le troisiemme graphique 
-        html.Div([
-        dcc.Graph(id="dynamic-graph3"),
-        html.Div([
-            dcc.Dropdown(
-            id="graph3-selector",
-            options=[
-                {"label": "Histogramme", "value": "histogram"},
-                {"label": "Courbe", "value": "line"}
-            ],
-            value="histogram",
-            clearable=False,
-            style={"width": "150px"}
-        ),
-            dcc.RadioItems(
-            id='radio-selector3',
-            options=[
-                {'label': 'A', 'value': 'A'},
-                {'label': 'B', 'value': 'B'},
-                {'label': 'ABC', 'value': 'ABC'},
-                {'label': 'C', 'value': 'C'},
-                {'label': 'D', 'value': 'D'},
-                {'label': 'E', 'value': 'E'}
-            ],
-            value='A',
-            inline=True,
-            style={"text-align": "center"}
-        )
-        ],className="type_cat"),
-        ],className="graphe_frame"),
-                 
+
         # Quatriemme groupe pour le quatriemme graphique 
         html.Div([
         dcc.Graph(id="dynamic-graph4"),
