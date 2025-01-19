@@ -45,9 +45,30 @@ Si le repertoires  `data/cleaned` est vide alors assurez-vous de suprimer s'il e
 
 
 
+
+
+## Rapport d'analyse
+
+`Emmanuel Macron`
+En cinq ans le chômage est passé de 9,5% de la population active à 7,4%, avec un mandat toujours encours
+
+`Nicolas Sarkozy`
+Confronté à la crise des subprimes, le mandat de Nicolas Sarkozy a vu le chômage passer de 8,1 à 9,5% de la population active
+
+`François Hollande`
+Le mandat François Hollande n'aura pas donné lieu à une baisse spectaculaire
+
+`Jacques Chirac`
+La France connaît au début du quinquennat Chirac un taux de chômage supérieur à 10%. La baisse entamée en 1998 se poursuit durant la cohabitation et passe sous la barre des 8% en 2001
+
+On observe d'après le diagramme en anneaux que la taux de chomeurs n'est pas proportionnel  à la densité de la population 
+Il y a donc une disparité disproportionnelle dans la repartion des offres d'emploi.
+
+
 ## Developer Guide
 - l'ajout d'un graphe se fait dans le fichier `src/pages/graph.py` en rajoutant à la methode `graph_page()` le composant du graphe 
 - Pour ajouter une page il faut rajouter le fichier .py   au  repertoire `src/pages` puis l'importé dans le `main.py` sans oublié de rajouter le chemin de routage  à la structure conditionnelle  écrite a ce effet. Le fichier `src/components/navbar.py permet d'ajouter la page dans une liste non ordonnée.
+
 
 ```mermaid
 graph TD
@@ -268,25 +289,6 @@ graph TD
     class B,C,D,E,F,G,H,I,J,K process;
 
 ```
-## Rapport d'analyse
-
-`Emmanuel Macron`
-En cinq ans le chômage est passé de 9,5% de la population active à 7,4%, avec un mandat toujours encours
-
-`Nicolas Sarkozy`
-Confronté à la crise des subprimes, le mandat de Nicolas Sarkozy a vu le chômage passer de 8,1 à 9,5% de la population active
-
-`François Hollande`
-Le mandat François Hollande n'aura pas donné lieu à une baisse spectaculaire
-
-`Jacques Chirac`
-La France connaît au début du quinquennat Chirac un taux de chômage supérieur à 10%. La baisse entamée en 1998 se poursuit durant la cohabitation et passe sous la barre des 8% en 2001
-
-On observe d'après le diagramme en anneaux que la taux de chomeurs n'est pas proportionnel  à la densité de la population 
-Il y a donc une disparité disproportionnelle dans la repartion des offres d'emploi.
-
-
-
 ## Copyright &copy;
  Nous déclarons sur l’honneur que le code fourni a été produit par nous, master et contributeurs du depôt git ci contre 
 https://github.com/Magloire07/Projet_python_dataViz_Kokou_Ounissa.git
