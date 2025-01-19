@@ -303,7 +303,7 @@ graph TD
 
 ```
 ## Copyright &copy;
- Nous déclarons sur l’honneur que le code fourni a été produit par nous, master et contributeurs du depôt git ci contre 
+ Nous déclarons sur l’honneur que le code fourni a été produit par nous, master et contributeur du depôt git ci-contre 
 https://github.com/Magloire07/Projet_python_dataViz_Kokou_Ounissa.git
 .
 
