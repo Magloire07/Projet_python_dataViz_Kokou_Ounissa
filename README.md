@@ -8,7 +8,7 @@
 ### installation des dépenddances 
 `$ python -m pip install -r requirements.txt`
 ###  Premier lancement du projet
-Si le repertoires  `data/cleanded` est vide alors assurez-vous de suprimer s'il existe, le fichier `data_already_downloaded.flag` avant le lancer le projet
+Si le repertoires  `data/cleaned` est vide alors assurez-vous de suprimer s'il existe, le fichier `data_already_downloaded.flag` avant le lancer le projet
 ### lancement du projet (`python>=3.0`)
 `$ python main.py`
 
@@ -45,10 +45,31 @@ Si le repertoires  `data/cleanded` est vide alors assurez-vous de suprimer s'il 
 
 
 
+
+
+## Rapport d'analyse
+
+`Emmanuel Macron`
+En cinq ans le chômage est passé de 9,5% de la population active à 7,4%, avec un mandat toujours encours
+
+`Nicolas Sarkozy`
+Confronté à la crise des subprimes, le mandat de Nicolas Sarkozy a vu le chômage passer de 8,1 à 9,5% de la population active
+
+`François Hollande`
+Le mandat François Hollande n'aura pas donné lieu à une baisse spectaculaire
+
+`Jacques Chirac`
+La France connaît au début du quinquennat Chirac un taux de chômage supérieur à 10%. La baisse entamée en 1998 se poursuit durant la cohabitation et passe sous la barre des 8% en 2001
+
+On observe d'après le diagramme en anneaux que la taux de chomeurs n'est pas proportionnel  à la densité de la population 
+Il y a donc une disparité disproportionnelle dans la repartion des offres d'emploi.
+
+
 ## Developer Guide
 - l'ajout d'un graphe se fait dans le fichier `src/pages/graph.py` en rajoutant à la methode `graph_page()` le composant du graphe 
 - Pour ajouter une page il faut rajouter le fichier .py   au  repertoire `src/pages` puis l'importé dans le `main.py` sans oublié de rajouter le chemin de routage  à la structure conditionnelle  écrite a ce effet. Le fichier `src/components/navbar.py permet d'ajouter la page dans une liste non ordonnée.
 
+## main.py
 ```mermaid
 graph TD
     App_Layout --> url[url]
@@ -56,7 +77,10 @@ graph TD
     App_Layout --> page-content[page-content]
     App_Layout --> footer[footer]
     url[url] -->|Callback| page-content[page-content]
+```
+## regions.py
 
+```mermaid
 graph TD
     A[cleanDataByDept] -->|Reads CSV| B[Chômage Data]
     A --> C[Extracts Year and Quarter]
@@ -91,7 +115,11 @@ graph TD
     classDef Mandats fill:#f9f,stroke:#333,stroke-width:4px;
     class M1,M2,M3,M4 Mandats;
 
+```
 
+## home.py
+
+```mermaid
 graph TD
     A[home_page] --> B[Main Container]
     B --> C[Bienvenue Div]
@@ -106,8 +134,10 @@ graph TD
     
     classDef description fill:#ccf,stroke:#333,stroke-width:2px;
     class E description;
+```
+## graph.py
 
-
+```mermaid
 flowchart TD
     A[Graph Page Layout] --> B[Options Section]
     A --> C[Graphs Section]
@@ -155,14 +185,16 @@ flowchart TD
     style Q fill:#ffcc99,stroke:#333,stroke-width:2px
     style R fill:#ffcc99,stroke:#333,stroke-width:2px
 
-
+```
+## geoLoc.py
+```mermaid
 flowchart TD
     A[Map Page] --> B[Create DataFrame]
     B --> C[Create Scatter Mapbox]
     C --> D[Update Map Style]
     D --> E[Return HTML Layout]
     
-    A --> F[Title: "Localisation spatiale"]
+    A --> F[Title: Localisation spatiale]
     A --> G[Graph: Geolocalization Map]
 
     style A fill:#f9f,stroke:#333,stroke-width:4px
@@ -172,13 +204,15 @@ flowchart TD
     style E fill:#ffcc00,stroke:#333,stroke-width:2px
     style F fill:#e6f7ff,stroke:#333,stroke-width:2px
     style G fill:#e6f7ff,stroke:#333,stroke-width:2px
-
+```
+## description.py
+```mermaid
 flowchart TD
     A[Description Page] --> B[Read Text File]
     B --> C[Store Lines in List]
     C --> D[Create HTML Layout]
     
-    D --> E[Title: "DESCRIPTION DES CATÉGORIES"]
+    D --> E[Title: DESCRIPTION DES CATÉGORIES]
     D --> F[Paragraph: File Lines]
 
     style A fill:#f9f,stroke:#333,stroke-width:4px
@@ -187,7 +221,9 @@ flowchart TD
     style D fill:#ffcc99,stroke:#333,stroke-width:2px
     style E fill:#e6f7ff,stroke:#333,stroke-width:2px
     style F fill:#e6f7ff,stroke:#333,stroke-width:2px
-
+```
+## get_data.py
+```mermaid
 graph TD
     A[Start] --> B[Download CSV Files]
     B --> C[Fetch Data from URLs]
@@ -196,7 +232,7 @@ graph TD
     E --> F[Presidency Data Fetch]
     F --> G[Scrape French Presidents Data]
     G --> H[Parse HTML with PresidencyParser]
-    H --> I[Handle Errors (if any)]
+    H --> I[Handle Errors if any]
     I --> J[End]
 
     classDef startEnd fill:#f9f,stroke:#333,stroke-width:4px;
@@ -205,31 +241,34 @@ graph TD
     class B,C,D,E,F,G,H process;
     classDef error fill:#fbb,stroke:#333,stroke-width:2px;
     class I error;
-
+```
+## presidenceParser.py
+```mermaid
 graph TD
     A[Start] --> B[Initialize Parser]
     B --> C[Create Output File]
     C --> D[Parse HTML Start Tag]
-    D --> E[Check if inside "galery"]
-    E --> F[Inside Link "a" Tag?]
-    F --> G[Capture Data Inside "a" Tag]
+    D --> E[Check if inside galery]
+    E --> F[Inside Link a Tag?]
+    F --> G[Capture Data Inside a Tag]
     G --> H[Write Data to CSV]
     H --> I[Parse HTML End Tag]
     I --> J[Is Link Tag Closed?]
     J --> K[Reset Current Text]
-    K --> L[Check for "ul" End Tag]
+    K --> L[Check for ul End Tag]
     L --> M[End Parsing]
 
     classDef startEnd fill:#f9f,stroke:#333,stroke-width:4px;
     class A,M startEnd;
     classDef process fill:#bbf,stroke:#333,stroke-width:2px;
     class B,C,D,E,F,G,H,I,J,K,L process;
-
-
+```
+## communes.py
+```mermaid
 graph TD
     A[Start] --> B[Load JSON File]
-    B --> C[Check for "data" Key]
-    C --> D{Is "data" Key Present?}
+    B --> C[Check for data Key]
+    C --> D{Is data Key Present?}
     D -->|No| E[Raise KeyError]
     D -->|Yes| F[Filter Data Columns]
     F --> G[Create New Data Structure]
@@ -240,20 +279,21 @@ graph TD
     class A,I startEnd;
     classDef process fill:#bbf,stroke:#333,stroke-width:2px;
     class B,C,D,F,G,H process;
-
-
+```
+## clean_data.py
+```mermaid
 graph TD
-    A[Start] --> B[Load Data (Jobseeker, Presidency, Population)]
+    A[Start] --> B[Load Data Jobseeker, Presidency, Population]
     B --> C[Extract Unique Periods & Categories]
     C --> D[Create Directory for Each President]
     D --> E[Loop Through Presidents and Mandates]
-    E --> F{Is the Mandate "In Progress"?}
+    E --> F{Is the Mandate In Progress?}
     F -->|No| G[Clean Data for Historical Periods]
     F -->|Yes| H[Clean Data for Current Period]
-    G --> I[Save Data by Category (JSON)]
-    H --> I[Save Data by Category (JSON)]
+    G --> I[Save Data by Category JSON]
+    H --> I[Save Data by Category JSON]
     I --> J[Clean Population Data]
-    J --> K[Save Population Data (JSON)]
+    J --> K[Save Population Data JSON]
     K --> L[End]
 
     classDef startEnd fill:#f9f,stroke:#333,stroke-width:4px;
@@ -262,27 +302,8 @@ graph TD
     class B,C,D,E,F,G,H,I,J,K process;
 
 ```
-## Rapport d'analyse
-
-`Emmanuel Macron`
-En cinq ans le chômage est passé de 9,5% de la population active à 7,4%, avec un mandat toujours encours
-
-`Nicolas Sarkozy`
-Confronté à la crise des subprimes, le mandat de Nicolas Sarkozy a vu le chômage passer de 8,1 à 9,5% de la population active
-
-`François Hollande`
-Le mandat François Hollande n'aura pas donné lieu à une baisse spectaculaire
-
-`Jacques Chirac`
-La France connaît au début du quinquennat Chirac un taux de chômage supérieur à 10%. La baisse entamée en 1998 se poursuit durant la cohabitation et passe sous la barre des 8% en 2001
-
-On observe d'après le diagramme en anneaux que la taux de chomeurs n'est pas proportionnel  à la densité de la population 
-Il y a donc une disparité disproportionnelle dans la repartion des offres d'emploi.
-
-
-
 ## Copyright &copy;
- Nous déclarons sur l’honneur que le code fourni a été produit par nous, master et contributeurs du depôt git ci contre 
+ Nous déclarons sur l’honneur que le code fourni a été produit par nous, master et contributeur du depôt git ci-contre 
 https://github.com/Magloire07/Projet_python_dataViz_Kokou_Ounissa.git
 .
 
