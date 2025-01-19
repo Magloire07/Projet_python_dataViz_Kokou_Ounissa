@@ -4,6 +4,7 @@ import json
 import plotly.express as px
 from dash import dcc, html, Input, Output, Dash
 
+# Fonction pour nettoyer les données par département et sauvegarder en JSON
 def cleanDataByDept():
     # Charger les données CSV
     file_path = 'data/raw/labouref-france-departement-quarter-jobseeker.csv'
@@ -30,12 +31,13 @@ def cleanDataByDept():
             (chomage_data['Nom Officiel Département'] == departement) &
             (chomage_data['Catégorie'] == 'A') &
             (chomage_data['Période (Trimestre)'].str[5:7] == 'T4')]
-        
         data_json = []
         for _, row in data_filtered.iterrows():
             data_json.append({
                 "periodes": row['Période (Trimestre)'],
                 "nombre_demandeur_emploi": row['Nb moyen demandeur emploi'],
+                "nombre_demandeur_emploi_homme": row['Nb moyen demandeur emploi Homme'],
+                "nombre_demandeur_emploi_femme": row['Nb moyen demandeur emploi Femme'],
                 "code_departement": row['Code Officiel Département'],
                 "nom_departement": row['Nom Officiel Département'],
                 "annee": row['Année']
@@ -47,24 +49,32 @@ def cleanDataByDept():
             json.dump(data_json, json_file, indent=4)
         print(f"Fichier généré : {json_filepath}")
 
-        # ecrit de fichier de couple code département et taux chomage 
+    # Créer le fichier des départements et taux de chômage
     tauxByDept()
 
+def writeDeptName(departements):
+    print(f"Création:   DeptsName.txt ")
+    with open("data/cleaned/DeptsName.txt", "a", encoding="utf-8") as file:
+        for nom in departements:
+            file.write(nom + "\n")
 
-def get_non_empty_dirs(directory):
-    non_empty_dirs = []
-    try:
-        if not os.path.exists(directory):
-            raise FileNotFoundError(f"Le répertoire '{directory}' est introuvable.")
-        for subdir in os.listdir(directory):
-            full_path = os.path.join(directory, subdir)
-            if os.path.isdir(full_path) and os.listdir(full_path):
-                non_empty_dirs.append(subdir)
-    except Exception as e:
-        print(f"Une erreur est survenue : {e}")
-    return non_empty_dirs
+def tauxByDept():
+    listDept = []
+    listTaux = []
+    with open("data/cleaned/DeptsName.txt", "r") as fichier:
+        for ligne in fichier:
+            listDept.append(ligne.strip())
+    for dept in listDept:
+        with open(f"data/cleaned/{dept}.json", "r") as f:
+            dept_data = json.load(f)        
+            somme = sum(demandeur_par_annee["nombre_demandeur_emploi"] for demandeur_par_annee in dept_data)
+            listTaux.append(somme)
+    dico_by_cat = {"code_dept": listDept, "nombre_chomeurs": listTaux}
+    print(f"Création:   coupleCodeDeptEtTauxChomage.json ")
+    with open(f"data/cleaned/coupleCodeDeptEtTauxChomage.json", "w") as file:
+        json.dump(dico_by_cat, file, indent=4, ensure_ascii=False)
 
-# Dictionnaire des années de mandats
+# Dictionnaire des mandats et des couleurs
 mandats = {
     "Jacques Chirac": (1995, 2007),
     "Nicolas Sarkozy": (2007, 2012),
@@ -72,7 +82,6 @@ mandats = {
     "Emmanuel Macron": (2017, 2025)
 }
 
-# Dictionnaire des couleurs par mandat présidentiel
 mandat_colors = {
     "Jacques Chirac": "red",      
     "Nicolas Sarkozy": "orange",  
@@ -92,7 +101,7 @@ app = Dash(__name__)
 
 # Page des régions
 def regions_page():
-        # Charger les données CSV
+    # Charger les données CSV
     file_path = 'data/raw/labouref-france-departement-quarter-jobseeker.csv'
     if not os.path.exists(file_path):
         raise FileNotFoundError(f"Le fichier {file_path} est introuvable.")
@@ -132,16 +141,38 @@ def register_callbacks2(app):
     def update_graph(departement, graph_type):
         # Charger les données filtrées pour le département
         data_path = f"data/cleaned/{departement}.json"
-        data = pd.read_json(data_path)
-        
-        # Agréger les données par année en calculant la moyenne des demandeurs d'emploi
-        data_aggregated = data.groupby('annee').agg({'nombre_demandeur_emploi': 'mean'}).reset_index()
+        print(f"Chargement des données à partir de : {data_path}")  # Debug
+        try:
+            data = pd.read_json(data_path)
+            print(f"Données chargées pour le département {departement}:")  # Debug
+            print(data.head())  # Debug : Affiche les premières lignes des données chargées
+        except Exception as e:
+            print(f"Erreur lors du chargement des données : {e}")
+            return {}
+
+        # Vérifier les colonnes disponibles et ajuster
+        columns_needed = ['nombre_demandeur_emploi', 'nombre_demandeur_emploi_homme', 'nombre_demandeur_emploi_femme']
+        available_columns = [col for col in columns_needed if col in data.columns]
+
+        # Si des colonnes sont manquantes, afficher un message et ne pas continuer avec l'incomplet
+        if not available_columns:
+            print(f"Colonnes manquantes dans les données pour {departement}: {data.columns}")
+            return {}
+
+        # Agréger les données par année
+        data_aggregated = data.groupby('annee').agg({col: 'mean' for col in available_columns}).reset_index()
+
+        # Debug: Vérifiez les données agrégées
+        print(f"Données agrégées pour {departement}:")
+        print(data_aggregated.head())
 
         # Créer un graphique avec les données agrégées
         if graph_type == "bar":
-            fig = px.bar(data_aggregated, x="annee", y="nombre_demandeur_emploi", title=f"Chômage - {departement}", height=400)
+            fig = px.bar(data_aggregated, x="annee", y=available_columns,
+                         title=f"Chômage - {departement}", height=400)
         else:
-            fig = px.line(data_aggregated, x="annee", y="nombre_demandeur_emploi", title=f"Chômage - {departement}", height=400)
+            fig = px.line(data_aggregated, x="annee", y=available_columns,
+                          title=f"Chômage - {departement}", height=400)
 
         # Ajouter les bandes de couleur représentant les mandats présidentiels
         for mandat, (start, end) in mandats.items():
@@ -174,28 +205,8 @@ def register_callbacks2(app):
 
         return fig
 
+register_callbacks2(app)
 
-
-def writeDeptName(departements):
-    print(f"Création:   DeptsName.txt ")
-    with open("data/cleaned/DeptsName.txt", "a", encoding="utf-8") as file:
-        for nom in departements:
-            file.write(nom + "\n")
-
-
-def tauxByDept():
-    listDept=[]
-    listTaux=[]
-    with open("data/cleaned/DeptsName.txt", "r") as fichier:
-        for ligne in fichier:
-            listDept.append(ligne.strip())
-    for dept in listDept:
-        with open(f"data/cleaned/{dept}.json", "r") as f:
-            dept_data = json.load(f)        
-        somme= sum(demandeur_par_annee["nombre_demandeur_emploi"]  for demandeur_par_annee in dept_data)
-        listTaux.append(somme)
-        
-    dico_by_cat= {"code_dept":listDept, "nombre_chomeurs":listTaux }
-    print(f"Création:   coupleCodeDeptEtTauxChomage.json ")
-    with open(f"data/cleaned/coupleCodeDeptEtTauxChomage.json","w") as file:
-        json.dump(dico_by_cat, file, indent=4, ensure_ascii=False)
+# Démarrer l'application Dash
+if __name__ == '__main__':
+    app.run_server(debug=True)

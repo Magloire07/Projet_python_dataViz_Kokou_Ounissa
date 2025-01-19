@@ -1,5 +1,7 @@
+<b>Kokou et Ounissa </b> <br>
 
 # Infos sur de projet Mdpol&Emploi
+<b> Bienvenue sur la page de notre projet concernant une étude des taux de chômages et DU nombre de demandeurs d'emploi en France en fonction du temps et des régions allignée sur les mandats présidentiels allant de Jacques Chirac à Emmanuel Marcon. </b>
 ![MDPOL&EMPLOI](/assets/dashboard.png)
 
 
@@ -46,28 +48,40 @@ Si le repertoires  `data/cleaned` est vide alors assurez-vous de suprimer s'il e
 
 
 
-
 ## Rapport d'analyse
-
+### Analyse selon les mandats présidentiels :
 `Emmanuel Macron`
-En cinq ans le chômage est passé de 9,5% de la population active à 7,4%, avec un mandat toujours encours
+En cinq ans le chômage est passé de 9,5% de la population active à 7,4%, avec un mandat toujours en cours.
 
 `Nicolas Sarkozy`
-Confronté à la crise des subprimes, le mandat de Nicolas Sarkozy a vu le chômage passer de 8,1 à 9,5% de la population active
+Confronté à la crise des subprimes, le mandat de Nicolas Sarkozy a vu le chômage passer de 8,1 à 9,5% de la population active.
 
 `François Hollande`
-Le mandat François Hollande n'aura pas donné lieu à une baisse spectaculaire
+Le mandat François Hollande n'aura pas donné lieu à une baisse spectaculaire du taux de chômage.
 
 `Jacques Chirac`
-La France connaît au début du quinquennat Chirac un taux de chômage supérieur à 10%. La baisse entamée en 1998 se poursuit durant la cohabitation et passe sous la barre des 8% en 2001
+La France connaît au début du quinquennat Chirac un taux de chômage supérieur à 10%. La baisse entamée en 1998 se poursuit durant la cohabitation et passe sous la barre des 8% en 2001.
 
-On observe d'après le diagramme en anneaux que la taux de chomeurs n'est pas proportionnel  à la densité de la population 
+###  Analyse selon les diagrammes en anneaux :
+On observe d'après le diagramme en anneaux que la taux de chomeurs n'est pas proportionnel à la densité de la population 
 Il y a donc une disparité disproportionnelle dans la repartion des offres d'emploi.
 
+###  Analyse selon les régions :
+
+D'après les différentes courbes des évolutions dans les différents départements de France, on observe que :
+* L'évolution du taux de chômage dans les régions suit les tendances nationales
+* Quasi toutes les courbes suivent le même cheminement : 
+* *  Un <b>pic lors de l'arrivée au pouvoir de Jacques Chirac </b>, 
+* *  Une <b>baisse significative </b> du nombre de demandeurs d'emploi durant son premier mandat,
+* *  Un <b> leger regain </b>au milieu de son second mandat, 
+* *  Une <b> stabilisation au plus bas niveau </b> entre la fin du mandat de Chirac et le début de celui de Sarkozy,
+* *  Une <b> augmentation stable </b> depuis, atteignant <b> un pic en 2015 sous Hollande, ou en 2020 sous Macron </b> .  <br>
+
+Pour résumer, la France connait une tendance globale à la hausse du chômage. Cette hausse est surtout très sensible aux crises économiques modiales (2008, Covid-19).
 
 ## Developer Guide
 - l'ajout d'un graphe se fait dans le fichier `src/pages/graph.py` en rajoutant à la methode `graph_page()` le composant du graphe 
-- Pour ajouter une page il faut rajouter le fichier .py   au  repertoire `src/pages` puis l'importé dans le `main.py` sans oublié de rajouter le chemin de routage  à la structure conditionnelle  écrite a ce effet. Le fichier `src/components/navbar.py permet d'ajouter la page dans une liste non ordonnée.
+- Pour ajouter une page il faut rajouter le fichier .py   au  repertoire `src/pages` puis l'importer dans le `main.py` sans oublier de rajouter le chemin de routage à la structure conditionnelle écrite à cet effet. Le fichier `src/components/navbar.py permet d'ajouter la page dans une liste non ordonnée.
 
 ## main.py
 ```mermaid
@@ -302,8 +316,8 @@ graph TD
     class B,C,D,E,F,G,H,I,J,K process;
 
 ```
-## Copyright &copy;
- Nous déclarons sur l’honneur que le code fourni a été produit par nous, master et contributeur du depôt git ci-contre 
+## Copyright &copy; 
+ Nous déclarons sur l’honneur que le code fourni a été produit par nous, masters et contributeurs du depôt git ci-contre 
 https://github.com/Magloire07/Projet_python_dataViz_Kokou_Ounissa.git
 .
 
